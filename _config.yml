@@ -46,7 +46,7 @@ google_analytics: "G-91Z72YNJZ1"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/newprofile.jpg
+about_profile_image: images/IMG_0407
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Chengcheng Dai and I am a graduate at Geology department at NWU. I recently finished my Undergraduate thesis with Prof Gang Chen at NWU. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.
 
@@ -318,7 +318,7 @@ content:
 
       Look at this cool image I took along the Dalton Highway in Brooks  Range, Alaska.
 
-      ![Alaska](./images/alaska.JPG "Dalton Highway")
+      ![Alaska](./images/IMG_0408 "Beautiful Roe")
 
 # Footer
 footer_show_references: true
