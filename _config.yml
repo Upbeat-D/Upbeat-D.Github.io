@@ -6,111 +6,319 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Chengcheng Dai
-title: Senior Network System Administrator
-email: daicc@stumail.nwu.edu.cn
-website: https://upbeat-d.github.io
+name: Rui Cheng
+title: Postdoc @MIT
+email: rccheng@mit.edu
+website: https://ruillercoaster.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: Rui_Cheng_
+github_username:  ruillercoaster
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: 
+# linkedin_username: 
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# youtube_username: globalmtb
+# googleplus_username: citations?user=QRiL_T8AAAAJ&hl=en
+# orcid_username: 
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: googlescholar
+  icon: fab fa-google
+  url: https://scholar.google.com/citations?user=QRiL_T8AAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
+gtm: "GTM-N896GV2"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "G-91Z72YNJZ1"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/newprofile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Rui and I am a postdoc at CEE department at MIT. I recently finished my PhD thesis with Prof Christian Frankenberg at Caltech. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Solar-Induced chlorophyll Fluorescence (SIF)</mark>, <mark>canopy reflectance</mark>, and <mark>vegetation phenology</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Appointment 
+    layout: list
     content:
       - layout: left
-        title: Northwest University
-        link: www.nwu.cn
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+        title: Postdoc
+        caption: September, 2022 - present
+        # sub_title: 
+        # quote: >
+        #  
+        description: |+ # this will include new lines to allow paragraphs
+          **Massachusetts Institute of Technology**
 
+          **PIs**: Prof. David Des Marais, Prof. Saurabh Amin, Prof. Dara Entekhabi, and Prof. Charles Harvey
+          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: California Institute of Technology
+        caption: Ph.D. 2023
+        sub_title: 
+        # quote: >
+        #  
+        description: |+ # this will include new lines to allow paragraphs
+          **Major**: Environmental Science and Engineering 
+          
+          **Minor**: Electrical Engineering 
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          **Thesis Advisory Committee**: Christian Frankenberg (Advisor), Tapio Schneider (Chair), Paul O. Wennberg, Anthony Bloom
+
+          **Thesis**: Remotely evaluating the seasonality of gross primary production at high latitudes
+      - layout: left
+        title: Ameriflux 
+        caption: 2017 Summer
+        sub_title: 
+        # quote: >
+        #  
+        description: |+ # this will include new lines to allow paragraphs
+          Flux Course
+
+      - layout: left
+        title: Lehigh University
+        caption: M.S. 2017
+        sub_title: 
+        # quote: >
+        #  
+        description: |+ # this will include new lines to allow paragraphs
+          **Major**: Earth and Environmental Science 
+
+          **Advisor**: Benjamin Felzer
+
+          **Thesis**: The associated effects of temperature and soil moisture on forest carbon fluxes in the contiguous US
+      - layout: left
+        title: Sun Yat-sen University
+        caption: B.S. 2015
+        sub_title: 
+        # quote: >
+        #  
+        description: |+ # this will include new lines to allow paragraphs
+          **Major**: Atmospheric Science
+
+          **Advisor**: Song Yang
+
+          **Thesis**: Characteristics of hot days in China with Central-Pacific El Niño
+
+  - title: Projects & Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Photosynthetic Phenology in an Evergreen Needleleaf Forest in Colorado
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        caption: |+
+          Multi-scale studies on the seasonality of SIF, hyperspectral reflectance, canopy color, and GPP in Niwot Ridge, Colorado. 
+          
+          These papers feature a canopy-level telescope, PhotoSpec (a.k.a. BEYONCE).
+        description: | # this will include new lines to allow paragraphs
+          * **Cheng, R.**, Magney, T.S., Dutta, D., Bowling, D.R., Logan, B.A., Burns, S.P., Blanken, P.D., Grossmann, K., Lopez, S., Richardson, A.D. and Stutz, J., 2020. Decomposing reflectance spectra to track gross primary production in a subalpine evergreen forest. <em>Biogeosciences</em>, 17(18), pp.4523-4544. [https://doi.org/10.5194/bg-17-4523-2020](https://doi.org/10.5194/bg-17-4523-2020)
+
+          * Magney, T.S., Bowling, D.R., Logan, B.A., Grossmann, K., Stutz, J., Blanken, P.D., Burns, S.P., **Cheng, R.**, Garcia, M.A., Kӧhler, P. and Lopez, S., 2019. Mechanistic evidence for tracking the seasonality of photosynthesis with solar-induced fluorescence. <em>Proceedings of the National Academy of Sciences</em>, 116(24), pp.11640-11645. [https://doi.org/10.1073/pnas.1900278116](https://doi.org/10.1073/pnas.1900278116)
+
+          * Seyednasrollah, B., Bowling, D.R., **Cheng, R.**, Logan, B.A., Magney, T.S., Frankenberg, C., Yang, J.C., Young, A.M., Hufkens, K., Arain, M.A. and Black, T.A., 2020. Seasonal variation in the canopy color of temperate evergreen conifer forests. <em>New Phytologist</em>. [https://doi.org/10.1111/nph.17046](https://doi.org/10.1111/nph.17046)
+      
+      - layout: left
+        title: Remotely Estimating Photosynthetic Seasonality in the Arctic
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        caption: |+
+          <em> Opportunities and challenges in evaluating SIF-GPP relationship using SIF and machine learning-based GPP products  </em>
+        description: | # this will include new lines to allow paragraphs
+          * **Cheng, R.**, Magney, T.S., Orcutt, E.L., Pierrat, Z., Köhler, P., Bowling, D.R., Bret-Harte, M.S., Euskirchen, E.S., Jung, M., Kobayashi, H., Rocha, A.V., Sonnentag, O., Walther, S., Zona, D., Frankenberg, C.  (<em>under minor revision</em>), Evaluating photosynthetic activity across Arctic-Boreal land cover types using solar-induced fluorescence. <em>Environmental Research Letters</em>. 
+      - layout: left
+        title: Radiative Transfer in Mountainous Regions
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        caption: |+
+          Topographic dependence of radiation and vegetation dynamics.
+        description: | # this will include new lines to allow paragraphs
+          * **Cheng, R.**, Köhler, P., & Frankenberg, C. (<em>under minor revision</em>), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>.
+      
+      - layout: left
+        title: Interannaul Variability of Precipitation in SoCal
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        caption: |+
+          ENSO and PDO explain 20% of the interannual variability of total precipitation and precipitation frequency in SoCal. 
+        description: | # this will include new lines to allow paragraphs
+          * **Cheng, R.**, Novak, L., & Schneider, T., 2021. Predicting the interannual variability of California’s total annual precipitation. <em>Geophysical Research Letters</em>, 48, e2020GL091465. [https://doi.org/10.1029/2020GL091465](https://doi.org/10.1029/2020GL091465)
+      
+      - layout: left
+        title: Droughts and Floods in Ethnographic Reports
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: |+
+        #   ENSO and PDO explain 20% of the interannual variability of total precipitation and precipitation frequency in SoCal. 
+        description: | # this will include new lines to allow paragraphs
+          * Felzer, B.S., Ember, C.R., **Cheng, R.** and Jiang, M., 2020. The Relationships of Extreme Precipitation and Temperature Events with Ethnographic Reports of Droughts and Floods in Nonindustrial Societies. <em>Weather, Climate, and Society</em>, 12(1), pp.135-148. [https://doi.org/10.1175/WCAS-D-19-0045.1](https://doi.org/10.1175/WCAS-D-19-0045.1)
+      - layout: left
+        title: Indoor Navigation
+        # link: github.com/sproogen
+        # link_text: Project Website
+        # additional_links:
+          # - title:  sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: |+
+        #   ENSO and PDO explain 20% of the interannual variability of total precipitation and precipitation frequency in SoCal. 
+        description: | # this will include new lines to allow paragraphs
+          * Zhang, D., Qiu, G., Gao, Y., Fang, X., **Cheng, R.**, Chang, A. and Chan, C.Y., 2014, October. Crowdsourcing based radio map anomalous event detection system for calibration-on-demand. In <em>2014 International Conference on Indoor Positioning and Indoor Navigation (IPIN)</em> (pp. 220-229). IEEE.
+
+  - title: Teaching # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 2021 Spring
+        # link: boringcompany.com
+        # # link_text: boringcompany.com
+        # sub_title: Prof. Bethany Elmann
+        # caption: 2021 Spring
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            GE 157c: Remote Sensing for Environmental and Geological Applications
+
+            Prof. Bethany Elmann, Caltech
+
+            
+      - layout: left
+        title: 2019 Winter
+        # link: boringcompany.com
+        # # link_text: boringcompany.com
+        # sub_title: Prof. Bethany Elmann
+        # caption: 2021 Spring
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            ESE 103: Earth’s Biogeochemical Cycles 
+            
+            Prof. Christian Frankenberg, Caltech
+
+            
+
+      - layout: left
+        title: 2018 Winter
+        # link: boringcompany.com
+        # # link_text: boringcompany.com
+        # sub_title: Prof. Bethany Elmann
+        # caption: 2021 Spring
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            ESE 131a: Physical Oceanography I 
+            
+            Prof. Jörn Callies, Caltech
+
+            
+      
+      - layout: left
+        title: 2018 Fall
+        # link: boringcompany.com
+        # # link_text: boringcompany.com
+        # sub_title: Prof. Bethany Elmann
+        # caption: 2021 Spring
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            ESE 101: Earth’s Atmosphere 
+            
+            Prof. Tapio Schneider, Caltech
+
+      - layout: left
+        title: 2019 - present
+        # link: boringcompany.com
+        # # link_text: boringcompany.com
+        # sub_title: Prof. Bethany Elmann
+        # caption: 2021 Spring
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Data and Coding Instructor at the Carpentries, Caltech
+            
+      - layout: left
+        title: "2016"
+        # link: boringcompany.com
+        # # link_text: boringcompany.com
+        # sub_title: Prof. Bethany Elmann
+        # caption: 2021 Spring
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Certificate of Participation in Teacher Development Program (I+II), Lehigh University
+            
+            
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my research interests, my other interests and hobbies are:
+      - Science Outreach
+      - DEI advocacy on women in STEM 
+      - Roadtrips
+      - Swimming
+      - Yoga
+      - Jogging 
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Look at this cool image I took along the Dalton Highway in Brooks  Range, Alaska.
+
+      ![Alaska](./images/alaska.JPG "Dalton Highway")
 
 # Footer
 footer_show_references: true
