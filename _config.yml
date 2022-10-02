@@ -275,7 +275,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my research interests, my other interests and hobbiy is:
+      Alongside my research interests, my other interest and hobby is:
       - Fucking 
 
       Look at this cool image I took in Xi'an.
