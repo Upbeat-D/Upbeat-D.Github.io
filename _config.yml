@@ -66,7 +66,8 @@ content:
           **Northwest University**
 
           **PIs**: Prof. Chen li-hui
-          
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
       - layout: left
         title: Northwest University
         caption: B.S. 2021
@@ -74,7 +75,7 @@ content:
         # quote: >
         #  
         description: |+ # this will include new lines to allow paragraphs
-          **Major**: Atmospheric Science
+          **Major**: Natural Resources Prospecting Engineering
 
           **Advisor**: Gang Cheng
 
