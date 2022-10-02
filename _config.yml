@@ -67,54 +67,16 @@ content:
 
           **PIs**: Prof. Chen li-hui
           
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
-        title: California Institute of Technology
-        caption: Ph.D. 2023
-        sub_title: 
-        # quote: >
-        #  
-        description: |+ # this will include new lines to allow paragraphs
-          **Major**: Environmental Science and Engineering 
-          
-          **Minor**: Electrical Engineering 
-
-          **Thesis Advisory Committee**: Christian Frankenberg (Advisor), Tapio Schneider (Chair), Paul O. Wennberg, Anthony Bloom
-
-          **Thesis**: Remotely evaluating the seasonality of gross primary production at high latitudes
-      - layout: left
-        title: Ameriflux 
-        caption: 2017 Summer
-        sub_title: 
-        # quote: >
-        #  
-        description: |+ # this will include new lines to allow paragraphs
-          Flux Course
-
-      - layout: left
-        title: Lehigh University
-        caption: M.S. 2017
-        sub_title: 
-        # quote: >
-        #  
-        description: |+ # this will include new lines to allow paragraphs
-          **Major**: Earth and Environmental Science 
-
-          **Advisor**: Benjamin Felzer
-
-          **Thesis**: The associated effects of temperature and soil moisture on forest carbon fluxes in the contiguous US
-      - layout: left
-        title: Sun Yat-sen University
-        caption: B.S. 2015
+        title: Northwest University
+        caption: B.S. 2021
         sub_title: 
         # quote: >
         #  
         description: |+ # this will include new lines to allow paragraphs
           **Major**: Atmospheric Science
 
-          **Advisor**: Song Yang
+          **Advisor**: Gang Cheng
 
           **Thesis**: Characteristics of hot days in China with Central-Pacific El Niño
 
@@ -308,13 +270,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my research interests, my other interests and hobbies are:
-      - Science Outreach
-      - DEI advocacy on women in STEM 
-      - Roadtrips
-      - Swimming
-      - Yoga
-      - Jogging 
+      Alongside my research interests, my other interests and hobbiy is:
+      - Fucking 
 
       Look at this cool image I took in Xi'an.
 
