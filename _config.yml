@@ -6,17 +6,17 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Rui Cheng
-title: Postdoc @MIT
-email: rccheng@mit.edu
-website: https://ruillercoaster.github.io
+name: Chengcheng Dai
+title: Graduate@NWU
+email: daicc@stumail.nwu.edu.cn
+website: https://Upbeat-d.Github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: Rui_Cheng_
-github_username:  ruillercoaster
+twitter_username: Pao Xiaokeng
+github_username:  Pao Xiaokeng
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -31,8 +31,8 @@ github_username:  ruillercoaster
 
 # Additional icon links
 additional_links:
-- title: googlescholar
-  icon: fab fa-google
+- title: Pao Xiaokeng
+  icon: Pao Xiaokeng
   url: https://scholar.google.com/citations?user=QRiL_T8AAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -50,22 +50,22 @@ about_profile_image: images/newprofile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rui and I am a postdoc at CEE department at MIT. I recently finished my PhD thesis with Prof Christian Frankenberg at Caltech. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.
 
-  I am most skilled in: <mark>Solar-Induced chlorophyll Fluorescence (SIF)</mark>, <mark>canopy reflectance</mark>, and <mark>vegetation phenology</mark>
+  I am most skilled in: <mark>Geochemistry(SIF)</mark>, <mark>canopy reflectance</mark>, and <mark>Igneous Rocks</mark>
 
 content:
   - title: Appointment 
     layout: list
     content:
       - layout: left
-        title: Postdoc
-        caption: September, 2022 - present
+        title: Graduate
+        caption: September, 2021 - present
         # sub_title: 
         # quote: >
         #  
         description: |+ # this will include new lines to allow paragraphs
           **Massachusetts Institute of Technology**
 
-          **PIs**: Prof. David Des Marais, Prof. Saurabh Amin, Prof. Dara Entekhabi, and Prof. Charles Harvey
+          **PIs**: Prof. Chen li-hui
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
