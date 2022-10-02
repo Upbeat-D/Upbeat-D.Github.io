@@ -63,9 +63,11 @@ content:
         # quote: >
         #  
         description: |+ # this will include new lines to allow paragraphs
+          **Major**: Natural Resources Prospecting Engineering
+
           **Northwest University**
 
-          **PIs**: Prof. Li-hui Chen
+          **Advisor**: Prof. Li-hui Chen
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
