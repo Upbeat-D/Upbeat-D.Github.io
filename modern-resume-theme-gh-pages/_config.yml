@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
+name: Chengcheng Dai
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: daicc@stumail.nwu.edu.cn
+website: https://upbeat-d.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -76,8 +76,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Northwest University
+        link: www.nwu.cn
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
