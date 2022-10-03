@@ -115,9 +115,9 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **Major**: Natural Resources Prospecting Engineering
 
-          **Advisor**: Gang CHEN
+          **Advisor**: Prof. Gang CHEN
 
-          **Thesis**: -
+          **Thesis**: Silurian-Devonian detrital zircon U-Pb chronology of the Xianghuanggou section of Nanhuashan and its geological tectonic significance
 
   - title: Projects & Publications # Title for the section
     layout: list # Type of content section (list/text)
