@@ -11,7 +11,7 @@ version: 2
 
 name: Chengcheng Dai
 title: Master's Student@NWU
-email: daicc@stumail.nwu.edu.cn
+email: **daicc@stumail.nwu.edu.cn**
 website: https://Upbeat-d.Github.io
 
 # Dark Mode (true/false/never)
@@ -333,10 +333,9 @@ content:
             
 
             Prof. Christian Frankenberg, Caltech
-      
-      
-      
-      
+
+
+
       - layout: left
         title: 2018 Winter
 
@@ -355,62 +354,63 @@ content:
 
       - layout: left
         title: 2018 Fall
-
+    
         # link: boringcompany.com
-
+    
         # # link_text: boringcompany.com
-
+    
         # sub_title: Prof. Bethany Elmann
-
+    
         # caption: 2021 Spring
-
+    
         # quote: >
-
+    
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-
+    
         description: | # this will include new lines to allow paragraphs
             ESE 101: Earth’s Atmosphere 
-            
+
 
             Prof. Tapio Schneider, Caltech
-
+    
       - layout: left
         title: 2019 - present
-
+    
         # link: boringcompany.com
-
+    
         # # link_text: boringcompany.com
-
+    
         # sub_title: Prof. Bethany Elmann
-
+    
         # caption: 2021 Spring
-
+    
         # quote: >
-
+    
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-
+    
         description: | # this will include new lines to allow paragraphs
             Data and Coding Instructor at the Carpentries, Caltech
-
+    
       - layout: left
         title: "2016"
-
+    
         # link: boringcompany.com
-
+    
         # # link_text: boringcompany.com
-
+    
         # sub_title: Prof. Bethany Elmann
-
+    
         # caption: 2021 Spring
-
+    
         # quote: >
-
+    
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-
+    
         description: | # this will include new lines to allow paragraphs
             Certificate of Participation in Teacher Development Program (I+II), Lehigh University
-            
-            
+
+
+​            
 
   - title: A Little More About Me
     layout: text
