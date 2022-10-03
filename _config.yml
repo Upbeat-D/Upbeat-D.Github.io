@@ -20,7 +20,7 @@ darkmode: false
 
 # Social links
 
-twitter_username: Pao Xiaokeng
+#twitter_username: Pao Xiaokeng
 github_username:  Upbeat-D
 
 # stackoverflow_username: "00000001"
@@ -55,7 +55,7 @@ additional_links:
 
 - title: Email
 
-  icon: fa-light fa-mailbox
+  icon: fa-solid fa-at
 
   url: daicc@stumail.nwu.edu.cn
 
