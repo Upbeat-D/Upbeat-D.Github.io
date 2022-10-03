@@ -1,12 +1,15 @@
-<link
-rel="stylesheet"
-href="cdn.jsdelivr.net/npm/ka"
-/>
-<script
-src="cdn.jsdelivr.net/combin"
-defer="defer"
-onload='renderMathInElement(document.body, { delimiters: [{ left: "$", right: "$", display: false }] })'
-></script>
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 # Site
 
 repository: sproogen/resume-theme
