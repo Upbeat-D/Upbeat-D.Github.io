@@ -87,11 +87,11 @@ content:
     content:
 
       - layout: left
-        title: Northwest University(China)
-      - additional link
-        - Title: [nwu.edu.cn]
-          Url: https://www.nwu.edu.cn
-        caption: September, 2021 - present
+        title: Northwest University
+        additional link
+          - Title: [nwu.edu.cn]
+            Url: https://www.nwu.edu.cn
+       caption: September, 2021 - present
 
         # sub_title: 
 
@@ -108,7 +108,7 @@ content:
           **Thesis**: -
 
       - layout: left
-        title: Northwest University(China)
+        title: Northwest University
         sub_title: Bachelor of Engineering 
         caption: September,2017 - June,2021
         #sub_title: 
