@@ -100,7 +100,7 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **Major**: <em>Geochemistry</em>
 
-          **Advisor**: Prof. Li-hui CHEN [他的主页]({% http://www.rockingmantle.com/en/col.jsp?id=170 news/index.html %})
+          **Advisor**: Prof. Li-hui CHEN [他的主页]({% http://www.rockingmantle.com/en/col.jsp?id=170%})
 
           **Thesis**: -
 
