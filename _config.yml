@@ -100,13 +100,13 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **Major**: Geochemistry
 
-          **Advisor**: Prof. Li-hui CHEN
+          **Advisor**: Prof. Li-hui CHEN  link: www.nwu.edu.cn
 
           **Thesis**: -
 
       - layout: left
         title: Northwest University
-        sub_title: B.Eng. Resource Prospecting Technology
+        sub_title: Bachelor of Engineering 
         caption: September,2017 - June,2021
         #sub_title: 
 
@@ -115,7 +115,7 @@ content:
         #  
 
         description: |+ # this will include new lines to allow paragraphs
-          **Major**: Natural Resources Prospecting Engineering
+          **Major**: Resource Prospecting Technology
 
           **Advisor**: Prof. Gang CHEN
 
