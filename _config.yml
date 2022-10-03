@@ -88,7 +88,8 @@ content:
 
       - layout: left
         title: Northwest University
-        #sub_title: Bachelor of Engineering 
+        #caption: Ph.D. 2023
+        #sub_title: 
         caption: <em>September,2021 - Present<em>
 
         # sub_title: 
