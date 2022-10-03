@@ -39,7 +39,7 @@ github_username:  Upbeat-D
 
 # pinterest_username: jekyll
 
-# youtube_username: globalmtb
+youtube_username: globalmtb
 
 # googleplus_username: citations?user=QRiL_T8AAAAJ&hl=en
 
@@ -49,15 +49,15 @@ github_username:  Upbeat-D
 
 additional_links:
 
-- title: Pao Xiaokeng
-  icon: Pao Xiaokeng
+- title: Google Scholar
+  icon: fab fa-google
   url: https://scholar.google.com/citations?user=xf0EOBsAAAAJ&hl=en
 
-# - title: another link
+- title: Email
 
-#   icon: font awesome brand icon name (eg. fab fa-twitter) <i class="fa-light fa-mailbox"></i>
+  icon: fa-light fa-mailbox
 
-#   url: Link url (eg. https://google.com)
+  url: daicc@stumail.nwu.edu.cn
 
 # Google Analytics and Tag Manager
 
