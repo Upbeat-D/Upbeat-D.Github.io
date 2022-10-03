@@ -13,7 +13,7 @@ version: 2
 name: Chengcheng Dai
 title: Master's Student@NWU
 email: daicc@stumail.nwu.edu.cn
-website: https://Upbeat-d.Github.io
+website: Upbeat-d.Github.io
 # Dark Mode (true/false/never)
 
 darkmode: false
@@ -57,7 +57,7 @@ additional_links:
 
   icon: fas fa-users
 
-  url: https://www.rockingmantle.com/col.jsp?id=184
+  url: www.rockingmantle.com/col.jsp?id=184
 
 # Google Analytics and Tag Manager
 
@@ -101,7 +101,7 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **Major**: <em>Geochemistry</em>
 
-          **Advisor**: Prof. Li-Hui CHEN  [<em>**His Web**</em>](http://www.rockingmantle.com/en/col.jsp?id=170)
+          **Advisor**: Prof. Li-Hui CHEN  [<em>**His Web**</em>](www.rockingmantle.com/en/col.jsp?id=170)
 
           **Thesis**: -
 
@@ -118,7 +118,7 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **Major**: <em>Resource Prospecting Technology<em>
 
-          **Advisor**: Prof. Gang CHEN       [<em>**His Web**</em>](http://geology.nwu.edu.cn/article/teacher/id/71.html)
+          **Advisor**: Prof. Gang CHEN       [<em>**His Web**</em>](geology.nwu.edu.cn/article/teacher/id/71.html)
 
           **Thesis**: Silurian-Devonian detrital zircon U-Pb chronology of the Xianghuanggou section of Nanhuashan and its geological tectonic significance
 
