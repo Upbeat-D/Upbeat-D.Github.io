@@ -98,7 +98,7 @@ content:
         #  
 
         description: |+ # this will include new lines to allow paragraphs
-          **Major**: Geochemistry
+          **Major**: <em>Geochemistry</em>
 
           **Advisor**: Prof. Li-hui CHEN
 
