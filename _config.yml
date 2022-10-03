@@ -39,7 +39,7 @@ github_username:  Upbeat-D
 
 # pinterest_username: jekyll
 
-youtube_username: globalmtb
+youtube_username: daicc.geo@gmail.com
 
 # googleplus_username: citations?user=QRiL_T8AAAAJ&hl=en
 
@@ -55,7 +55,7 @@ additional_links:
 
 - title: Group Page
 
-  icon: fa-thin fa-globe
+  icon: fas fa-users
 
   url: https://www.rockingmantle.com/col.jsp?id=184
 
@@ -75,7 +75,7 @@ google_analytics: "G-91Z72YNJZ1"
 
 about_profile_image: images/IMG_0407.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Chengcheng Dai and I am a graduate at Geology department at NWU. I recently finished my Undergraduate thesis with Prof Gang Chen at NWU. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.
+  Hi, my name's Chengcheng Dai and I am a graduate at Geology department at NWU. I recently finished my Undergraduate thesis with Prof. Gang Chen at NWU. My research interest is evaluating global vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.
 
   I am most skilled in: <mark>Geochemistry(SIF)</mark>, <mark>canopy reflectance</mark>, and <mark>Igneous Rocks</mark>
 
