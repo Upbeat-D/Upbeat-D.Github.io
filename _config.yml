@@ -88,9 +88,6 @@ content:
 
       - layout: left
         title: Northwest University
-        additional links:
-         - Title: [nwu.edu.cn]
-           Url: https://www.nwu.edu.cn
        caption: September, 2021 - present
 
         # sub_title: 
