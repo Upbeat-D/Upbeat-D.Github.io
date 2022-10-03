@@ -77,6 +77,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Chengcheng Dai and I am a graduate at Geology department at NWU. My research interest is based on the field investigation, petrographic observation and geochemical study utilizing integrated tracer of elements and isotopes (e.g.,Sr, Nd, Pb, Hf and Mg, Fe, Zn) of mantle-derived volcanic rocks, aiming to study: (1) the chemical composition and evolution of mantle, (2) the melting process occurred in mantle, and (3) the evolution of magma at different depth.
 
   I am most skilled in: <mark>Mantle Geochemistry</mark>, <mark><span>LATEX</span></mark>, and <mark>Igneous Petrogy</mark>
+  <label>暴雨强度公式：</label><span>'I=a/(a+b)^n'</span>
 
 content:
 
