@@ -88,7 +88,7 @@ content:
 
       - layout: left
         title: Northwest University
-        Link: www.nwu.edu.cn
+        sub_title：www.nwu.edu.cn 
         caption: September, 2021 - present
 
         # sub_title: 
@@ -106,8 +106,8 @@ content:
 
       - layout: left
         title: Northwest University
-        sub_title: www.nwu.edu.cn
-        caption: B.S. 2021
+        sub_title:B.Eng. Resource Prospecting Technology
+        caption: September,2017 - June,2021
         #sub_title: 
 
         # quote: >
