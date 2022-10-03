@@ -81,12 +81,13 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
-  - title: Appointment 
-    layout: list
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
     content:
 
       - layout: left
-        title: Graduate
+        title: Northwest University
         caption: September, 2021 - present
 
         # sub_title: 
@@ -98,13 +99,9 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **Major**: Geochemistry
 
-          **Northwest University**
+          **Advisor**: Prof. Li-hui CHEN
 
-          **Advisor**: Prof. Li-hui Chen
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+          **Thesis**: -
 
       - layout: left
         title: Northwest University
@@ -118,9 +115,9 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **Major**: Natural Resources Prospecting Engineering
 
-          **Advisor**: Gang Cheng
+          **Advisor**: Gang CHEN
 
-          **Thesis**: Characteristics of hot days in China with Central-Pacific El Niño
+          **Thesis**: -
 
   - title: Projects & Publications # Title for the section
     layout: list # Type of content section (list/text)
