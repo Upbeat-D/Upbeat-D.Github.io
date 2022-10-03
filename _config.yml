@@ -89,7 +89,7 @@ content:
       - layout: left
         title: Northwest University
         #sub_title: Bachelor of Engineering 
-        caption: September,2021 - Present
+        caption: <em>September,2021 - Present<em>
 
         # sub_title: 
 
