@@ -86,9 +86,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
 
-      - layout: middle
-        title: Northwest University
-       caption: September, 2021 - present
+      - layout: left
+        Title: Northwest University
+       Caption: September, 2021 - present
 
         # sub_title: 
 
