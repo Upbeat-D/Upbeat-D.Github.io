@@ -88,7 +88,7 @@ content:
 
       - layout: left
         title: Northwest University(China)
-        [nwu.edu.cn](www.nwu.edu.cn)
+        [nwu.edu.cn](https://www.nwu.edu.cn)
         caption: September, 2021 - present
 
         # sub_title: 
@@ -101,7 +101,7 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **Major**: <em>Geochemistry</em>
 
-          **Advisor**: Prof. Li-Hui CHEN  [<em>**His Web**</em>](www.rockingmantle.com/en/col.jsp?id=170)
+          **Advisor**: Prof. Li-Hui CHEN  [<em>**His Web**</em>](https://www.rockingmantle.com/en/col.jsp?id=170)
 
           **Thesis**: -
 
@@ -118,7 +118,7 @@ content:
         description: |+ # this will include new lines to allow paragraphs
           **Major**: <em>Resource Prospecting Technology<em>
 
-          **Advisor**: Prof. Gang CHEN       [<em>**His Web**</em>](geology.nwu.edu.cn/article/teacher/id/71.html)
+          **Advisor**: Prof. Gang CHEN       [<em>**His Web**</em>](https:/geology.nwu.edu.cn/article/teacher/id/71.html)
 
           **Thesis**: Silurian-Devonian detrital zircon U-Pb chronology of the Xianghuanggou section of Nanhuashan and its geological tectonic significance
 
