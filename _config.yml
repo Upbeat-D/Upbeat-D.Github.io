@@ -86,9 +86,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
 
-      - layout: top-right
+      - layout: left
         title: Northwest University
-        sub_title: www.nwu.edu.cn
+        Link: www.nwu.edu.cn
         caption: September, 2021 - present
 
         # sub_title: 
@@ -106,7 +106,7 @@ content:
 
       - layout: left
         title: Northwest University
-        sub_title: www.nwu.edu.cn
+        Link: www.nwu.edu.cn
         caption: B.S. 2021
         #sub_title: 
 
