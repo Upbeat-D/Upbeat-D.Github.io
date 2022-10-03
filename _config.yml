@@ -71,6 +71,8 @@ google_analytics: "G-91Z72YNJZ1"
 
 # About Section
 
+> 我没说过
+
 # about_title: About Me
 
 about_profile_image: images/IMG_0407.JPG
@@ -338,17 +340,17 @@ content:
 
       - layout: left
         title: 2018 Winter
-
+    
         # link: boringcompany.com
-
+    
         # # link_text: boringcompany.com
-
+    
         # sub_title: Prof. Bethany Elmann
-
+    
         # caption: 2021 Spring
-
+    
         # quote: >
-
+    
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
 
 
