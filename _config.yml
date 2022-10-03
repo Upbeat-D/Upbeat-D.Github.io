@@ -88,13 +88,15 @@ content:
 
       - layout: left
         title: Northwest University(China)
-        link: [nwu.edu.cn](https://www.nwu.edu.cn)
+         - additional link
+           Title: nwu.edu.cn
+           Url: https://www.nwu.edu.cn
         caption: September, 2021 - present
 
         # sub_title: 
 
         quote: >
-          Established in 1902, Northwest University is one of the nation's leading comprehensive universities, and is a Chinese state Double First Class University Plan university identified by the Ministry of Education of China.-wikipedia
+          Established in 1902, Northwest University is one of the nation's leading comprehensive universities, and is a Chinese state Double First Class University Plan university identified by the Ministry of Education of China.
 
         #  
 
