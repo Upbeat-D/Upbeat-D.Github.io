@@ -108,7 +108,7 @@ content:
         title: Northwest University
         Sub_title: www.nwu.edu.cn
         caption: B.S. 2021
-        sub_title: 
+        #sub_title: 
 
         # quote: >
 
@@ -291,129 +291,7 @@ content:
 
           * Zhang, D., Qiu, G., Gao, Y., Fang, X., **Cheng, R.**, Chang, A. and Chan, C.Y., 2014, October. Crowdsourcing based radio map anomalous event detection system for calibration-on-demand. In <em>2014 International Conference on Indoor Positioning and Indoor Navigation (IPIN)</em> (pp. 220-229). IEEE.
 
-  - title: Teaching # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-
-      - layout: left
-        title: 2021 Spring
-
-        # link: boringcompany.com
-
-        # # link_text: boringcompany.com
-
-        # sub_title: Prof. Bethany Elmann
-
-        # caption: 2021 Spring
-
-        # quote: >
-
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-
-        description: | # this will include new lines to allow paragraphs
-            GE 157c: Remote Sensing for Environmental and Geological Applications
-
-            Prof. Bethany Elmann, Caltech
-
-      - layout: left
-        title: 2019 Winter
-
-        # link: boringcompany.com
-
-        # # link_text: boringcompany.com
-
-        # sub_title: Prof. Bethany Elmann
-
-        # caption: 2021 Spring
-
-        # quote: >
-
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-
-        description: | # this will include new lines to allow paragraphs
-            ESE 103: Earth’s Biogeochemical Cycles 
-            
-
-            Prof. Christian Frankenberg, Caltech
-
-
-
-      - layout: left
-        title: 2018 Winter
-    
-        # link: boringcompany.com
-    
-        # # link_text: boringcompany.com
-    
-        # sub_title: Prof. Bethany Elmann
-    
-        # caption: 2021 Spring
-    
-        # quote: >
-    
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-
-
-      - layout: left
-        title: 2018 Fall
-    
-        # link: boringcompany.com
-    
-        # # link_text: boringcompany.com
-    
-        # sub_title: Prof. Bethany Elmann
-    
-        # caption: 2021 Spring
-    
-        # quote: >
-    
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-    
-        description: | # this will include new lines to allow paragraphs
-            ESE 101: Earth’s Atmosphere 
-
-
-            Prof. Tapio Schneider, Caltech
-    
-      - layout: left
-        title: 2019 - present
-    
-        # link: boringcompany.com
-    
-        # # link_text: boringcompany.com
-    
-        # sub_title: Prof. Bethany Elmann
-    
-        # caption: 2021 Spring
-    
-        # quote: >
-    
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-    
-        description: | # this will include new lines to allow paragraphs
-            Data and Coding Instructor at the Carpentries, Caltech
-    
-      - layout: left
-        title: "2016"
-    
-        # link: boringcompany.com
-    
-        # # link_text: boringcompany.com
-    
-        # sub_title: Prof. Bethany Elmann
-    
-        # caption: 2021 Spring
-    
-        # quote: >
-    
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-    
-        description: | # this will include new lines to allow paragraphs
-            Certificate of Participation in Teacher Development Program (I+II), Lehigh University
-
-
-
-
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
