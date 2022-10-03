@@ -10,7 +10,7 @@ version: 2
 # Personal info
 
 name: Chengcheng Dai
-title: Master's Student@NWU
+title: Master's Student<i class="fa-thin fa-at"></i>NWU
 email: daicc@stumail.nwu.edu.cn
 website: https://Upbeat-d.Github.io
 
@@ -21,7 +21,7 @@ darkmode: false
 # Social links
 
 twitter_username: Pao Xiaokeng
-github_username:  Pao Xiaokeng
+github_username:  Upbeat-D
 
 # stackoverflow_username: "00000001"
 
@@ -338,6 +338,7 @@ content:
             Prof. Christian Frankenberg, Caltech
 
 
+        ​    
 
       - layout: left
         title: 2018 Winter
@@ -361,6 +362,7 @@ content:
             Prof. Jörn Callies, Caltech
 
 
+        ​    
 
       - layout: left
         title: 2018 Fall
@@ -426,9 +428,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my research interests, my other interest and hobby is:
 
-      - Photography
-
-      - Hiking 
+      - Photograpy
+      - Hiking
 
       Look at this cool image I took in Xi'an.
 
