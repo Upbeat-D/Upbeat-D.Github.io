@@ -86,7 +86,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
 
-      - layout: left
+      - layout: middle
         title: Northwest University
         #sub_title: Bachelor of Engineering 
         caption: <em>September,2021 - Present<em>
