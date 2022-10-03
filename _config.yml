@@ -85,6 +85,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
       - layout: left
         title: Northwest University
         #sub_title: Bachelor of Engineering 
