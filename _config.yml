@@ -89,12 +89,11 @@ content:
       - layout: left
         title: Northwest University
         #sub_title: Bachelor of Engineering 
-        sub_title: [<em>**nwu.edu.cn**<em>](https://www.nwu.edu.cn)
         caption: September,2021 - present
 
         # sub_title: 
 
-        quote: >
+        #quote: >
           Established in 1902, Northwest University is one of the nation's leading comprehensive universities, and is a Chinese state Double First Class University Plan university identified by the Ministry of Education of China.
 
         #  
