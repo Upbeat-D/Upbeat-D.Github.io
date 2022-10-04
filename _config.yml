@@ -80,10 +80,10 @@ content:
 
 
   - title: Education # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
 
-      - layout: left
+      - layout: middle
         title: Northwest University
         caption: <em>September,2021 - Present<em>
         # sub_title: 
