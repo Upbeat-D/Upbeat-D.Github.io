@@ -56,6 +56,11 @@ additional_links:
   icon: fas fa-users
   url: www.rockingmantle.com/col.jsp?id=184
 
+- title: Upbeat-D
+  icon: fab fa-weixin
+  url: www.rockingmantle.com/col.jsp?id=184
+
+
 # Google Analytics and Tag Manager
 
 # Using more than one of these may cause issues with reporting
