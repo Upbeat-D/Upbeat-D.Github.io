@@ -118,7 +118,7 @@ content:
       - layout: left
         title: More information
         description: |+ # this will include new lines to allow paragraphs
-          [<em>**NWU**<em>](https://www.nwu.edu.cn): Established in 1902, NWU is one of the nation's leading comprehensive universities, and is a Chinese state Double First Class University Plan university identified by the Ministry of Education of China.
+          <em>**NWU**<em> link:www.nwu.edu.cn: Established in 1902, NWU is one of the nation's leading comprehensive universities, and is a Chinese state Double First Class University Plan university identified by the Ministry of Education of China.
 
           <em>**Department of Geology,NWU**<em>: Founded in 1939, the Department of Geology at Northwest University is one of the oldest in China. As a key discipline of the national 211 project, geology was selected to be developed into a world-class discipline after national review and accreditation in September 2017.
 
