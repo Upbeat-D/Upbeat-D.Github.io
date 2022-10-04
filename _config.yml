@@ -99,6 +99,7 @@ content:
           **Thesis**: -
 
       - layout: left
+        border: weak
         title: Northwest University
         sub_title: Bachelor of Engineering 
         caption: September,2017 - June,2021
@@ -294,7 +295,7 @@ content:
 
       Look at this cool image I took in Xi'an.
 
-      ![Roe](./images/R0000256-HDR.jpg "Beautiful Roe")
+      ![Roe](./images/R0000256-HDR.jpg "Xi'an at beautiful night")
 
 # Footer
 
