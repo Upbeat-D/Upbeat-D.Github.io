@@ -84,6 +84,7 @@ content:
     content:
 
       - layout: left
+        border: weak
         title: Northwest University
         sub_title: Master's Degree Candidate 
         caption: September,2021 - Present
@@ -99,7 +100,6 @@ content:
           **Thesis**: -
 
       - layout: left
-        border: weak
         title: Northwest University
         sub_title: Bachelor of Engineering 
         caption: September,2017 - June,2021
