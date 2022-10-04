@@ -85,8 +85,8 @@ content:
 
       - layout: right
         title: Northwest University
-        caption: <em>September,2021 - Present<em>
         sub_title: Master Degree Candidate
+        caption: <em>September,2021 - Present<em>
         #quote: >
 
         description: |+ # this will include new lines to allow paragraphs
