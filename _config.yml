@@ -127,7 +127,7 @@ content:
 
           <em>**Department of Geology,NWU**<em>: Founded in 1939, the Department of Geology at Northwest University is one of the oldest in China. As a key discipline of the national 211 project, geology was selected to be developed into a world-class discipline after national review and accreditation in September 2017.       [<em>**Link**</em>](http://geology.nwu.edu.cn)
 
-  - title: Projects & Publications # Title for the section
+  - title: Projects & Publications / Talks # Title for the section
     layout: list # Type of content section (list/text)
     content:
 
@@ -155,7 +155,7 @@ content:
           Multi-scale studies on the seasonality of SIF, hyperspectral reflectance, canopy color, and GPP in Niwot Ridge, Colorado. 
 
           These papers feature a canopy-level telescope, PhotoSpec (a.k.a. BEYONCE).
-        description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs      ![Link](./_file/NTSI)
 
           * **Cheng, R.**, Magney, T.S., Dutta, D., Bowling, D.R., Logan, B.A., Burns, S.P., Blanken, P.D., Grossmann, K., Lopez, S., Richardson, A.D. and Stutz, J., 2020. Decomposing reflectance spectra to track gross primary production in a subalpine evergreen forest. <em>Biogeosciences</em>, 17(18), pp.4523-4544. [https://doi.org/10.5194/bg-17-4523-2020](https://doi.org/10.5194/bg-17-4523-2020)
 
