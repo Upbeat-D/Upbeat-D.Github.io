@@ -83,7 +83,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
 
-      - layout: right
+      - layout: left
         title: Northwest University
         sub_title: Master Degree Candidate
         caption: <em>September,2021 - Present<em>
