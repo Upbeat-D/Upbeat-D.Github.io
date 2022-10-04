@@ -155,9 +155,9 @@ content:
           Multi-scale studies on the seasonality of SIF, hyperspectral reflectance, canopy color, and GPP in Niwot Ridge, Colorado. 
 
           These papers feature a canopy-level telescope, PhotoSpec (a.k.a. BEYONCE).
-        description: | # this will include new lines to allow paragraphs      ![Link](./_file/NTSI)
+        description: | # this will include new lines to allow paragraphs      
 
-          * **Cheng, R.**, Magney, T.S., Dutta, D., Bowling, D.R., Logan, B.A., Burns, S.P., Blanken, P.D., Grossmann, K., Lopez, S., Richardson, A.D. and Stutz, J., 2020. Decomposing reflectance spectra to track gross primary production in a subalpine evergreen forest. <em>Biogeosciences</em>, 17(18), pp.4523-4544. [https://doi.org/10.5194/bg-17-4523-2020](https://doi.org/10.5194/bg-17-4523-2020)
+          * **Cheng, R.**, Magney, T.S., Dutta, D., Bowling, D.R., Logan, B.A., Burns, S.P., Blanken, P.D., Grossmann, K., Lopez, S., Richardson, A.D. and Stutz, J., 2020. Decomposing reflectance spectra to track gross primary production in a subalpine evergreen forest. <em>Biogeosciences</em>, 17(18), pp.4523-4544.     ![<PDF](./_file/NTSI)
 
           * Magney, T.S., Bowling, D.R., Logan, B.A., Grossmann, K., Stutz, J., Blanken, P.D., Burns, S.P., **Cheng, R.**, Garcia, M.A., Kӧhler, P. and Lopez, S., 2019. Mechanistic evidence for tracking the seasonality of photosynthesis with solar-induced fluorescence. <em>Proceedings of the National Academy of Sciences</em>, 116(24), pp.11640-11645. [https://doi.org/10.1073/pnas.1900278116](https://doi.org/10.1073/pnas.1900278116)
 
