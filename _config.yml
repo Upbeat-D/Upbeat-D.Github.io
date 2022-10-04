@@ -12,7 +12,7 @@ version: 2
 name: Chengcheng Dai
 title: Master's Student@NWU
 email: daicc@stumail.nwu.edu.cn
-website: Upbeat-d.Github.io
+website: Upbeat-D.Github.io
 # Dark Mode (true/false/never)
 
 darkmode: false
@@ -85,14 +85,13 @@ content:
 
       - layout: left
         title: Northwest University
-        sub_title: Master Degree Candidate
-        caption: <em>September,2021 - Present<em>
-        #quote: >
+        sub_title: Master's Degree Candidate 
+        caption: September,2012 - Present
+        # quote: >
 
-        #
+        #  
 
         description: |+ # this will include new lines to allow paragraphs
-
           **Major**: <em>Geochemistry<em>
 
           **Advisor**: Prof. Li-Hui CHEN       [<em>**His Web**</em>](http://www.rockingmantle.com/en/col.jsp?id=170)
