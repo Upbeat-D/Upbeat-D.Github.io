@@ -86,13 +86,13 @@ content:
       - layout: right
         title: Northwest University
         caption: <em>September,2021 - Present<em>
-        # sub_title: 
+        sub_title: Master Degree Candidate
         #quote: >
 
         description: |+ # this will include new lines to allow paragraphs
           **Major**: <em>Geochemistry</em>
 
-          **Advisor**: Prof. Li-Hui CHEN[<em>**His Web**</em>](https://www.rockingmantle.com/en/col.jsp?id=170)
+          **Advisor**: Prof. Li-Hui CHEN    [<em>**His Web**</em>](https://www.rockingmantle.com/en/col.jsp?id=170)
 
           **Thesis**: -
 
