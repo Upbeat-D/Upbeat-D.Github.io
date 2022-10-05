@@ -132,7 +132,7 @@ content:
     content:
 
       - layout: left
-        title: Photosynthetic Phenology in an Evergreen Needleleaf Forest in Colorado
+        title: Bibliometric analysis and visualization of non-traditional stable isotopes 
 
         # link: github.com/sproogen
 
@@ -152,17 +152,11 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 
         caption: |+
-          Multi-scale studies on the seasonality of SIF, hyperspectral reflectance, canopy color, and GPP in Niwot Ridge, Colorado. 
-
-          These papers feature a canopy-level telescope, PhotoSpec (a.k.a. BEYONCE).
+          For the first time, bibliometrics was used to study the changes in the number of publications of 15 stable isotope systems from 2000 to 2021, and data visualization was used to analyze the status of international cooperation in the field of non-traditional stable isotopes, and the current status of international and Chinese research. From bibliometrics perspectives provide new insights into the development of this field.
         description: | # this will include new lines to allow paragraphs      
 
-          * **Cheng, R.**, Magney, T.S., Dutta, D., Bowling, D.R., Logan, B.A., Burns, S.P., Blanken, P.D., Grossmann, K., Lopez, S., Richardson, A.D. and Stutz, J., 2020. Decomposing reflectance spectra to track gross primary production in a subalpine evergreen forest. <em>Biogeosciences</em>, 17(18), pp.4523-4544.              <a href="NTSI.pdf">Pdf</a>      
+          * A brief talk in the "Wings Cup", which means the evaluation of postgraduates' study and scientific research achievements of the Department of Geology in 2022.              <a href="NTSI.pdf">Pdf</a>      
 
-
-          * Magney, T.S., Bowling, D.R., Logan, B.A., Grossmann, K., Stutz, J., Blanken, P.D., Burns, S.P., **Cheng, R.**, Garcia, M.A., Kӧhler, P. and Lopez, S., 2019. Mechanistic evidence for tracking the seasonality of photosynthesis with solar-induced fluorescence. <em>Proceedings of the National Academy of Sciences</em>, 116(24), pp.11640-11645. [https://doi.org/10.1073/pnas.1900278116](https://doi.org/10.1073/pnas.1900278116)
-
-          * Seyednasrollah, B., Bowling, D.R., **Cheng, R.**, Logan, B.A., Magney, T.S., Frankenberg, C., Yang, J.C., Young, A.M., Hufkens, K., Arain, M.A. and Black, T.A., 2020. Seasonal variation in the canopy color of temperate evergreen conifer forests. <em>New Phytologist</em>. [https://doi.org/10.1111/nph.17046](https://doi.org/10.1111/nph.17046)
 
       - layout: left
         title: Remotely Estimating Photosynthetic Seasonality in the Arctic
