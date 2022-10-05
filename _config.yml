@@ -195,11 +195,11 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my research interests, my other interest and hobby is:
 
-      - Photograpy
+      - **Photograpy**
 
-      - Hiking
+      - **Hiking**
 
-      - Reading
+      - **Reading**
 
       Look at this cool image I took in Xi'an.
 
