@@ -158,7 +158,7 @@ content:
           * A brief talk in the "<em>**Wings Cup**<em>", which aims to evaluate the achievement of postgraduates' study and scientific research of the Department of Geology in 2022.              <a href="NTSI.pdf">PDF</a>    
 
 
-          * **Cheng-cheng Dai**, Li-Hui Chen,Bibliometric analysis and visualization of non-traditional stable isotopes.(In preparation)
+          * **Dai C.-C.**, Chen L.-H.(2022)Bibliometric analysis and visualization of non-traditional stable isotopes.(In preparation)
 
       - layout: left
         title: Remotely Estimating Photosynthetic Seasonality in the Arctic
@@ -186,122 +186,18 @@ content:
 
           * **Cheng, R.**, Magney, T.S., Orcutt, E.L., Pierrat, Z., Köhler, P., Bowling, D.R., Bret-Harte, M.S., Euskirchen, E.S., Jung, M., Kobayashi, H., Rocha, A.V., Sonnentag, O., Walther, S., Zona, D., Frankenberg, C.  (<em>under minor revision</em>), Evaluating photosynthetic activity across Arctic-Boreal land cover types using solar-induced fluorescence. <em>Environmental Research Letters</em>. 
 
-      - layout: left
-        title: Radiative Transfer in Mountainous Regions
 
-        # link: github.com/sproogen
 
-        # link_text: Project Website
-
-        # additional_links:
-
-          # - title:  sproogen/modern-resume-theme
-
-            # icon: fab fa-github
-            # url: github.com/sproogen/modern-resume-theme
-
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-
-          #   icon: fab fa-github
-
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-
-        caption: |+
-          Topographic dependence of radiation and vegetation dynamics.
-        description: | # this will include new lines to allow paragraphs
-
-          * **Cheng, R.**, Köhler, P., & Frankenberg, C. (<em>under minor revision</em>), Impacts of Topography and Radiation on Temporal Upscaling of Instantaneous Solar-Induced Chlorophyll Fluorescence, <em>Agricultural and Forest Meteorology</em>.
-
-      - layout: left
-        title: Interannaul Variability of Precipitation in SoCal
-
-        # link: github.com/sproogen
-
-        # link_text: Project Website
-
-        # additional_links:
-
-          # - title:  sproogen/modern-resume-theme
-
-            # icon: fab fa-github
-            # url: github.com/sproogen/modern-resume-theme
-
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-
-          #   icon: fab fa-github
-
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-
-        caption: |+
-          ENSO and PDO explain 20% of the interannual variability of total precipitation and precipitation frequency in SoCal. 
-        description: | # this will include new lines to allow paragraphs
-
-          * **Cheng, R.**, Novak, L., & Schneider, T., 2021. Predicting the interannual variability of California’s total annual precipitation. <em>Geophysical Research Letters</em>, 48, e2020GL091465. [https://doi.org/10.1029/2020GL091465](https://doi.org/10.1029/2020GL091465)
-
-      - layout: left
-        title: Droughts and Floods in Ethnographic Reports
-
-        # link: github.com/sproogen
-
-        # link_text: Project Website
-
-        # additional_links:
-
-          # - title:  sproogen/modern-resume-theme
-
-            # icon: fab fa-github
-            # url: github.com/sproogen/modern-resume-theme
-
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-
-          #   icon: fab fa-github
-
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-
-        # quote: |+
-
-        #   ENSO and PDO explain 20% of the interannual variability of total precipitation and precipitation frequency in SoCal. 
-
-        description: | # this will include new lines to allow paragraphs
-
-          * Felzer, B.S., Ember, C.R., **Cheng, R.** and Jiang, M., 2020. The Relationships of Extreme Precipitation and Temperature Events with Ethnographic Reports of Droughts and Floods in Nonindustrial Societies. <em>Weather, Climate, and Society</em>, 12(1), pp.135-148. [https://doi.org/10.1175/WCAS-D-19-0045.1](https://doi.org/10.1175/WCAS-D-19-0045.1)
-
-      - layout: left
-        title: Indoor Navigation
-
-        # link: github.com/sproogen
-
-        # link_text: Project Website
-
-        # additional_links:
-
-          # - title:  sproogen/modern-resume-theme
-
-            # icon: fab fa-github
-            # url: github.com/sproogen/modern-resume-theme
-
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-
-          #   icon: fab fa-github
-
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-
-        # quote: |+
-
-        #   ENSO and PDO explain 20% of the interannual variability of total precipitation and precipitation frequency in SoCal. 
-
-        description: | # this will include new lines to allow paragraphs
-
-          * Zhang, D., Qiu, G., Gao, Y., Fang, X., **Cheng, R.**, Chang, A. and Chan, C.Y., 2014, October. Crowdsourcing based radio map anomalous event detection system for calibration-on-demand. In <em>2014 International Conference on Indoor Positioning and Indoor Navigation (IPIN)</em> (pp. 220-229). IEEE.
-
-  
-  - title: A Little More About Me
+ - title: When I am not working
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my research interests, my other interest and hobby is:
 
       - Photograpy
+
       - Hiking
+
+      - Reading
 
       Look at this cool image I took in Xi'an.
 
