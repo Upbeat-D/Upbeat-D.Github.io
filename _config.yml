@@ -152,16 +152,16 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 
         caption: |+
-          For the first time, bibliometrics was used to study the changes in the number of publications of 15 stable isotope systems from 2000 to 2021, and data visualization was used to analyze the status of international cooperation in the field of non-traditional stable isotopes, and the current status of international and Chinese research. From bibliometrics perspectives provide new insights into the development of this field.
+          <em> For the first time, bibliometrics was used to study the changes in the number of publications of 15 stable isotope systems from 2000 to 2021, and data visualization was used to analyze the status of international cooperation in the field of non-traditional stable isotopes, and the current status of international and Chinese research. From bibliometrics perspectives provide new insights into the development of this field.<em>
         description: | # this will include new lines to allow paragraphs      
 
-          * A brief talk in the "<em>**Wings Cup**<em>", which aims to evaluate the achievement of postgraduates' study and scientific research of the Department of Geology in 2022.              <a href="NTSI.pdf">PDF</a>    
+          * A brief talk in the "<em>**Wings Cup**<em>", which aims to evaluate the achievement of postgraduates' study and scientific research of the Department of Geology in 2022.       <a href="NTSI.pdf">PDF</a>    
 
 
-          * **Dai C.-C.**, Chen L.-H.(2022)Bibliometric analysis and visualization of non-traditional stable isotopes.(In preparation)
+          * **Dai C.-C.**, Chen L.-H*.(2022)Bibliometric analysis and visualization of non-traditional stable isotopes.(In preparation)
 
       - layout: left
-        title: Remotely Estimating Photosynthetic Seasonality in the Arctic
+        title: Silurian-Devonian detrital zircon U-Pb chronology of the Xianghuanggou section of Nanhuashan and its geological tectonic significance
 
         # link: github.com/sproogen
 
@@ -181,10 +181,11 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 
         caption: |+
-          <em> Opportunities and challenges in evaluating SIF-GPP relationship using SIF and machine learning-based GPP products  </em>
+          <em> Through the study of detrital zircon U-Pb chronology of sandstone samples from different intervals and the tracing of sedimentary sources, the age attribution of this set of lithostratigraphic units and the possible sedimentary source environment are clarified.  </em>
         description: | # this will include new lines to allow paragraphs
+          * A talk in the final difense of Undergraduate Innovation Fund.         <a href="CXJJ.pdf">PDF</a>
 
-          * **Cheng, R.**, Magney, T.S., Orcutt, E.L., Pierrat, Z., Köhler, P., Bowling, D.R., Bret-Harte, M.S., Euskirchen, E.S., Jung, M., Kobayashi, H., Rocha, A.V., Sonnentag, O., Walther, S., Zona, D., Frankenberg, C.  (<em>under minor revision</em>), Evaluating photosynthetic activity across Arctic-Boreal land cover types using solar-induced fluorescence. <em>Environmental Research Letters</em>. 
+          * ZHANG WeiGang, CHEN Gang, KANG Yu, CHEN Qiang, YANG Fu, REN ZhanLi, **DAI ChengCheng**. 2020. Detrital zircon U-Pb geochronology and tectono-paleogeographic implications of Tangwangling conglomerate deposits in the southern margin of Ordos Basin. Acta Petrologica Sinica, 36(6): 1870-1896. doi: 10.18654/1000-0569/2020.06.15
 
 
 
