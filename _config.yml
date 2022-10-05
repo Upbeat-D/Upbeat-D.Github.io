@@ -57,8 +57,8 @@ additional_links:
   url: www.rockingmantle.com/col.jsp?id=184
 
 #- title: Upbeat-D
-  icon: fab fa-weixin
-  link: <a href="wechat.jpg">png</a> 
+  #icon: fab fa-weixin
+  #link: <a href="wechat.jpg">png</a> 
 
 
 # Google Analytics and Tag Manager
