@@ -56,7 +56,7 @@ additional_links:
   icon: fas fa-users
   url: www.rockingmantle.com/col.jsp?id=184
 
-- title: Upbeat-D
+#- title: Upbeat-D
   icon: fab fa-weixin
   link: <a href="wechat.jpg">png</a> 
 
