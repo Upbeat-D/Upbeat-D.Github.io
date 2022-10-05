@@ -58,7 +58,7 @@ additional_links:
 
 - title: Upbeat-D
   icon: fab fa-weixin
-  <a href="wechat.jpg">png</a> 
+  link: <a href="wechat.jpg">png</a> 
 
 
 # Google Analytics and Tag Manager
