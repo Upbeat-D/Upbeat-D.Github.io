@@ -131,8 +131,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
 
+
       - layout: left
-        title: Bibliometric analysis and visualization of non-traditional stable isotopes 
+        title: Bibliometric analysis and visualization of non-traditional stable isotopes
 
         # link: github.com/sproogen
 
@@ -152,8 +153,8 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 
         caption: |+
-          <em> For the first time, bibliometrics was used to study the changes in the number of publications of 15 stable isotope systems from 2000 to 2021, and data visualization was used to analyze the status of international cooperation in the field of non-traditional stable isotopes, and the current status of international and Chinese research. From bibliometrics perspectives provide new insights into the development of this field.<em>
-        description: | # this will include new lines to allow paragraphs      
+          <em> For the first time, bibliometrics was used to study the changes in the number of publications of 15 stable isotope systems from 2000 to 2021, and data visualization was used to analyze the status of international cooperation in the field of non-traditional stable isotopes, and the current status of international and Chinese research. From bibliometrics perspectives provide new insights into the development of this field.  </em>
+        description: | # this will include new lines to allow paragraphs
 
           * A brief talk in the "<em>**Wings Cup**<em>", which aims to evaluate the achievement of postgraduates' study and scientific research of the Department of Geology in 2022.       <a href="NTSI.pdf">PDF</a>    
 
@@ -221,4 +222,4 @@ sass:
 
 plugins:
 
- - jekyll-seo-tag
+ - jekyll-seo-t
