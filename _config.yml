@@ -132,7 +132,8 @@ content:
     content:
 
 
-      - layout: left
+      - layout: top-middle
+        border: weak
         title: Bibliometric analysis and visualization of non-traditional stable isotopes
 
         sub_title: September, 2021-Present
@@ -154,7 +155,7 @@ content:
 
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 
-        caption: |+
+        quote: >
           <em> For the first time, bibliometrics was used to study the changes in the number of publications of 15 stable isotope systems from 2000 to 2021, and data visualization was used to analyze the status of international cooperation in the field of non-traditional stable isotopes, and the current status of international and Chinese research. From bibliometrics perspectives provide new insights into the development of this field.  </em>
         description: | # this will include new lines to allow paragraphs
 
@@ -165,7 +166,7 @@ content:
 
           * ![Picture](IMG_0410.PNG "Xi'an at beautiful night")
 
-      - layout: left
+      - layout: top-middle
         title: Silurian-Devonian detrital zircon U-Pb chronology of the Xianghuanggou section of Nanhuashan and its geological tectonic significance
 
         sub_title: June, 2019-June, 2021
@@ -187,7 +188,7 @@ content:
 
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 
-        caption: |+
+        quote: >
           <em> Through the study of detrital zircon U-Pb chronology of sandstone samples from different intervals and the tracing of sedimentary sources, the age attribution of this set of lithostratigraphic units and the possible sedimentary source environment are clarified.  </em>
         description: | # this will include new lines to allow paragraphs
 
