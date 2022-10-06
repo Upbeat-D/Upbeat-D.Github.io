@@ -193,7 +193,7 @@ content:
   - title: When I am not working
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my research interests, my other interest and hobby is:
+      Alongside my research interests, my other interests and hobbies are:
 
       - **Photograpy**
 
