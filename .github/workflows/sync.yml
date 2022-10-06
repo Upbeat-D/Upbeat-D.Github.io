@@ -16,9 +16,9 @@ jobs:
           SSH_PRIVATE_KEY: Dcc041539!
         with:
           # 注意替换为你的 GitHub 源仓库地址
-          source-repo: https://github.com/Upbeat-D/Upbeat-D.Github.io
+          source-repo: git@github.com:Upbeat-D/Upbeat-D.Github.io.git
           # 注意替换为你的 Gitee 目标仓库地址
-          destination-repo: https://gitee.com/dai-chengcheng/upbeat-d.github.io.git
+          destination-repo: git@gitee.com:dai-chengcheng/upbeat-d.github.io.git
 
       - name: Build Gitee Pages
         uses: yanglbme/gitee-pages-action@main
