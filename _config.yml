@@ -98,11 +98,11 @@ content:
         #  
 
         description: |+ # this will include new lines to allow paragraphs
-          **Major**: <em>Geochemistry<em>
+          **Major** : <em>Geochemistry<em>
 
-          **Advisor**: Prof. Li-Hui CHEN       [<em>**His Web**</em>](http://www.rockingmantle.com/en/col.jsp?id=170)
+          **Advisor** : Prof. Li-Hui CHEN       [<em>**His Web**</em>](http://www.rockingmantle.com/en/col.jsp?id=170)
 
-          **Thesis**: -
+          **Thesis** : -
 
       - layout: left
         border: weak
@@ -114,18 +114,18 @@ content:
         #  
 
         description: |+ # this will include new lines to allow paragraphs
-          **Major**: <em>Resource Prospecting Technology<em>
+          **Major** : <em>Resource Prospecting Technology<em>
 
-          **Advisor**: Prof. Gang CHEN       [<em>**His Web**</em>](http://geology.nwu.edu.cn/article/teacher/id/71.html)
+          **Advisor** : Prof. Gang CHEN       [<em>**His Web**</em>](http://geology.nwu.edu.cn/article/teacher/id/71.html)
 
-          **Thesis**: Silurian-Devonian detrital zircon U-Pb chronology of the Xianghuanggou section of Nanhuashan and its geological tectonic significance
+          **Thesis** : Silurian-Devonian detrital zircon U-Pb chronology of the Xianghuanggou section of Nanhuashan and its geological tectonic significance
 
       - layout: left
         title: More Information
         description: |+ # this will include new lines to allow paragraphs
           <em>**NWU**<em> : Established in 1902, NWU is one of the nation's leading comprehensive universities, and is a Chinese state Double First Class University Plan university identified by the Ministry of Education of China.       [<em>**Link**</em>](http://www.nwu.edu.cn)
 
-          <em>**Department of Geology,NWU**<em> : Founded in 1939, the Department of Geology at Northwest University is one of the oldest in China. As a key discipline of the national 211 project, geology was selected to be developed into a world-class discipline after national review and accreditation in September 2017.       [<em>**Link**</em>](http://geology.nwu.edu.cn)
+          <em>**Department of Geology, NWU**<em> : Founded in 1939, the Department of Geology at Northwest University is one of the oldest in China. As a key discipline of the national 211 project, geology was selected to be developed into a world-class discipline after national review and accreditation in September 2017.       [<em>**Link**</em>](http://geology.nwu.edu.cn)
 
   - title: Projects & Publications / Talks # Title for the section
     layout: list # Type of content section (list/text)
