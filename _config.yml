@@ -10,9 +10,9 @@ version: 2
 # Personal info
 
 name: Chengcheng Dai
-title: Master's Student@NWU
-email: daicc@stumail.nwu.edu.cn
-website: Upbeat-D.Github.io
+title: Master's Student @NWU
+email : daicc@stumail.nwu.edu.cn
+website : Upbeat-D.Github.io
 # Dark Mode (true/false/never)
 
 darkmode: false
