@@ -210,9 +210,14 @@ content:
 
       - **Reading**
 
-      Look at this cool image I took in Xi'an.
+      Look at these cool images I took in Xi'an and Dali.
 
-      ![Roe](./images/R0000256-HDR.jpg "Xi'an at beautiful night")
+      ![Xi'an](./images/R0000256-HDR.jpg "Xi'an at beautiful night")
+
+        border: weak
+
+      ![Dali](IMG_0413.JPG "Er Hai lake in Dali")
+
 
 # Footer
 
