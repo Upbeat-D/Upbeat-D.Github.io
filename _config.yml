@@ -47,3 +47,5 @@ plugins:
     - jekyll-seo-tag
     - jekyll-tidy
     - jekyll-sitemap
+
+baseurl: /XiaoKeng Pao
