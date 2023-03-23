@@ -47,5 +47,3 @@ plugins:
     - jekyll-seo-tag
     - jekyll-tidy
     - jekyll-sitemap
-
-baseurl: "Cheng-Cheng DAI"
