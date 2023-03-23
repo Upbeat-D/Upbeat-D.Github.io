@@ -40,7 +40,7 @@ sass:
     style: :compressed
 
 # for jekyll-seo-tag
-author: Ming Tang
+author: Cheng-Cheng DAI
 
 plugins:
     - jekyll-feed
