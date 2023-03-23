@@ -48,4 +48,4 @@ plugins:
     - jekyll-tidy
     - jekyll-sitemap
 
-baseurl: ""
+baseurl: "/"
