@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Curriculum Vitae-Daicc
 description: Education | Research Experience | Teaching Experience | Invited Talks | Research Award | Publications
 permalink: /curriculum-vitae/
 image: images/tang.jpg
