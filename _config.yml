@@ -1,238 +1,47 @@
-# Site
-
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
-
-# Content configuration version
-
-version: 2
-
-# Personal info
-
-name: Chengcheng Dai
-title: Master's Student @NWU
-email : daicc@stumail.nwu.edu.cn
-website : Daicc.cn
-# Dark Mode (true/false/never)
-#website : Upbeat-d.github.io
-#website : www.daicc.cn
-
-darkmode: false
-
-# Social links
-
-#twitter_username: Pao Xiaokeng
-github_username:  Upbeat-D
-
-# stackoverflow_username: "00000001"
-
-# dribbble_username: jekyll
-
-# facebook_username: jekyll
-
-# flickr_username: jekyll
-
-# instagram_username: 
-
-# linkedin_username: 
-
-# xing_username: jekyll
-
-# pinterest_username: jekyll
-
-# youtube_username: daicc.geo@gmail.com
-
-# googleplus_username: citations?user=QRiL_T8AAAAJ&hl=en
-
-# orcid_username: 
-
-# Additional icon links
-
-additional_links:
-
-- title: Google Scholar
-  icon: fab fa-google
-  url: https://scholar.google.com/citations?user=xf0EOBsAAAAJ&hl=en
-
-- title: Group Page
-  icon: fas fa-users
-  url: www.rockingmantle.com/col.jsp?id=184
-
-#- title: Upbeat-D
-  #icon: fab fa-weixin
-  #link: <a href="wechat.jpg">png</a> 
-
-
-# Google Analytics and Tag Manager
-
-# Using more than one of these may cause issues with reporting
-
-gtm: "GTM-N896GV2"
-
-# gtag: "UA-00000000-0"
-
-google_analytics: "G-91Z72YNJZ1"
-
-# About Section
-
-# about_title: About Me
-
-about_profile_image: images/IMG_0407.JPG
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Chengcheng Dai and I am a graduate at Geology department at Northwest University(NWU, <em>Xi'an<em>, <em>People's Republic of China<em>). My research is based on the field investigation, petrographic observation and geochemical study utilizing integrated tracer of elements and isotopes (e.g.,Sr, Nd, Pb, Hf and Mg, Fe, Zn) of mantle-derived volcanic rocks, aiming to study: (1) the chemical composition and evolution of mantle, (2) the melting process occurred in mantle, and (3) the evolution of magma at different depth.
-
-  I am most skilled in: <mark>Mantle Geochemistry</mark> and <mark>Igneous Petrology</mark>
-
-content:
-
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-
-      - layout: left
-        border: weak
-        title: Northwest University
-        sub_title: Master's Degree Candidate 
-        caption: September,2021 - Present
-        # quote: >
-
-        #  
-
-        description: |+ # this will include new lines to allow paragraphs
-          **Major** : <em>Geochemistry<em>
-
-          **Advisor** : Prof. Li-Hui CHEN       [<em>**His Web**</em>](http://www.rockingmantle.com/en/col.jsp?id=170)
-
-          **Thesis** : -
-
-      - layout: left
-        border: weak
-        title: Northwest University
-        sub_title: Bachelor of Engineering 
-        caption: September,2017 - June,2021
-        # quote: >
-
-        #  
-
-        description: |+ # this will include new lines to allow paragraphs
-          **Major** : <em>Resource Prospecting Technology<em>
-
-          **Advisor** : Prof. Gang CHEN       [<em>**His Web**</em>](http://geology.nwu.edu.cn/article/teacher/id/71.html)
-
-          **Thesis** : Silurian-Devonian detrital zircon U-Pb chronology of the Xianghuanggou section of Nanhuashan and its geological tectonic significance
-
-      - layout: left
-        title: More Information
-        description: |+ # this will include new lines to allow paragraphs
-          <em>**NWU**<em> : Established in 1902, NWU is one of the nation's leading comprehensive universities, and is a Chinese state Double First Class University Plan university identified by the Ministry of Education of China.       [<em>**Link**</em>](http://www.nwu.edu.cn)
-
-          <em>**Department of Geology, NWU**<em> : Founded in 1939, the Department of Geology at Northwest University is one of the oldest in China. As a key discipline of the national 211 project, geology was selected to be developed into a world-class discipline after national review and accreditation in September 2017.       [<em>**Link**</em>](http://geology.nwu.edu.cn)
-
-  - title: Projects & Publications / Talks # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-
-
-      - layout: top-middle
-        border: weak
-        title: Bibliometric analysis and visualization of non-traditional stable isotopes
-
-        sub_title: September, 2021-Present
-
-        # link: github.com/sproogen
-
-        # link_text: Project Website
-
-        # additional_links:IMG_0410
-
-          # - title:  sproogen/modern-resume-theme
-
-            # icon: fab fa-github
-            # url: github.com/sproogen/modern-resume-theme
-
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-
-          #   icon: fab fa-github
-
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-
-        quote: >
-          <em> For the first time, bibliometrics was used to study the changes in the number of publications of 15 stable isotope systems from 2000 to 2021, and data visualization was used to analyze the status of international cooperation in the field of non-traditional stable isotopes, and the current status of international and Chinese research. From bibliometrics perspectives provide new insights into the development of this field.  </em>
-        description: | # this will include new lines to allow paragraphs
-
-          * A brief talk in the "<em>**Wings Cup**<em>", which aims to evaluate the achievement of postgraduates' study and scientific research of the Department of Geology in 2022.       <a href="NTSI.pdf">PDF</a>    
-
-
-          * **Dai C.-C.**, Chen L.-H*.(2022)Bibliometric analysis and visualization of non-traditional stable isotopes.(In preparation)
-
-          * ![Figure](IMG_0410.PNG "Intensity of international cooperation")
-
-      - layout: top-middle
-        title: Silurian-Devonian detrital zircon U-Pb chronology of the Xianghuanggou section of Nanhuashan and its geological tectonic significance
-
-        sub_title: May, 2019-June, 2021
-
-        # link: github.com/sproogen
-
-        # link_text: Project Website
-
-        # additional_links:
-
-          # - title:  sproogen/modern-resume-theme
-
-            # icon: fab fa-github
-            # url: github.com/sproogen/modern-resume-theme
-
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-
-          #   icon: fab fa-github
-
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-
-        quote: >
-          <em> Through the study of detrital zircon U-Pb chronology of sandstone samples from different intervals and the tracing of sedimentary sources, the age attribution of this set of lithostratigraphic units and the possible sedimentary source environment are clarified.  </em>
-        description: | # this will include new lines to allow paragraphs
-
-          * A talk in the final difense of Undergraduate Innovation Fund.         <a href="CXJJ.pdf">PDF</a>
-
-          * ZHANG WeiGang, CHEN Gang, KANG Yu, CHEN Qiang, YANG Fu, REN ZhanLi, **DAI ChengCheng**. 2020. Detrital zircon U-Pb geochronology and tectono-paleogeographic implications of Tangwangling conglomerate deposits in the southern margin of Ordos Basin. Acta Petrologica Sinica, 36(6): 1870-1896. doi: 10.18654/1000-0569/2020.06.15            <a href="YSXB.pdf">PDF</a>
-
-
-
-
-  - title: When I Am Not Working
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my research interests, my other interests and hobbies are:
-
-      - **Photograpy**
-
-      - **Hiking**
-
-      - **Reading**
-
-      Look at these cool images I took in Xi'an and Dali.
-
-      ![Xi'an](./images/R0000256-HDR.jpg "Xi'an at beautiful night")
-
-      ![Dali](IMG_0413.JPG "ErHai lake in Dali")
-
-
-# Footer
-
-footer_show_references: true
-
-# references_title: References on request (Override references text)
-
-# Build settings
-
-remote_theme: sproogen/resume-theme
-
+# Site live URL
+url: https://daicc.cn
+title: Cheng-Cheng Dai | Northwest University | Personal Website
+
+# Harmony theme configuration. Please change accordingly.
+harmony:
+    name: Cheng-Cheng Dai | Northwest University | Personal Website
+    # Little description about your site
+    description: Understanding Earth Through Chemistry
+    # 'meta_description:' Write an awesome description for your new site here.
+    # It will appear in your document head meta (for Google search results) and
+    # in your feed.xml site description.
+    meta_description: Cheng-Cheng Dai - Understanding Earth Through Chemistry | Northwest University, Department of Geology
+    basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+    # Google Analytics key, leave blank to ignore
+
+# Conversion / Build settings
+markdown: kramdown
+# This is how you put pygments config in jekyll 2.0 instead of pygments: true
+highlighter: rouge
+
+# Permalinks
+permalink: pretty
+
+exclude:
+    - CNAME
+    - Gemfile
+    - Rakefile
+    - README.md
+    - .gitignore
+    - .sass-cache
+    - Gemfile.lock
+    - vendor
+
+# Sass conversion configs
 sass:
-  sass_dir: _sass
-  style: compressed
+    sass_dir: assets/css/_sass
+    style: :compressed
+
+# for jekyll-seo-tag
+author: Cheng-Cheng Dai
 
 plugins:
-
- - jekyll-seo-t
+    - jekyll-feed
+    - jekyll-seo-tag
+    - jekyll-tidy
+    - jekyll-sitemap

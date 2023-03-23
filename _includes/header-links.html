@@ -1,0 +1,17 @@
+<ul>
+	<li {% if page.categories contains "index" %} id="current" {% endif %}>
+		<a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">Home</a><span>/</span>
+	</li>
+	<li {% if page.permalink contains "/curriculum-vitae" %} id="current" {% endif %}>
+		<a href="{{ '/curriculum-vitae/' | prepend: site.baseurl | prepend: site.url }}">Curriculum Vitae</a><span>/</span>
+	</li>
+	<li {% if (page.permalink contains "/research-blog") or (page.categories contains "research-blog") %} id="current" {% endif %}>
+		<a href="{{ '/research-blog/' | prepend: site.baseurl | prepend: site.url }}">Research Blog</a><span>/</span>
+	</li>
+	<li {% if (page.permalink contains "/photography") or (page.categories contains "photography") %} id="current" {% endif %}>
+		<a href="{{ '/photography/' | prepend: site.baseurl | prepend: site.url }}">Photography</a><span>/</span>
+	</li>
+	<li {% if page.permalink contains "/media" %} id="current" {% endif %}>
+		<a href="{{ '/media/' | prepend: site.baseurl | prepend: site.url }}">Media</a><span>/</span>
+	</li>
+</ul>
