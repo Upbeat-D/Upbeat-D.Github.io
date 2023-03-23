@@ -10,8 +10,8 @@ image: images/tang.jpg
 
 ---
 
-- Ph.D., Geochemistry, University of Maryland, College Park <span class="date">2011 - 2016</span>
-<br>supervised by William F. McDonough and Roberta L. Rudnick
+- M.S., Geology, Northwest University,  <span class="date">2021 - </span>
+<br>supervised by Li-Hui CHEN	       [<em>**His Web**</em>](http://www.rockingmantle.com/en/col.jsp?id=170)
 
 - B.A., Geochemistry, Nanjing University <span class="date">2007 - 2011</span>
 <br>supervised by Xiao-Lei Wang
