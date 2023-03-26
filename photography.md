@@ -19,7 +19,7 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2020/05/21/ld/">
 				<h6>I wanna to say nothing, 2023</h6>
 			</a>
-			<p>I want to eat some meat.>Read More</a></p>
+			<p>I want to eat some meat... <a href="{{ site.url }}/photography/2023/03/26/SUCCESS/">Read More</a></p>
 		</div>
 	</div>
 	
