@@ -13,7 +13,7 @@ harmony:
     meta_description: Cheng-Cheng DAI - Understanding Earth Through Chemistry | Northwest University, Department of Geology
     basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
     # Google Analytics key, leave blank to ignore
-    google_analytics_key: G-3JFCV2K7PR
+    #google_analytics_key: 
     show_disclaimer: false
 
 # Conversion / Build settings
