@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Curriculum Vitae -D
+title: Curriculum Vitae
 description: Education | Research Experience | Teaching Experience | Invited Talks | Research Award | Publications
-permalink: /curriculum-vitae -D /
+permalink: /curriculum-vitae/
 image: images/tang.jpg
 ---
 

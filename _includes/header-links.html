@@ -2,8 +2,8 @@
 	<li {% if page.categories contains "index" %} id="current" {% endif %}>
 		<a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">Home</a><span>/</span>
 	</li>
-	<li {% if page.permalink contains "/curriculum-vitae -D" %} id="current" {% endif %}>
-		<a href="{{ '/curriculum-vitae -D /' }}">Curriculum Vitae -D </a><span>/</span>
+	<li {% if page.permalink contains "/curriculum-vitae" %} id="current" {% endif %}>
+		<a href="{{ '/curriculum-vitae/' }}">Curriculum Vitae</a><span>/</span>
 	</li>
 	<li {% if (page.permalink contains "/research-blog") or (page.categories contains "research-blog") %} id="current" {% endif %}>
 		<a href="{{ '/research-blog/' | prepend: site.baseurl | prepend: site.url }}">Research Blog</a><span>/</span>
