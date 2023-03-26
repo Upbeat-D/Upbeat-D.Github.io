@@ -16,7 +16,7 @@ image: images/photography/full/photo35.jpg
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 		<div class="box-text">
-			<a href="{{ site.url }}/photography/2020/05/21/ld/">
+			<a href="{{ site.url }}/photography/2023/03/26/SUCCESS/">
 				<h6>I wanna to say nothing, 2023</h6>
 			</a>
 			<p>I want to eat some meat... <a href="{{ site.url }}/photography/2023/03/26/SUCCESS/">Read More</a></p>
