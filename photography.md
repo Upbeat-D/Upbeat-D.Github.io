@@ -17,9 +17,9 @@ image: images/photography/full/photo35.jpg
 		<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2020/05/21/ld/">
-				<h6>WHAT'S NEW, 2023</h6>
+				<h6>I wanna to say nothing, 2023</h6>
 			</a>
-			<p>I FINALLY WENT TO THE U.S.!CHEER UP!</a></p>
+			<p>I want to eat some meat.>Read More</a></p>
 		</div>
 	</div>
 	
