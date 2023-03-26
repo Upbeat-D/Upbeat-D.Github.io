@@ -16,10 +16,10 @@ image: images/photography/full/photo35.jpg
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 		<div class="box-text">
-			<a href="{{ site.url }}/photography/2023/03/26/md/">
-				<h6>I wanna to say nothing, 2023</h6>
+			<a href="{{ site.url }}/photography/2024/05/21/ld/">
+				<h6>Last days in China, 2024</h6>
 			</a>
-			<p>I want to eat some meat... <a href="{{ site.url }}/photography/2023/03/26/md/">Read More</a></p>
+			<p>I do photography as a hobby. Being an Earth scientist granted me lots of opportunities to travel around the world and see many places that may not be easily accessible to the public... <a href="{{ site.url }}/photography/2024/05/21/ld/">Read More</a></p>
 		</div>
 	</div>
 	
