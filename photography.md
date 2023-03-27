@@ -12,7 +12,6 @@ image: images/photography/full/photo35.jpg
 <div class="page-content wc-container">
 	<p>I do photography as a hobby. Being an Earth scientist granted me lots of opportunities to travel around the world and see many places that may not be easily accessible to the public.</p>
     	<hr style="margin-bottom:48px">
-
 <div class="post-box" style="margin-bottom:48px">
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 	<div class="box-text">
@@ -22,6 +21,7 @@ image: images/photography/full/photo35.jpg
 		<p>We went to the Xiao Zhai and visited the Bananer In, a clothes store ... <a href="{{ site.url }}/photography/2023/03/22/xa/">Read More</a></p>
 	</div>
 </div>
+
 
 
 
