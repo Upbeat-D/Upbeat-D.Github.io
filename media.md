@@ -11,7 +11,7 @@ image: images/ming-tang-at-grand-canyon.jpg
 	<div class="box-text">
 		<a href="{{ site.url }}/photography/2023/03/22/xa/">
 			<h6>Coming soon</h6>
-		</a>
-		<p> Coming soon <a href="{{ site.url }}/photography/2023/03/22/xa/">Read More</a></p>
+		#</a>
+		#<p> Coming soon <a href="{{ site.url }}/photography/2023/03/22/xa/">Read More</a></p>
 	</div>
 </div>
