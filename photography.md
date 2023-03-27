@@ -10,8 +10,8 @@ image: images/photography/full/photo35.jp
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 	<div class="box-text">
 		<a href="{{ site.url }}/photography/2023/03/22/xa/">
-			<h6>A test post</h6>
+			<h6>Coming soon</h6>
 		</a>
-		<p> ... <a href="{{ site.url }}/photography/2023/03/22/xa/">Read More</a></p>
+		<p> Coming soon <a href="{{ site.url }}/photography/2023/03/22/xa/">Read More</a></p>
 	</div>
 </div>
