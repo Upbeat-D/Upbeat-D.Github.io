@@ -10,8 +10,8 @@ image: images/photography/full/photo35.jp
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 	<div class="box-text">
 		<a href="{{ site.url }}/photography/2023/03/22/xa/">
-			<h6>Visit the Xiao Zhai</h6>
+			<h6>A test post</h6>
 		</a>
-		<p>We went to the Xiao Zhai and visited the Bananer In, a clothes store ... <a href="{{ site.url }}/photography/2023/03/22/xa/">Read More</a></p>
+		<p> ... <a href="{{ site.url }}/photography/2023/03/22/xa/">Read More</a></p>
 	</div>
 </div>
