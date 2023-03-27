@@ -19,7 +19,7 @@ image: images/photography/full/photo35.jpg
 		<a href="{{ site.url }}/photography/2023/03/22/xa/">
 			<h6>Visit the Xiao Zhai</h6>
 		</a>
-		<p>I don't like the days here ... <a href="{{ site.url }}/photography/2023/03/22/xa/">Read More</a></p>
+		<p>We went to the Xiao Zhai and visited the Bananer In, a clothes store ... <a href="{{ site.url }}/photography/2023/03/22/xa/">Read More</a></p>
 	</div>
 </div>
 
