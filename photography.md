@@ -16,10 +16,10 @@ image: images/photography/full/photo35.jpg
 <div class="post-box" style="margin-bottom:48px">
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 	<div class="box-text">
-		<a href="{{ site.url }}/photography/2025/07/23/tibet/">
-			<h6>Last days in the US, 2019</h6>
+		<a href="{{ site.url }}/photography/2023/03/22/xa/">
+			<h6>Visit the Xiao Zhai</h6>
 		</a>
-		<p>I don't like the days here ... <a href="{{ site.url }}/photography/2025/07/23/tibet/">Read More</a></p>
+		<p>I don't like the days here ... <a href="{{ site.url }}/photography/2023/03/22/xa/">Read More</a></p>
 	</div>
 </div>
 
