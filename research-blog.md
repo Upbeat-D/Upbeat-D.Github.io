@@ -9,6 +9,5 @@ image: images/posts/early-archean-vs-present-continents.png
 <div class="post-box" style="margin-bottom:48px">
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 	<div class="box-text">
-		<a href="{{ site.url }}/photography/2023/03/22/xa/">
 			<h6>Coming soon</h6>
 
