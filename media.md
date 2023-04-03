@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Media
-description: Photography by Ming Tang
-permalink: /Media/
-image: images/photography/full/photo35.jpg
+description: Media
+permalink: /media/
+image: images/ming-tang-at-grand-canyon.jpg
 ---
 
 
@@ -11,4 +11,3 @@ image: images/photography/full/photo35.jpg
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 	<div class="box-text">
 			<h6>Coming soon</h6>
-
