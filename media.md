@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Media
-description: Looking from space, one could be fascinated by our planet in many ways— its vast blue oceans, its complicated and continuously changing cloud patterns, and another feature that can be hardly missed—the green and brown landmasses that patch on the blue background—the continents.
+description: Photography by Ming Tang
 permalink: /Media/
-image: images/posts/early-archean-vs-present-continents.png
+image: images/photography/full/photo35.jpg
 ---
+
 
 <div class="post-box" style="margin-bottom:48px">
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
