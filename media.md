@@ -2,7 +2,7 @@
 layout: default
 title: Media
 description: Looking from space, one could be fascinated by our planet in many ways— its vast blue oceans, its complicated and continuously changing cloud patterns, and another feature that can be hardly missed—the green and brown landmasses that patch on the blue background—the continents.
-permalink: /research-blog/
+permalink: /Media/
 image: images/posts/early-archean-vs-present-continents.png
 ---
 
@@ -10,3 +10,4 @@ image: images/posts/early-archean-vs-present-continents.png
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 	<div class="box-text">
 			<h6>Coming soon</h6>
+
