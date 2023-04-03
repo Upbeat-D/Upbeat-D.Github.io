@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: default
 title: Photography
 description: Photography by Ming Tang
 permalink: /photography/
