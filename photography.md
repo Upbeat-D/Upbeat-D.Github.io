@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: layout
 title: Photography
 description: Photography by Ming Tang
 permalink: /photography/
@@ -11,4 +11,3 @@ image: images/photography/full/photo35.jpg
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 	<div class="box-text">
 			<h6>Coming soon</h6>
-
