@@ -10,4 +10,3 @@ image: images/posts/early-archean-vs-present-continents.png
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 	<div class="box-text">
 			<h6>Coming soon</h6>
-
