@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Media
-description: Media
-permalink: /media/
-image: images/ming-tang-at-grand-canyon.jpg
+layout: default
+title: Research Blog
+description: Looking from space, one could be fascinated by our planet in many ways— its vast blue oceans, its complicated and continuously changing cloud patterns, and another feature that can be hardly missed—the green and brown landmasses that patch on the blue background—the continents.
+permalink: /research-blog/
+image: images/posts/early-archean-vs-present-continents.png
 ---
 
 <div class="post-box" style="margin-bottom:48px">

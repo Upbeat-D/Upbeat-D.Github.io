@@ -1,16 +1,12 @@
 ---
-layout: page
-title: Photography
-description: Photography by Ming Tang
-permalink: /photography/
-image: images/photography/full/photo35.jp
+layout: default
+title: Research Blog
+description: Looking from space, one could be fascinated by our planet in many ways— its vast blue oceans, its complicated and continuously changing cloud patterns, and another feature that can be hardly missed—the green and brown landmasses that patch on the blue background—the continents.
+permalink: /research-blog/
+image: images/posts/early-archean-vs-present-continents.png
 ---
 
 <div class="post-box" style="margin-bottom:48px">
 	<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 	<div class="box-text">
 			<h6>Coming soon</h6>
-
-
-​		
-
