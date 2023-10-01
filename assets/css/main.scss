@@ -567,8 +567,8 @@ header.main-header {
   @include MQ(M) { padding: 2em 0; }
 }
 footer.main-footer {
-  padding: 1em 0;
-  @include MQ(M) { padding: 2em 0; }
+  padding: 0.5em 0;
+  @include MQ(M) { padding: 1em 0; }
 }
 .page-content {
   padding: 1em 0;
