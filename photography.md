@@ -16,4 +16,3 @@ image: images/photography/full/photo35.jpg
 		<p>The world now looks so different due to the COVID-19 pandemic. I've been staying in my apartment in Beijing for three months. Now everything's finally coming back to normal, gradually.This is a long delayed update...I spent my last days in the ... <a href="{{ site.url }}/_posts/photography/2023-3-22-xa.md">Read More</a></p>
 	</div>
 </div>
-

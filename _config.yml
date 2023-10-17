@@ -1,20 +1,21 @@
 # Site live URL
-url: https://upbeat-d.github.io/
+url: daicc.cn
 title: Cheng-Cheng DAI | Northwest University | Personal Website
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
     name: Cheng-Cheng DAI | Northwest University | Personal Website
+
     # Little description about your site
-    description: Understanding Earth Through Non-traditional Stable Isotopes
+​    description: Understanding Earth Through Non-traditional Stable Isotopes
     # 'meta_description:' Write an awesome description for your new site here.
     # It will appear in your document head meta (for Google search results) and
     # in your feed.xml site description.
-    meta_description: Cheng-Cheng DAI - Understanding Earth Through Chemistry | Northwest University, Department of Geology
-    basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+​    meta_description: Cheng-Cheng DAI - Understanding Earth Through Chemistry | Northwest University, Department of Geology
+​    basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
     # Google Analytics key, leave blank to ignore
-    #google_analytics_key: 
-    show_disclaimer: false
+​    #google_analytics_key: 
+​    show_disclaimer: false
 
 # Conversion / Build settings
 markdown: kramdown
@@ -44,6 +45,6 @@ author: Cheng-Cheng DAI
 
 plugins:
     - jekyll-feed
-    - jekyll-seo-tag
-    - jekyll-tidy
-    - jekyll-sitemap
+        - jekyll-seo-tag
+        - jekyll-tidy
+        - jekyll-sitemap
