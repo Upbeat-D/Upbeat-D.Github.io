@@ -1,20 +1,23 @@
 # Site live URL
 url: https://daicc.cn
-title: Ming Tang | Peking University | Personal Website
+
+title: Cheng-Cheng DAI | Northwest University | Personal Website
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-    name: Ming Tang | Peking University | Personal Website
+    name: Cheng-Cheng DAI | Northwest University | Personal Website
+
     # Little description about your site
-    description: Understanding Earth Through Chemistry
+​    description: Understanding Earth Through Non-traditional Stable Isotopes
     # 'meta_description:' Write an awesome description for your new site here.
     # It will appear in your document head meta (for Google search results) and
     # in your feed.xml site description.
-    meta_description: Ming Tang - Understanding Earth Through Chemistry | Peking University, School of Earth and Space Sciences
-    basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+​    meta_description: Cheng-Cheng DAI - Understanding Earth Through Chemistry | Northwest University, Department of Geology
+
+​    basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
     # Google Analytics key, leave blank to ignore
-    google_analytics_key: G-3JFCV2K7PR
-    show_disclaimer: false
+​    google_analytics_key: G-3JFCV2K7PR
+​    show_disclaimer: false
 
 # Conversion / Build settings
 markdown: kramdown
@@ -40,7 +43,7 @@ sass:
     style: :compressed
 
 # for jekyll-seo-tag
-author: Ming Tang
+author: Cheng-Cheng DAI
 
 plugins:
     - jekyll-feed
