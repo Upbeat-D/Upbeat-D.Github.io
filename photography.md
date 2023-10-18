@@ -7,7 +7,7 @@ image: images/photography/DaLi/DaLi-11.jpg
 ---
 
 <!-- panorama photos -->
-<img src="/images/ming-tang.jpg" alt="Me at Monument Valley"/>
+<img src="images/photography/DaLi/DaLi-11.jpg" alt="ErHai lake, Dali"/>
 
 <div class="page-content wc-container">
 	<p>I do photography as a hobby. Being an Earth scientist granted me lots of opportunities to travel around the world and see many places that may not be easily accessible to the public.</p>
@@ -24,30 +24,30 @@ image: images/photography/DaLi/DaLi-11.jpg
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/DSC02887.jpg" alt="">
+		<img class="box-img" src="/images/photography/XiAn/XiAn-02.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2020/01/03/glacier/">
-				<h6>Glacier National Park, 2019</h6>
+				<h6>XiAn</h6>
 			</a>
 			<p>It was my last US. National Park trip, before departing for Beijing. Xin and I were wondering where to visit in late September. We thought about Yellowstone, which I had always wanted to visit but never hashed out a real plan. The airfares were... <a href="{{ site.url }}/photography/2020/01/03/glacier/">Read More</a></p>
 		</div>
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/IMG_3504.jpg" alt="">
+		<img class="box-img" src="/images/photography/WuGong/WuGong-10.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2019/09/17/spain/">
-				<h6>Spain, 2019</h6>
+				<h6>Hiking in the WuGong Mountain</h6>
 			</a>
 			<p>This year, the Goldschmidt conference was in Spain. After the conference, Xin and I went on a trip in eastern Spain. It was our first time visiting Spain. We don't speak Spanish, but we managed to communicate with the people there just fine. I... <a href="{{ site.url }}/photography/2019/09/17/spain/">Read More</a></p>
 		</div>
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/DSC02006.jpg" alt="">
+		<img class="box-img" src="/images/photography/USTC/USTC-03.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2019/07/27/tibet/">
-				<h6>Tibet, 2019</h6>
+				<h6>USTC, 2023</h6>
 			</a>
 			<p>This summer, we went on a second field trip to Tibet. We landed in Nyingchi instead of Lhasa and started there. Nyingchi is 600 m lower than Lhasa, and this really helped a lot. At 3000 m, the altitude effect was not as strong and everybody... <a href="{{ site.url }}/photography/2019/07/27/tibet/">Read More</a></p>
 		</div>
