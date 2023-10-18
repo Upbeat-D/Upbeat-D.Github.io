@@ -11,9 +11,10 @@ harmony:
     # It will appear in your document head meta (for Google search results) and
     # in your feed.xml site description.
 ​    meta_description: Cheng-Cheng DAI - Understanding Earth Through Chemistry | Northwest University, Department of Geology
-    basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+    basetheme: theme-base-01
+    # pre defined thmes are darken, blue-water, redish.
     # Google Analytics key, leave blank to ignore
-    #google_analytics_key: G-3JFCV2K7PR
+    google_analytics_key: G-3JFCV2K7PR
     show_disclaimer: false
 
 # Conversion / Build settings
