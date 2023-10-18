@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photography
-description: Photography by Ming Tang
+description: Photography by Cheng-Cheng Dai
 permalink: /photography/
 image: images/photography/full/photo35.jpg
 ---
@@ -293,63 +293,5 @@ image: images/photography/full/photo35.jpg
 		</div>
 	</div>
 
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/RI020863.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2015/08/22/prague/">
-				<h6>Prague, Czech Republic</h6>
-			</a>
-			<p>Goldschmidt 2015 was in Prague. Prague is a city full of history. I sat in a coffee shop and found the ceiling was from the 13th century... <a href="{{ site.url }}/photography/2015/08/22/prague/">Read More</a></p>
-		</div>
-	</div>
 	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/DSC03715.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2015/08/14/germany/">
-				<h6>Füssen-Munich, Germany</h6>
-			</a>
-			<p>We only spent two days in Germany as we traveled from Switzerland to Czech Republic. We stopped for two places in Germany, Füssen and Munich... <a href="{{ site.url }}/photography/2015/08/14/germany/">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/RI020417.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2015/08/11/switzerland/">
-				<h6>Backpacking in the Alps, Switzerland</h6>
-			</a>
-			<p>We spent five days backpacking in the Alps in Switzerland. Although there were no technical challenges, it was quite exhausting, especially the first day... <a href="{{ site.url }}/photography/2015/08/11/switzerland/">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/DSCF5396.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2015/03/20/california/">
-				<h6>Trips to California</h6>
-			</a>
-			<p>I visited California multiple times to see friends and Roberta, attend AGU conferences, and enjoy the beach and parks. California is dry, though it's a coastal state... <a href="{{ site.url }}/photography/2015/03/20/california/">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/DSC01476.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2015/01/16/ccd/">
-				<h6>Cross country drive</h6>
-			</a>
-			<p>In January, 2015, we drove across the country, from College Park, MD to Point Reyes, CA. 11 states, 4 national parks, totaling 3456 miles in 8 days... <a href="{{ site.url }}/photography/2015/01/16/ccd/">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/DSCF3255.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2014/06/03/whitney/">
-				<h6>Climbing Mt. Whitney</h6>
-			</a>
-			<p>On June 1st, 2014, we summited Mt. Whitney, the highest mountain in the contiguous US. Mt. Whitney, with an elevation of 4,421 m, is located on the border of California... <a href="{{ site.url }}/photography/2014/06/03/whitney/">Read More</a></p>
-		</div>
-	</div>
 </div>
