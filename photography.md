@@ -3,7 +3,7 @@ layout: page
 title: Photography
 description: Photography by Cheng-Cheng Dai
 permalink: /photography/
-image: images/photography/full/photo35.jpg
+image: images/photography/DaLi/DaLi-11.jpg
 ---
 
 <!-- panorama photos -->
