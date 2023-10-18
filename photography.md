@@ -17,7 +17,7 @@ image: images/photography/full/photo35.jpg
 		<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2020/05/21/ld/">
-				<h6>test</h6>
+				<h6>A NWU collection</h6>
 			</a>
 			<p>test<a href="{{ site.url }}/photography/2020/05/21/ld/">Read More</a></p>
 		</div>
