@@ -3,11 +3,11 @@ layout: page
 title: Photography
 description: Photography by Cheng-Cheng Dai
 permalink: /photography/
-image: images/photography/DaLi/DaLi-11.jpg
+image: images/DaLi-11.jpg
 ---
 
 <!-- panorama photos -->
-<img src="images/photography/DaLi/DaLi-11.jpg" alt="ErHai lake, Dali"/>
+<img src="images/DaLi-11.jpg" alt="ErHai lake, Dali"/>
 
 <div class="page-content wc-container">
 	<p>I do photography as a hobby. Being an Earth scientist granted me lots of opportunities to travel around the world and see many places that may not be easily accessible to the public.</p>
