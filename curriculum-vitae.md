@@ -19,6 +19,12 @@ image: images/tang.jpg
 
 ---
 
+###### <a name="publications-2020"></a>2023
+
+Dai, C.-C., Xiao-Jun, W., Chen, L.-H., Hanyu, T., Zhang, X.-Y., Zeng, G., Kawabata, H., & Xie, L.-W. (202X). Iron isotopic compositions of HIMU ocean island basalts: implications for the mantle source lithology. Submitted to *Chemical Geology*. 	
+
+
+
 ###### <a name="publications-2020"></a>2020
 
 Zhang, W. G., Chen, G., Kang, Y., Chen, Q., Yang, F., Ren, Z. L., & **Dai, C. C**. (2020). Detrital zircon U-Pb geochronology and tectono-paleogeographic implications of Tangwangling conglomerate deposits in the southern margin of Ordos Basin. Acta Petrologica Sinica, 36(6), 1870-1896. <a class="paperdl" target="_blank" href="/publications/2020-WG Z.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
