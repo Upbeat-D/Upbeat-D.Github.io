@@ -14,12 +14,12 @@ image: images/photography/full/photo35.jpg
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/DSC03046.jpg" alt="">
+		<img class="box-img" src="/images/photography/NWU/NWU-07.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2020/05/21/ld/">
 				<h6>A NWU collection</h6>
 			</a>
-			<p>test<a href="{{ site.url }}/photography/2020/05/21/ld/">Read More</a></p>
+			<p>I spent six unforgettable years here at NWU from 2017 to 2023, and this compilation includes photos that I took at NWU. <a href="{{ site.url }}/photography/2020/05/21/ld/">Read More</a></p>
 		</div>
 	</div>
 	
