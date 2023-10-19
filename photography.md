@@ -7,7 +7,7 @@ image: images/DaLi-11.jpg
 ---
 
 <!-- panorama photos -->
-<img src="/images/DaLi-11.jpg" alt="ErHai lake, Dali"/>
+<img src="/images/fengmian.jpg" alt="WuGong Mountain, PingXiang, JiangXi"/>
 
 <div class="page-content wc-container">
 	<p>I do photography as a hobby. Being an Earth scientist granted me lots of opportunities to travel around the world and see many places that may not be easily accessible to the public.</p>
@@ -54,30 +54,30 @@ image: images/DaLi-11.jpg
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/DSC01039.jpg" alt="">
+		<img class="box-img" src="/images/photography/Street Photography/SP-02.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2019/01/03/bay/">
-				<h6>Expeditions in the bay area, CA</h6>
+				<h6>Street Photography</h6>
 			</a>
 			<p>Before and after our road trip in Washington, we made a few short trips in the bay area of California. We drove the Half Moon Bay to see tide pool, Land Ends and revisited Point Reyes National Seashore. There are a lot of scenic spots along the... <a href="{{ site.url }}/photography/2019/01/03/bay/">Read More</a></p>
 		</div>
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/DSC00858.jpg" alt="">
+		<img class="box-img" src="/images/photography/HuaShan/HuaShan-05.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2018/12/30/washington/">
-				<h6>Olympic Peninsula and Seattle, 2018</h6>
+				<h6>HuaShan</h6>
 			</a>
 			<p>I visited China three times this year. For the first time in seven years, I had a chance to celebrate the Lunar new year with my family in China! I also went to Tibet, for the... <a href="{{ site.url }}/photography/2018/12/30/washington/">Read More</a></p>
 		</div>
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/DSC04273.jpg" alt="">
+		<img class="box-img" src="/images/photography/DaLi/DaLi-09.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2018/07/23/tibet/">
-				<h6>Tibet, 2018</h6>
+				<h6>DaLi</h6>
 			</a>
 			<p>In this past summer, I joined a field trip in southern Tibet, one of my not-so-many long serious field trips. The field trip was led by Dr. Weiqiang Ji from CAS. We had a total of eight... <a href="{{ site.url }}/photography/2018/07/23/tibet/">Read More</a></p>
 		</div>

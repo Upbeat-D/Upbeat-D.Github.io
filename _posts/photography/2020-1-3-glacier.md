@@ -41,7 +41,7 @@ image: /images/photography/XiAn/XiAn-07.jpg
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/XiAn/XiAn-09.jpg" alt="Experiencing the magic of Xi'an's night markets." style="height:100%;width:100%;"/>
+<img src="/images/photography/XiAn/XiAn-09.jpg" alt="Experiencing the magic of Xi'an's night markets." style="height:60%;width:60%;"/>
 </div>
 
 <div class="img-parent">
