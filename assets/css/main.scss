@@ -40,8 +40,8 @@ body {
 }
 
 .wc-container {
-    width: 100%;
-    max-width: $L; // see breakpoints in _sass/partials/_layout.scss
+    width: 90%;
+    max-width: $M; // see breakpoints in _sass/partials/_layout.scss
     margin: 0 auto;
 
     &::after { /* Clearfix */
@@ -462,15 +462,15 @@ div.page-content {
       padding-bottom: 5px;
       padding-top: 20px;
     }
-    
+
     dt:first-child {
       padding-top: 0px;
     }
-    
+
     dd {
       padding-left: 10px;
     }
-    
+
     @include MQ(M) {
       dt, dd {
         @include font-size(16px);
@@ -567,12 +567,12 @@ header.main-header {
   @include MQ(M) { padding: 2em 0; }
 }
 footer.main-footer {
-  padding: 0.5em 0;
-  @include MQ(M) { padding: 1em 0; }
+  padding: 1em 0;
+  @include MQ(M) { padding: 2em 0; }
 }
 .page-content {
-  padding: 0 0;
-  @include MQ(M) { padding: 0 0; }
+  padding: 1em 0;
+  @include MQ(M) { padding: 2em 0; }
 }
 
 
