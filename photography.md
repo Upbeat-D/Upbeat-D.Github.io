@@ -16,10 +16,10 @@ image: images/DaLi-11.jpg
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/NWU/NWU-07.jpg" alt="">
 		<div class="box-text">
-			<a href="{{ site.url }}/photography/2023/10/19/test">
+			<a href="{{ site.url }}/_posts/photography/2023-10-19-test.md">
 				<h6>A NWU collection</h6>
 			</a>
-			<p>I spent six unforgettable years here at NWU from 2017 to 2023, and this compilation includes photos that I took at NWU. <a href="{{ site.url }}/photography/2023/10/19/test">Read More</a></p>
+			<p>I spent six unforgettable years here at NWU from 2017 to 2023, and this compilation includes photos that I took at NWU. <a href="{{ site.url }}/_posts/photography/2023-10-19-test.md">Read More</a></p>
 		</div>
 	</div>
 	
