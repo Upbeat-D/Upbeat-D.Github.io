@@ -19,7 +19,7 @@ image: images/DaLi-11.jpg
 			<a href="{{ site.url }}/photography/2023/10/19/test/">
 				<h6>A NWU collection</h6>
 			</a>
-			<p>I spent six unforgettable years here at NWU from 2017 to 2023, and this compilation includes photos that I took at NWU. <a href="{{ site.url }}/photography/2020/05/21/ld/">Read More</a></p>
+			<p>I spent six unforgettable years here at NWU from 2017 to 2023, and this compilation includes photos that I took at NWU. <a href="{{ site.url }}/photography/2023/10/19/test/">Read More</a></p>
 		</div>
 	</div>
 	
