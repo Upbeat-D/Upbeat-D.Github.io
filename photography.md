@@ -24,7 +24,7 @@ image: images/DaLi-11.jpg
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/XiAn/XiAn-02.jpg" alt="">
+		<img class="box-img" src="/images/photography/XiAn/XiAn-07.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2020/01/03/glacier/">
 				<h6>XiAn</h6>
@@ -44,7 +44,7 @@ image: images/DaLi-11.jpg
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/USTC/USTC-03.jpg" alt="">
+		<img class="box-img" src="/images/photography/USTC/USTC-05.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2019/07/27/tibet/">
 				<h6>USTC, 2023</h6>

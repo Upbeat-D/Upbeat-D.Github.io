@@ -5,7 +5,7 @@ description: Glacier
 date: 2020-1-3 12:48:45
 categories:
 - photography
-image: /images/photography/XiAn/XiAn-02.jpg
+image: /images/photography/XiAn/XiAn-07.jpg
 ---
 
 <div class="img-parent">
@@ -47,7 +47,6 @@ image: /images/photography/XiAn/XiAn-02.jpg
 <div class="img-parent">
 <img src="/images/photography/XiAn/XiAn-10.jpg" alt="Exploring the ancient streets of Xi'an under the morning sun." style="height:100%;width:100%;"/>
 </div>
-
 
 
 
