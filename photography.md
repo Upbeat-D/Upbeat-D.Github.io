@@ -82,15 +82,5 @@ image: images/DaLi-11.jpg
 			<p>In this past summer, I joined a field trip in southern Tibet, one of my not-so-many long serious field trips. The field trip was led by Dr. Weiqiang Ji from CAS. We had a total of eight... <a href="{{ site.url }}/photography/2018/07/23/tibet/">Read More</a></p>
 		</div>
 	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/L1470348.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2018/03/23/canada/">
-				<h6>The Canadian Rockies - a winter-spring trip</h6>
-			</a>
-			<p>The Canadian Rockies make a part of the North American Rockies, which have multiple ranges of mountains. They formed as a result of the Sevier orogeny about 140 to... <a href="{{ site.url }}/photography/2018/03/23/canada/">Read More</a></p>
-		</div>
-	</div>
 
 </div>
