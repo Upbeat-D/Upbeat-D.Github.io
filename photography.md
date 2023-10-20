@@ -14,26 +14,6 @@ image: images/DaLi-11.jpg
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/Roe.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2023/06/07/Roe/">
-				<h6>Roe</h6>
-			</a>
-			<p>This is my Roe. <a href="{{ site.url }}/photography/2023/06/07/Roe">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/NWU/NWU-07.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2023/10/20/test/">
-				<h6>A NWU collection</h6>
-			</a>
-			<p>I spent six unforgettable years here at NWU from 2017 to 2023, and this compilation includes photos that I took at NWU. <a href="{{ site.url }}/photography/2023/10/20/test/">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/NWU/NWU-07.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2020/05/21/ld/">
