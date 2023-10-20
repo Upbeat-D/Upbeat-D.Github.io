@@ -56,30 +56,30 @@ image: images/DaLi-11.jpg
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/Street Photography/SP-10.jpg" alt="">
 		<div class="box-text">
-			<a href="{{ site.url }}/photography/2019/01/03/bay/">
-				<h6>Street Photography</h6>
+			<a href="{{ site.url }}/photography/2022/02/10/Street-photography/">
+				<h6>Street Photography, 2017-2022</h6>
 			</a>
-			<p>Before and after our road trip in Washington, we made a few short trips in the bay area of California. We drove the Half Moon Bay to see tide pool, Land Ends and revisited Point Reyes National Seashore. There are a lot of scenic spots along the... <a href="{{ site.url }}/photography/2019/01/03/bay/">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/HuaShan/HuaShan-05.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2018/12/30/washington/">
-				<h6>HuaShan</h6>
-			</a>
-			<p>I visited China three times this year. For the first time in seven years, I had a chance to celebrate the Lunar new year with my family in China! I also went to Tibet, for the... <a href="{{ site.url }}/photography/2018/12/30/washington/">Read More</a></p>
+			<p>I love street photography and nature photography, and this compilation is my immature street photography... <a href="{{ site.url }}/photography/2022/02/10/Street-photography/">Read More</a></p>
 		</div>
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/DaLi/DaLi-09.jpg" alt="">
 		<div class="box-text">
-			<a href="{{ site.url }}/photography/2018/07/23/tibet/">
-				<h6>DaLi</h6>
+			<a href="{{ site.url }}/photography/2021/06/19/Dali/">
+				<h6>Dali, 2021</h6>
 			</a>
-			<p>In this past summer, I joined a field trip in southern Tibet, one of my not-so-many long serious field trips. The field trip was led by Dr. Weiqiang Ji from CAS. We had a total of eight... <a href="{{ site.url }}/photography/2018/07/23/tibet/">Read More</a></p>
+			<p>I spent three years of high school in Dali, and I have visited Dali several times since I graduated from high school. Compared with the bustling tourists in Dali, I consider Dali as my own place.... <a href="{{ site.url }}/photography/2021/06/19/Dali">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/Mount Hua/MH-06.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2019/04/06/Mount-Hua/">
+				<h6>HuaShan</h6>
+			</a>
+			<p>In April this year, my sister came from Kunming to visit me in Xi'an, and we strolled around Xi'an together and went to Mt. Huashan... <a href="{{ site.url }}/photography/2019/04/06/Mount-Hua/">Read More</a></p>
 		</div>
 	</div>
 	
