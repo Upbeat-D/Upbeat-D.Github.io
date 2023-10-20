@@ -1,0 +1,29 @@
+---
+layout: post
+title: Beijing, 2018
+description: Beijing
+date: 2018-07-20 07:00:00
+categories:
+- photography
+image: /images/photography/Beijing/Beijing-05.jpg
+---
+
+<div class="img-parent">
+    <img src="/images/photography/Beijing/Beijing-01.jpg" alt="Beijing-01.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Beijing/Beijing-02.jpg" alt="Beijing-02.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Beijing/Beijing-03.jpg" alt="Beijing-03.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Beijing/Beijing-04.jpg" alt="Beijing-04.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Beijing/Beijing-05.jpg" alt="Beijing-05.jpg" style="height:100%;width:100%;"/>
+</div>

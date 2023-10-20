@@ -82,5 +82,15 @@ image: images/DaLi-11.jpg
 			<p>In this past summer, I joined a field trip in southern Tibet, one of my not-so-many long serious field trips. The field trip was led by Dr. Weiqiang Ji from CAS. We had a total of eight... <a href="{{ site.url }}/photography/2018/07/23/tibet/">Read More</a></p>
 		</div>
 	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/Beijing/Beijing-05.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2018/07/20/Beijing/">
+				<h6>Trip to Beijing, 2018</h6>
+			</a>
+			<p>This summer, I participated in a field trip in Qinhuang island, after the end of the trip I went to Beijing, this is my first time to go to the capital of our country!... <a href="{{ site.url }}/photography/2018/07/20/Beijing/">Read More</a></p>
+		</div>
+	</div>
 
 </div>

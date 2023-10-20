@@ -1,0 +1,59 @@
+---
+layout: post
+title: A NWU collection 
+description: expeditions
+date: 2023-10-05 07:00:00
+categories:
+- photography
+image: /images/photography/NWU/NWU-07.jp
+---
+
+I spent six unforgettable years here at NWU from 2017 to 2023, and this compilation includes photos that I took at NWU.
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-01.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-02.jpg" alt="NWU has a lot of ginkgoes inside, my favorite thing about NWU in the fall!" style="height:80%;width:80%;"/>
+</div>
+
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-03.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-04.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-05.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-06.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-07.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-08.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-09.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-10.jpg" alt="Walking on a street in San Juan, after dinner." style="height:80%;width:80%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-11.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-12.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+</div>

@@ -1,0 +1,65 @@
+---
+layout: post
+title: Xi'an, 2017-2023
+description: Xi'an
+date: 2023-9-03 07:00:00
+categories:
+- photography
+image: /images/photography/XiAn/XiAn-07.jpg
+---
+
+<div class="img-parent">
+<img src="/images/photography/XiAn/XiAn-01.jpg" alt="Visiting the historical landmarks of Xi'an on a bright day." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/XiAn/XiAn-02.jpg" alt="Capturing the vibrant colors of Xi'an's markets and bazaars." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/XiAn/XiAn-03.jpg" alt="Admiring the grandeur of Xi'an's ancient architecture." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/XiAn/XiAn-04.jpg" alt="Savoring the flavors of Xi'an's famous cuisine." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/XiAn/XiAn-05.jpg" alt="Strolling through the bustling streets of Xi'an at twilight." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/XiAn/XiAn-06.jpg" alt="Immersing in the rich culture and traditions of Xi'an." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/XiAn/XiAn-07.jpg" alt="Discovering the hidden gems of Xi'an's historical district." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/XiAn/XiAn-08.jpg" alt="Enjoying a quiet evening by the ancient city wall of Xi'an." style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/XiAn/XiAn-09.jpg" alt="Experiencing the magic of Xi'an's night markets." style="height:60%;width:60%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/XiAn/XiAn-10.jpg" alt="Exploring the ancient streets of Xi'an under the morning sun." style="height:100%;width:100%;"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
