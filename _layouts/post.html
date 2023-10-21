@@ -35,13 +35,15 @@ layout: default
             <div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }} ">Home</a></div>
             <div class="column-3">
                 {% assign next_post = nil %}
+                {% assign found_next = false %}
                 {% for post in site.posts %}
                     {% if post.series == page.series and post.date > page.date %}
                         {% assign next_post = post %}
+                        {% assign found_next = true %}
                         {% break %}
                     {% endif %}
                 {% endfor %}
-                {% if next_post %}
+                {% if found_next %}
                     <a href="{{ next_post.url | prepend: site.baseurl | prepend: site.url }}">Newer >></a>
                 {% else %}
                     <span>Newer >></span>
@@ -50,3 +52,4 @@ layout: default
         </div>
     </div>
 </div>
+
