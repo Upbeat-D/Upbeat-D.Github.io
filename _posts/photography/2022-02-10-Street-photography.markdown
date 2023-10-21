@@ -3,8 +3,7 @@ layout: post
 title: A Street photography collection 
 description: street photography
 date: 2022-02-10 07:00:00
-categories:
-- photography
+categories: photography
 image: /images/photography/Street Photography/SP-02.jpg
 ---
 

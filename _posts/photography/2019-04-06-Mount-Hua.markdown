@@ -3,8 +3,7 @@ layout: post
 title: Mount Hua, 2019
 description: Mount Hua
 date: 2019-04-06 07:00:00
-categories:
-- photography
+categories: photography
 image: /images/photography/Mount Hua/MH-07.jpg
 ---
 

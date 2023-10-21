@@ -20,34 +20,22 @@ layout: default
 		</div>
 	</div>
 
-	<!-- for disqus -->
-	<!-- div id="disqus_thread"></div -->
-	<!-- script>
-		var disqus_config = function () {
-				this.page.url = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}";
-				this.page.identifier = "{{ page.id }}";
-		};
-		(function() {
-				var d = document, s = d.createElement('script');
-				s.src = 'https://mingtang.disqus.com/embed.js';
-				s.setAttribute('data-timestamp', +new Date());
-				(d.head || d.body).appendChild(s);
-		})();
-	</script -->
-	<!-- noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript -->
-
 	<div class="post-footer">
 		<div class="column-1">
-			{% if page.previous and page.previous.categories contains 'research-blog' %}
-				<a href="{{page.previous.url | prepend: site.baseurl | prepend: site.url }}"><< Older</a>
+			{% if page.previous.categories contains 'research-blog' %}
+				<a href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}"><< Older</a>
+			{% elsif page.previous.categories contains 'photography' %}
+				<a href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}"><< Older (Photography)</a>
 			{% else %}
 				<span><< Older</span>
 			{% endif %}
 		</div>
-		<div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }} ">Home</a></div>
+		<div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">Home</a></div>
 		<div class="column-3">
-			{% if page.next and page.next.categories contains 'research-blog' %}
+			{% if page.next.categories contains 'research-blog' %}
 				<a href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}">Newer >></a>
+			{% elsif page.next.categories contains 'photography' %}
+				<a href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}">Newer (Photography) >></a>
 			{% else %}
 				<span>Newer >></span>
 			{% endif %}

@@ -3,8 +3,7 @@ layout: post
 title: WuGong 
 description: WuGong 
 date: 2023-08-18 07:00:00
-categories:
-- photography
+categories: photography
 image: /images/photography/Wugong/Wugong-10.jpg
 ---
 
@@ -59,4 +58,3 @@ image: /images/photography/Wugong/Wugong-10.jpg
 <div class="img-parent">
     <img src="/images/photography/Wugong/Wugong-13.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
 </div>
-
