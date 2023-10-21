@@ -10,11 +10,17 @@ image: images/tang.jpg
 
 ---
 
-- M.S., Geology, Northwest University &emsp;<span class="date">2021 - </span>
-supervised by Prof. **Li-Hui CHEN**&emsp;[<em>**[His Web]**</em>](http://www.rockingmantle.com/en/col.jsp?id=170) &amp; Assoc. Prof. **Xiao-Jun Wang**&emsp;[<em>**[His Web]**</em>](http://www.rockingmantle.com/en/col.jsp?id=174)
+- M.S., Geology, Northwest University &emsp;<span class="date">2021--present </span>
+
+  <br>
+
+  supervised by Prof. **Li-Hui CHEN**&emsp;[<em>**[His Web]**</em>](http://www.rockingmantle.com/en/col.jsp?id=170) &emsp;&amp; &emsp;Assoc. Prof. **Xiao-Jun Wang**&emsp;[<em>**[His Web]**</em>](http://www.rockingmantle.com/en/col.jsp?id=174)
 
 - B.E., Resource Prospecting Engineering, Northwest University &emsp;<span class="date">2017 - 2021</span>
-  <br>supervised by Prof. **Gang CHEN**&emsp;[<em>**[His Web]**</em>](http://geology.nwu.edu.cn/article/teacher/id/71.html)
+  
+  <br>
+  
+  supervised by Prof. **Gang CHEN**&emsp;[<em>**[His Web]**</em>](http://geology.nwu.edu.cn/article/teacher/id/71.html)
 
 ##### <a name="publications"></a>Publications
 
