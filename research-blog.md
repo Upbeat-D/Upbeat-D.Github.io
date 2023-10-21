@@ -33,7 +33,7 @@ image: images/posts/early-archean-vs-present-continents.png
 		<img class="box-img" src="/images/posts/IMG00276-thumb.JPG" alt="nbta">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2019/01/18/nbta/">
-				<h6>2023.10 Missing heavy iron isotopes in Hawaii</h6>
+				<h5>Missing heavy iron isotopes in Hawaii</h5>
 			</a>
 			<p>In the past several years, my most visited states in the US are Arizona and California. During my dozens of flights across the western US, I liked to stare at the vast mountainous lands through the airplane... <a href="{{ site.url }}/research-blog/2019/01/18/nbta/">Read More</a></p>
 		</div>
@@ -68,5 +68,5 @@ image: images/posts/early-archean-vs-present-continents.png
 			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea. When... <a href="{{ site.url }}/research-blog/2017/03/26/when-did-earths-continental-crust-form/">Read More</a></p>
 		</div>
 	</div>
-	
+
 </div>
