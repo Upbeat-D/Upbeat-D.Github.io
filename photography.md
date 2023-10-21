@@ -64,7 +64,7 @@ image: images/DaLi-11.jpg
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/DaLi/DaLi-10.jpg" alt="">
+		<img class="box-img" src="/images/photography/Dali/Dali-10.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2021/06/19/Dali/">
 				<h6>Dali, 2021</h6>
