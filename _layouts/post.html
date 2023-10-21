@@ -20,24 +20,29 @@ layout: default
         </div>
         <div class="post-footer">
             <div class="column-1">
-                {% if page.previous %}
-                    {% if page.previous.series == page.series %}
-                        <a href="{{page.previous.url | prepend: site.baseurl | prepend: site.url }}"><< Older</a>
-                    {% else %}
-                        <span><< Older</span>
+                {% assign previous_post = nil %}
+                {% for post in site.posts %}
+                    {% if post.series == page.series and post.date < page.date %}
+                        {% assign previous_post = post %}
                     {% endif %}
+                {% endfor %}
+                {% if previous_post %}
+                    <a href="{{ previous_post.url | prepend: site.baseurl | prepend: site.url }}"><< Older</a>
                 {% else %}
                     <span><< Older</span>
                 {% endif %}
             </div>
             <div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }} ">Home</a></div>
             <div class="column-3">
-                {% if page.next %}
-                    {% if page.next.series == page.series %}
-                        <a href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}">Newer >></a>
-                    {% else %}
-                        <span>Newer >></span>
+                {% assign next_post = nil %}
+                {% for post in site.posts %}
+                    {% if post.series == page.series and post.date > page.date %}
+                        {% assign next_post = post %}
+                        {% break %}
                     {% endif %}
+                {% endfor %}
+                {% if next_post %}
+                    <a href="{{ next_post.url | prepend: site.baseurl | prepend: site.url }}">Newer >></a>
                 {% else %}
                     <span>Newer >></span>
                 {% endif %}
