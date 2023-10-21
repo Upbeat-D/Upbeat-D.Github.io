@@ -3,42 +3,52 @@ layout: default
 ---
 
 <div class="page-content wc-container">
-	<div class="post">
-		<h1>{{ page.title }}</h1>
-		<p class="post-meta">
-			{% if page.categories.size > 0 %}
-			<span class="categories">
-			{{ page.categories | array_to_sentence_string }}
-			</span> |
-			{% endif %}
-			<span class="post-date">
-			{{ page.date | date: "%b %-d, %Y" }}
-			</span>
-		</p>
-		<div class="post">
-			{{ content }}
-		</div>
-	</div>
+    <div class="post">
+        <h1>{{ page.title }}</h1>
+        <p class="post-meta">
+            {% if page.categories.size > 0 %}
+            <span class="categories">
+                {{ page.categories | array_to_sentence_string }}
+            </span> |
+            {% endif %}
+            <span class="post-date">
+                {{ page.date | date: "%b %-d, %Y" }}
+            </span>
+        </p>
+        <div class="post">
+            {{ content }}
+        </div>
+    </div>
+</div>
 
-	<div class="post-footer">
-		<div class="column-1">
-			{% if page.previous.categories contains 'research-blog' %}
-				<a href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}"><< Older</a>
-			{% elsif page.previous.categories contains 'photography' %}
-				<a href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}"><< Older (Photography)</a>
-			{% else %}
-				<span><< Older</span>
-			{% endif %}
-		</div>
-		<div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">Home</a></div>
-		<div class="column-3">
-			{% if page.next.categories contains 'research-blog' %}
-				<a href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}">Newer >></a>
-			{% elsif page.next.categories contains 'photography' %}
-				<a href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}">Newer (Photography) >></a>
-			{% else %}
-				<span>Newer >></span>
-			{% endif %}
-		</div>
-	</div>
+<div class="post-footer">
+    <div class="column-1">
+        {% assign previous_post = nil %}
+        {% assign next_post = nil %}
+        {% assign current_series = page.series %}
+
+        {% for post in site.posts %}
+            {% if post.series == current_series %}
+                {% if post.date < page.date %}
+                    {% assign previous_post = post %}
+                {% elsif post.date > page.date and next_post == nil %}
+                    {% assign next_post = post %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+
+        {% if previous_post %}
+            <a href="{{ previous_post.url | prepend: site.baseurl | prepend: site.url }}"><< Older</a>
+        {% else %}
+            <span><< Older</span>
+        {% endif %}
+    </div>
+    <div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }} ">Home</a></div>
+    <div class="column-3">
+        {% if next_post %}
+            <a href="{{ next_post.url | prepend: site.baseurl | prepend: site.url }}">Newer >></a>
+        {% else %}
+            <span>Newer >></span>
+        {% endif %}
+    </div>
 </div>
