@@ -38,7 +38,7 @@ layout: default
 
 	<div class="post-footer">
 		<div class="column-1">
-			{% if page.previous %}
+			{% if page.previous and page.previous.categories contains 'research-blog' %}
 				<a href="{{page.previous.url | prepend: site.baseurl | prepend: site.url }}"><< Older</a>
 			{% else %}
 				<span><< Older</span>
@@ -46,7 +46,7 @@ layout: default
 		</div>
 		<div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }} ">Home</a></div>
 		<div class="column-3">
-			{% if page.next %}
+			{% if page.next and page.next.categories contains 'research-blog' %}
 				<a href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}">Newer >></a>
 			{% else %}
 				<span>Newer >></span>
