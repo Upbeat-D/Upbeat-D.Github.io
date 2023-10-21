@@ -23,7 +23,9 @@ layout: default
                 {% assign previous_post = nil %}
                 {% for post in site.posts %}
                     {% if post.series == page.series and post.date < page.date %}
-                        {% assign previous_post = post %}
+                        {% if previous_post == nil or post.date > previous_post.date %}
+                            {% assign previous_post = post %}
+                        {% endif %}
                     {% endif %}
                 {% endfor %}
                 {% if previous_post %}
@@ -35,15 +37,14 @@ layout: default
             <div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }} ">Home</a></div>
             <div class="column-3">
                 {% assign next_post = nil %}
-                {% assign found_next = false %}
                 {% for post in site.posts %}
                     {% if post.series == page.series and post.date > page.date %}
-                        {% assign next_post = post %}
-                        {% assign found_next = true %}
-                        {% break %}
+                        {% if next_post == nil or post.date < next_post.date %}
+                            {% assign next_post = post %}
+                        {% endif %}
                     {% endif %}
                 {% endfor %}
-                {% if found_next %}
+                {% if next_post %}
                     <a href="{{ next_post.url | prepend: site.baseurl | prepend: site.url }}">Newer >></a>
                 {% else %}
                     <span>Newer >></span>
