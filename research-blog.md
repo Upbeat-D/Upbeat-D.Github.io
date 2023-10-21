@@ -33,7 +33,7 @@ image: images/posts/early-archean-vs-present-continents.png
 		<img class="box-img" src="/images/posts/IMG00276-thumb.JPG" alt="nbta">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2019/01/18/nbta/">
-				<h6>2019-1. Twin elements point to the mystery of continents</h6>
+				<h6>2023.10 Missing heavy iron isotopes in Hawaii</h6>
 			</a>
 			<p>In the past several years, my most visited states in the US are Arizona and California. During my dozens of flights across the western US, I liked to stare at the vast mountainous lands through the airplane... <a href="{{ site.url }}/research-blog/2019/01/18/nbta/">Read More</a></p>
 		</div>
@@ -69,43 +69,4 @@ image: images/posts/early-archean-vs-present-continents.png
 		</div>
 	</div>
 	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/ns-thumb.jpg" alt="ns">
-		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/12/zircon-li/">
-				<h6>2017-4. Li diffusion mechanism in zircon—the masterpiece of my Ph.D. research</h6>
-			</a>
-			<p>This is the project that I originally proposed for my Ph.D. dissertation, although I ended up doing multiple projects that interested me. To solve the problem, I teamed up with people from multiple inst... <a href="{{ site.url }}/research-blog/2017/03/12/zircon-li/">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/island-arc-thumb.jpg" alt="island arc">
-		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/06/lesser-antilles-li/">
-				<h6>2017-3. In search of crustal Li in arc lavas, "fishing expedition" and hypothesis-driven research strategies</h6>
-			</a>
-			<p>This project was suggested by one of my advisors, Roberta Rudnick, because I was being funded on a grant to investigate Li isotopes. This project started off as a “fishing expedition”, something my... <a href="{{ site.url }}/research-blog/2017/03/06/lesser-antilles-li/">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/mid-ocean-ridge-thumb.jpg" alt="mid ocean ridge">
-		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/02/28/morb-eu/">
-				<h6>2017-2. Hunting for the ghost of the recycled lower crust</h6>
-			</a>
-			<p>Following the first project, I began to search for this missing lower continental crust in mantle samples with the Eu “probe”. The recycled lower continental crust carries a Eu excess, and any mantle melts that tap this crustal component should show a positive Eu anomaly... <a href="{{ site.url }}/research-blog/2017/02/28/morb-eu/">Read More</a></p>
-		</div>
-	</div>
-
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/lower-crust-foundering-thumb.jpg" alt="lower crust foundering">
-		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/02/22/lower-crust-foundering/">
-				<h6>2017-1. Lower crust recycling — refining from beneath</h6>
-			</a>
-			<p>How did Earth’s continental crust form? A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product of our... <a href="{{ site.url }}/research-blog/2017/02/22/lower-crust-foundering/">Read More</a></p>
-		</div>
-	</div>
 </div>
