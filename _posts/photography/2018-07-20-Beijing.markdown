@@ -26,12 +26,3 @@ image: /images/photography/Beijing/Beijing-05.jpg
 <div class="img-parent">
     <img src="/images/photography/Beijing/Beijing-05.jpg" alt="Beijing-05.jpg" style="height:100%;width:100%;"/>
 </div>
-	<div class="post-footer">
-		<div class="column-1">
-					<span><< Older</span>
-		</div>
-		<div class="column-2"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }} ">Home</a></div>
-		<div class="column-3">
-				<a href="{{ site.url }}/photography/2019/04/06/Mount-Hua/">Newer >></a>
-		</div>
-	</div>
