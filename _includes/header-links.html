@@ -11,7 +11,4 @@
 	<li {% if (page.permalink contains "/photography") or (page.categories contains "photography") %} id="current" {% endif %}>
 		<a href="{{ '/photography/' | prepend: site.baseurl | prepend: site.url }}">Photography</a><span>/</span>
 	</li>
-	<li {% if page.permalink contains "/media" %} id="current" {% endif %}>
-		<a href="{{ '/media/' | prepend: site.baseurl | prepend: site.url }}">Media</a><span>/</span>
-	</li>
 </ul>
