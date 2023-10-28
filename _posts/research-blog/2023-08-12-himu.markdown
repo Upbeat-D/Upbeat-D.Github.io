@@ -8,10 +8,13 @@ image: images/research/himu/endmember.jpg
 
 {:#DropCap}
 <!-- adding {:#DropCap} above will make first letter of first word CAPITAL and Large -->
+The famous HIMU (high μ = <sup>238</sup>U/<sup>204</sup>Pb) component in the mantle ‘zoo’ has traditionally been thought to represent ancient recycled oceanic crust with highly fractionated U/Pb and Th/Pb ratios.  The classic HIMU OIBs from the Cook-Austral volcanic chain, south Pacific, have δ<sup>57</sup>Fe values similar to those of normal mid-ocean ridge basalts (N-MORBs, δ<sup>57</sup>Fe = 0.15 ± 0.05‰, 2SD). Combined with previously reported heavy whole-rock zinc isotopes (δ<sup>66</sup>Zn = 0.38 ± 0.03‰) and characteristic chemical compositions (low Fe/Mn and high Ca/Al ratios) of olivine phenocrysts in the HIMU lavas, confirm that the HIMU mantle source is most likely to be carbonated peridotite formed by reaction between normal peridotite and carbonate-bearing melts from subducted carbonated oceanic crust.
 
+The δ<sup>57</sup>Fe<sub>corr</sub> values of all OIBs from the type localities for the several mantle components obviously exhibit a negative correlation with radiogenic Nd and Hf isotopic compositions **(Fig. 1).** The combining of Fe stable isotopes and long-live radiogenic isotopes on OIBs offer new insights for the ancient crust-mantle process and related mantle dynamics: (1) the heterogeneity in radiogenic isotopic compositions of the mantle is closely linked to the lithological heterogeneity; (2) the variable Fe isotopic compositions of OIBs can reflect the different fates of recycled crustal materials in the mantle. Some recycled crustal materials have been directly incorporated into the mantle source of OIBs, while others have indirectly contributed to the generation of OIBs through processes like metasomatism.
 
 <div class="img-parent">
 <img src="/images/research/himu/endmember.jpg" alt="endmember OIBs" style="height:100%;width:100%;"/>
 </div>
+
 {:#caption}
-**Fig. 7**. δ<sup>57</sup>Fe<sub>corr</sub> versus (A) ε<sub>Nd</sub> and (B)ε<sub>Hf</sub> for Cook-Austral samples. Also shown are literature data for endmember OIBs from St. Helena, Louisville, Pitcairn and Samoa OIBs.
+**Fig. 1**. δ<sup>57</sup>Fe<sub>corr</sub> versus (A) ε<sub>Nd</sub> and (B)ε<sub>Hf</sub> for Cook-Austral samples. Also shown are literature data for endmember OIBs from St. Helena, Louisville, Pitcairn and Samoa OIBs.
