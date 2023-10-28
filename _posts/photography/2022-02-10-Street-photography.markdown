@@ -7,8 +7,10 @@ categories: photography
 image: /images/photography/Street Photography/SP-02.jpg
 ---
 
+I like to take landscape photos and also like street photography. This collection contains my street photos.
+
 <div class="img-parent">
-<img src="/images/photography/Street Photography/SP-01.jpg" alt="Capturing candid moments on the bustling streets of the city." style="height:100%;width:100%;"/>
+<img src="/images/photography/Street Photography/SP-01.jpg" alt="Capturing candid moments on the bustling streets of the city." style="height:60%; width:60%;"/>
 </div>
 
 <div class="img-parent">

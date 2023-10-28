@@ -7,18 +7,19 @@ categories: photography
 image: /images/photography/Dali/Dali-10.jpg
 ---
 
+I went to high school in Dali for three years. I have some friends there. Dali is not a popular tourist destination for me, but it is like a hometown. When I get too stressed out in the city, I always think of my leisurely time in Dali. This photo collection includes photos I took during my many visits to Dali.
+
 <div class="img-parent">
     <img src="/images/photography/Dali/Dali-01.jpg" alt="Walking on a street in Dali, after dinner." style="height:100%;width:100%;"/>
 </div>
-
 <div class="img-parent">
     <img src="/images/photography/Dali/Dali-02.jpg" alt="Exploring the streets of Dali in the afternoon." style="height:100%;width:100%;"/>
 </div>
+At sunset, the mountains in the distance look like a traditional Chinese ink painting
 
 <div class="img-parent">
     <img src="/images/photography/Dali/Dali-03.jpg" alt="Admiring the beauty of Dali's ancient architecture." style="height:100%;width:100%;"/>
 </div>
-
 <div class="img-parent">
     <img src="/images/photography/Dali/Dali-04.jpg" alt="Savoring local cuisine in the heart of Dali." style="height:100%;width:100%;"/>
 </div>

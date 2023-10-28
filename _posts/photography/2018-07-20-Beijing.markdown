@@ -7,17 +7,17 @@ categories: photography
 image: /images/photography/Beijing/Beijing-05.jpg
 ---
 
-When I was 18 years old, I came to the capital of my country for the first time. Compared with my hometown, this place is much more prosperous. I tirelessly visited many famous places with my camera, Tiananmen, the Forbidden City, Xiangshan Park... I love Beijing
+When I was 18 years old, I came to the capital of my country for the first time. Compared with my hometown, Beijing is much more prosperous. I tirelessly visited many famous places with my camera, Tiananmen, the Forbidden City, Xiangshan Park... I love Beijing.
 
 <div class="img-parent">
     <img src="/images/photography/Beijing/Beijing-01.jpg" alt="Beijing-01.jpg" style="height:100%;width:100%;"/>
 </div>
-White lotus flowers and green lotus leaves
+White lotus flowers and green lotus leaves.
 
 <div class="img-parent">
     <img src="/images/photography/Beijing/Beijing-02.jpg" alt="Beijing-02.jpg" style="height:100%;width:100%;"/>
 </div>
-Temple of Heaven
+The Temple of Heaven is smaller than I thought.
 
 <div class="img-parent">
     <img src="/images/photography/Beijing/Beijing-03.jpg" alt="Beijing-03.jpg" style="height:100%;width:100%;"/>
