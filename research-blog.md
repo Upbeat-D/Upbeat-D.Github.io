@@ -9,6 +9,7 @@ permalink: /research-blog/
 	<hr>
 	<p id="DropCap">The mantle, Earth’s largest geochemical reservoir and primary source of volcanism, shows great heterogeneity on different magnitude and length scale. Current geochemical evidence indicates that the heterogeneity could be attributed to the recycling of crustal materials during the plate tectonic cycle. This unique mechanism set Earth apart from its close cousins in the solar system, by linking both the materials and energy of the interior and exterior of this planet. If the Earth did not have this unique dynamic, our planet would look drastically different today. The formation of the felsic continental crust, vital for habitability, might never have occurred. Instead, a mafic crust would dominate, potentially depleting the essential oxygen we rely on for life.
 	</p>
+	<p>
 	What is the role of mantle in shaping our habitable planet? Precise and accurate knowledge of its composition and evolution may help to reconstruction of the evolution of our planet. 
 	</p>
 	<p style="margin-bottom:48px">
