@@ -32,7 +32,7 @@ permalink: /research-blog/
 			<a href="{{ site.url }}/research-blog/2023/08/12/himu/">
 				<h5>Iron isotopes point to the lithology of the HIMU component</h5>
 			</a>
-			<p>The significant variation of long-lived radiogenic isotope compositions in oceanic basalts indicates a highly heterogeneous mantle, and the classic HIMU component stands out for its extremely radiogenic lead isotopic composition ... <a href="{{ site.url }}/research-blog/2023/08/12/himu/">Read More</a></p>
+			<p>The classic HIMU component is known for its extremely radiogenic lead isotopic composition ... <a href="{{ site.url }}/research-blog/2023/08/12/himu/">Read More</a></p>
 		</div>
 	</div>
 	
