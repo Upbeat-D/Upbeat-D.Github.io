@@ -9,7 +9,7 @@ image: images/research/ntsi/global.png
 {:#DropCap}
 <!-- adding {:#DropCap} above will make first letter of first word CAPITAL and Large -->Since this century, the booming development of non-traditional stable isotopes has become one of the most striking advances in geochemistry. Various isotope systems have been successively developed and applied in fields such as solid earth science, planetary geochemistry, and low-temperature geological processes, and have made remarkable progress.
 
-This project was suggested by one of my advisors, Li-Hui Chen. We reconstruct the progress of the non-traditional stable isotopes through bibliometrics. A total of 4111 relevant documents were included in the statistics.
+This project was suggested by one of my advisors, Li-Hui Chen. We reconstruct the history of the development of the non-traditional stable isotopes through bibliometrics. A total of 4111 relevant publications were included in the statistics.
 
 ![fig1]({{ site.url }}/images/research/ntsi/fig1.png)
 
@@ -19,7 +19,7 @@ This project was suggested by one of my advisors, Li-Hui Chen. We reconstruct th
 ![3stages]({{ site.url }}/images/research/ntsi/3stages.png)
 
 {:#caption}
-**Fig. 2**. Number of publications of non-traditional stable isotopes by different countries. Switzerland dropped out of the top five in later 2 stage, and the proportions of the United Kingdom, Germany, and France were basically stable. The share of the United States continues to decline, and China catches up from behind.
+**Fig. 2**. Number of publications of non-traditional stable isotopes by different countries. Switzerland dropped out of the top five in later 2 stages, and the proportions of the United Kingdom, Germany, and France were basically stable. The share of the United States continues to decline, and China catches up from behind.
 
 <div class="img-parent">
   <img src="{{ site.url }}/images/research/ntsi/journals.png" style="text-align:center; width:60%; height:60%;">
