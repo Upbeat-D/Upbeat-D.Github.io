@@ -20,53 +20,53 @@ I thought I would burst out with strong emotions when I reached the top, but I d
 The return trip also stopped in Changsha. I visited the International Financial Center in a dusty way, looked for rice noodles in the alleys, climbed Yuelu Mountain at night, drank with strangers at youth hostel, watched old people fishing on the banks of the Xiangjiang River, and rode an electric car to catch the high-speed train.
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-01.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-01.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-02.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-02.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-03.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-03.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-04.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-04.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-05.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-05.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-06.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-06.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-07.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-07.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-08.jpg" alt="Walking on a street in San Juan, after dinner." style="height:60%;width:60%;"/>
+    <img src="/images/photography/Wugong/Wugong-08.jpg" style="height:60%;width:60%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-09.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-09.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-10.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-10.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-11.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-11.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-12.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-12.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-    <img src="/images/photography/Wugong/Wugong-13.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
+    <img src="/images/photography/Wugong/Wugong-13.jpg" style="height:100%;width:100%;"/>
 </div>

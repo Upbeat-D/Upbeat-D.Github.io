@@ -37,15 +37,15 @@ image: /images/photography/XiAn/XiAn-07.jpg
 
 
 <div class="img-parent">
-<img src="/images/photography/XiAn/XiAn-08.jpg" alt="Enjoying a quiet evening by the ancient city wall of Xi'an." style="height:100%;width:100%;"/>
+<img src="/images/photography/XiAn/XiAn-08.jpg" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/XiAn/XiAn-09.jpg" alt="Experiencing the magic of Xi'an's night markets." style="height:60%;width:60%;"/>
+<img src="/images/photography/XiAn/XiAn-09.jpg" style="height:60%;width:60%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/XiAn/XiAn-10.jpg" alt="Exploring the ancient streets of Xi'an under the morning sun." style="height:100%;width:100%;"/>
+<img src="/images/photography/XiAn/XiAn-10.jpg" style="height:100%;width:100%;"/>
 </div>
 
 
