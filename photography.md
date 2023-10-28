@@ -10,8 +10,9 @@ image: images/DaLi-11.jpg
 <img src="/images/fengmian.jpg" alt="WuGong Mountain, PingXiang, JiangXi"/>
 
 <div class="page-content wc-container">
-	<p>I do photography as a hobby. Being an Earth scientist granted me lots of opportunities to travel around the world and see many places that may not be easily accessible to the public.</p>
+	<p>I take photography as a hobby and I like to use photos to record interesting moments in my life. Photography is also a way for me to express my ideas.</p>
 	<hr style="margin-bottom:48px">
+
 
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/NWU/NWU-07.jpg" alt="">
@@ -19,7 +20,7 @@ image: images/DaLi-11.jpg
 			<a href="{{ site.url }}/photography/2023/10/05/NWU/">
 				<h6>A NWU collection</h6>
 			</a>
-			<p>I spent six unforgettable years here at NWU from 2017 to 2023, and this compilation includes photos that I took at NWU. <a href="{{ site.url }}/photography/2023/10/05/NWU/">Read More</a></p>
+			<p>I spent six unforgettable years here at NWU from 2017 to 2023, and this compilation includes photos that I took at NWU... <a href="{{ site.url }}/photography/2023/10/05/NWU/">Read More</a></p>
 		</div>
 	</div>
 	
@@ -29,7 +30,7 @@ image: images/DaLi-11.jpg
 			<a href="{{ site.url }}/photography/2023/09/03/Xian/">
 				<h6>Xi'an, 2017--2023</h6>
 			</a>
-			<p>Time is flying by and if the application goes well, I'll be leaving Xi'an next June. I've spent an unforgettable 7 years here, and this compilation is a collection of photos I took in Xi'an!... <a href="{{ site.url }}/photography/2023/09/03/Xian/">Read More</a></p>
+			<p>Time is flying by and if the application goes well, I'll be leaving Xi'an next June. I've spent an unforgettable 7 years here, and this compilation is a collection of photos I took in Xi'an... <a href="{{ site.url }}/photography/2023/09/03/Xian/">Read More</a></p>
 		</div>
 	</div>
 	
@@ -39,7 +40,7 @@ image: images/DaLi-11.jpg
 			<a href="{{ site.url }}/photography/2023/08/18/Wugong-Mountain/">
 				<h6>Hiking in the WuGong Mountain</h6>
 			</a>
-			<p>This August, I hiked with xin in Mt. Wugong with a heavy load, and then, I visi Changsha alone!... <a href="{{ site.url }}/photography/2023/08/18/Wugong-Mountain/">Read More</a></p>
+			<p>This August, I hiked with Xin in Mt. Wugong, and then, I visi Changsha alone... <a href="{{ site.url }}/photography/2023/08/18/Wugong-Mountain/">Read More</a></p>
 		</div>
 	</div>
 	
