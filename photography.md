@@ -89,7 +89,7 @@ image: images/DaLi-11.jpg
 			<a href="{{ site.url }}/photography/2018/07/20/Beijing/">
 				<h6>Trip to Beijing, 2018</h6>
 			</a>
-			<p>This summer, I participated in a field trip in Qinhuang island, after the end of the trip I went to Beijing, this is my first time to go to the capital of our country!... <a href="{{ site.url }}/photography/2018/07/20/Beijing/">Read More</a></p>
+			<p>This summer, I participated in a field trip in Qinhuang island, after the end of the trip I went to Beijing, this is my first time to go to the capital of our country!  <a href="{{ site.url }}/photography/2018/07/20/Beijing/">Read More</a></p>
 		</div>
 	</div>
 

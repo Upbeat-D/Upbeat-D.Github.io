@@ -7,21 +7,28 @@ categories: photography
 image: /images/photography/Mount Hua/MH-07.jpg
 ---
 
+In April this year, my sister came to visit me from Kunming. We visited some places in Xi'an and climbed Mount Huashan. After descending the mountain, I vowed never to climb Mount Huashan again in my life because I was a little afraid of heights.  I used my camera to capture the beautiful afterglow at the Taoist temple at the foot of Mount Huashan.
+
+
 <div class="img-parent">
 <img src="/images/photography/Mount Hua/MH-01.jpg" alt="Exploring the breathtaking landscapes of Mount Hua." style="height:100%;width:100%;"/>
 </div>
+Someone is praying to the God of Wealth for blessing
 
 <div class="img-parent">
 <img src="/images/photography/Mount Hua/MH-02.jpg" alt="Hiking the majestic trails of Mount Hua." style="height:100%;width:100%;"/>
 </div>
+The afterglow shines on the word "福"
 
 <div class="img-parent">
 <img src="/images/photography/Mount Hua/MH-03.jpg" alt="Admiring the stunning vistas from Mount Hua's peaks." style="height:100%;width:100%;"/>
 </div>
+The afterglow shines on the word "福"
 
 <div class="img-parent">
 <img src="/images/photography/Mount Hua/MH-04.jpg" alt="Capturing the serenity of Mount Hua's mountain temples." style="height:100%;width:100%;"/>
 </div>
+The light of the setting sun shines on the yellowed doors and windows. I especially like this cozy color.
 
 <div class="img-parent">
 <img src="/images/photography/Mount Hua/MH-05.jpg" alt="Exploring the spiritual heritage of Mount Hua." style="height:100%;width:100%;"/>
@@ -34,3 +41,4 @@ image: /images/photography/Mount Hua/MH-07.jpg
 <div class="img-parent">
 <img src="/images/photography/Mount Hua/MH-07.jpg" alt="MH-07.jpg" style="height:100%;width:100%;"/>
 </div>
+The top of Mount Huashan. The surface of the granite body is hard, and the guardrails on both sides are not very high. I still get sweaty palms when I see this photo again
