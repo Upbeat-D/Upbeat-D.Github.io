@@ -30,7 +30,7 @@ permalink: /research-blog/
 		<img class="box-img" src="/images/research/himu/endmember.jpg" alt="HIMU">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2023/08/12/himu/">
-				<h5>Iron isotopes point to the source lithology of HIMU OIBs</h5>
+				<h5>Iron isotopes point to the lithology of the HIMU component</h5>
 			</a>
 			<p>Iron (Fe) is one of the elements that we are most familiar with. It is a critical resource that drives modern civilization. We use things (partially) made of Fe everyday, from forks and spoons in the kitchen, cars on the road, frame structures of buildings, to rockets flying into... <a href="{{ site.url }}/research-blog/2023/08/12/himu/">Read More</a></p>
 		</div>

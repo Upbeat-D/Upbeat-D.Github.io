@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The past and present of non-traditional stable isotopes: a bibliometric perspective
+title: The past and present of non-traditional stable isotopes
 date: 2022-06-01 07:00:00
 categories: research-blog
 image: images/research/ntsi/global.png
