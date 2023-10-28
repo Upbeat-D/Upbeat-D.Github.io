@@ -16,12 +16,12 @@ permalink: /research-blog/
 
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/IMG00276-thumb.JPG" alt="nbta">
+		<img class="box-img" src="/images/research/hawaii/map.png" alt="nbta">
 		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2019/01/18/nbta/">
+			<a href="{{ site.url }}/research-blog/2023/10/02/hawaii/">
 				<h5>The missing heavy iron isotopes in Hawaii plume</h5>
 			</a>
-			<p>In the past several years, my most visited states in the US are Arizona and California. During my dozens of flights across the western US, I liked to stare at the vast mountainous lands through the airplane... <a href="{{ site.url }}/research-blog/2019/01/18/nbta/">Read More</a></p>
+			<p>In the past several years, my most visited states in the US are Arizona and California. During my dozens of flights across the western US, I liked to stare at the vast mountainous lands through the airplane... <a href="{{ site.url }}/research-blog/2023/10/02/hawaii/">Read More</a></p>
 		</div>
 	</div>
 	
@@ -32,16 +32,6 @@ permalink: /research-blog/
 				<h6>2018-5. The missing iron in Earth's continental crust</h6>
 			</a>
 			<p>Iron (Fe) is one of the elements that we are most familiar with. It is a critical resource that drives modern civilization. We use things (partially) made of Fe everyday, from forks and spoons in the kitchen, cars on the road, frame structures of buildings, to rockets flying into... <a href="{{ site.url }}/research-blog/2018/05/12/garnet-fe/">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/crater-thumb.jpg" alt="laser craters">
-		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/04/02/la/">
-				<h6>2017-6. The source of elemental fractionation in LA-ICP-MS analysis</h6>
-			</a>
-			<p>Some of my Ph.D. projects were analytically challenging, which required measurements of either high precision or extremely small sample sizes (e.g., ~10<sup>-17</sup> g). These challenges drove me to study the instruments—how they work and how to optimize them for my research... <a href="{{ site.url }}/research-blog/2017/04/02/la/">Read More</a></p>
 		</div>
 	</div>
 	

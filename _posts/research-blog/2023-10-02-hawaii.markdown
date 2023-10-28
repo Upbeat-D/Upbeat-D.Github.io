@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Twin elements point to the mystery of continents
-description: CA
-date: 2019-01-18 12:48:45
+title: The missing heavy iron isotopes in Hawaii plume
+date: 2023-10-02 07:00:00
 categories: research-blog
-image: images/posts/IMG00276-thumb.JPG
+image: images/research/hawaii/map.png
 ---
 
 {:#DropCap}
