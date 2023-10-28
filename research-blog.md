@@ -22,7 +22,7 @@ permalink: /research-blog/
 			<a href="{{ site.url }}/research-blog/2023/10/02/hawaii/">
 				<h5>The missing heavy iron isotopes in Hawaii plume</h5>
 			</a>
-			<p>In the past several years, my most visited states in the US are Arizona and California. During my dozens of flights across the western US, I liked to stare at the vast mountainous lands through the airplane... <a href="{{ site.url }}/research-blog/2023/10/02/hawaii/">Read More</a></p>
+			<p>Hawaii is the most productive active mantle plume with long-been-controversial petrogenesis... <a href="{{ site.url }}/research-blog/2023/10/02/hawaii/">Read More</a></p>
 		</div>
 	</div>
 	
