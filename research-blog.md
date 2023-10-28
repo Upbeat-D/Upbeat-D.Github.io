@@ -46,7 +46,7 @@ permalink: /research-blog/
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/ntsi/global.png" alt="comparison between the proto-continents in the early Archean and present-day continentss">
+		<img class="box-img" src="/images/research/ntsi/global.png" alt="National publication numbers and co-occurrence network diagram of non-traditional stable isotopes research literature">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2017/03/26/when-did-earths-continental-crust-form/">
 				<h5>The past and present of non-traditional stable isotopes: a bibliometric perspective</h5>
