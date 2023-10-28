@@ -32,7 +32,7 @@ permalink: /research-blog/
 			<a href="{{ site.url }}/research-blog/2023/08/12/himu/">
 				<h5>Iron isotopes point to the lithology of the HIMU component</h5>
 			</a>
-			<p>Iron (Fe) is one of the elements that we are most familiar with. It is a critical resource that drives modern civilization. We use things (partially) made of Fe everyday, from forks and spoons in the kitchen, cars on the road, frame structures of buildings, to rockets flying into... <a href="{{ site.url }}/research-blog/2023/08/12/himu/">Read More</a></p>
+			<p>The significant variation of long-lived radiogenic isotope compositions in oceanic basalts indicates a highly heterogeneous mantle, and the classic HIMU component stands out for its extremely radiogenic lead isotopic composition ... <a href="{{ site.url }}/research-blog/2023/08/12/himu/">Read More</a></p>
 		</div>
 	</div>
 	
