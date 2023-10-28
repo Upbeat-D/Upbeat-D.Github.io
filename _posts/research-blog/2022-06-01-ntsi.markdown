@@ -7,14 +7,36 @@ image: images/research/ntsi/global.png
 ---
 
 {:#DropCap}
-<!-- adding {:#DropCap} above will make first letter of first word CAPITAL and Large -->
-This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea.
+<!-- adding {:#DropCap} above will make first letter of first word CAPITAL and Large -->Since this century, the booming development of non-traditional stable isotopes has become one of the most striking advances in geochemistry. Various isotope systems have been successively developed and applied in fields such as solid earth science, planetary geochemistry, and low-temperature geological processes, and have made remarkable progress.
 
-When did Earth’s continental crust form? This question may be rephrased as when did Earth’s crust composition change from mafic to felsic. Magnesium oxide content is a first order index of silicate rock composition. If we can track how MgO content changed in the crust as a function of time, we know when the felsic crust formed. However, it’s difficult to obtain the MgO content in the crust directly since much of the ancient crust has been destroyed. Ancient terrigenous sediments provide a means of extracting the average composition of the ancient upper crust, but this method only works for insoluble elements and MgO is highly soluble. To bypass this problem, I found ratios of insoluble elements that correlate with MgO content during igneous differentiation (i.e., Ni/Co and Cr/Zn). These ratios can then be determined in sedimentary rocks, which provide an average of the rocks exposed to weathering and erosion, to back calculate the apparent MgO content in the average upper crust. It worked, and I found a major transition about 3.0−2.5 billion years ago. Because producing voluminous felsic rocks requires subduction, this crustal compositional change also constrains the onset of plate tectonics to be within this time window.
+This project was suggested by one of my advisors, Li-Hui Chen. We reconstruct the progress of the non-traditional stable isotopes through bibliometrics. A total of 4111 relevant documents were included in the statistics.
 
-The best training experiences of this project came after the paper was published. I got at least five invitations to talk about this work. At first, I felt nervous to talk about these radical results, but after these many rounds of practice, I became more confident and better at keeping things under control in the face of challenges from the audience.
-
-![comparison between the proto-continents in the early Archean and present-day continents]({{ site.url }}/images/posts/early-archean-vs-present-continents.png)
+![fig1]({{ site.url }}/images/research/ntsi/fig1.png)
 
 {:#caption}
-**Fig. 1**. A size-composition comparison between the proto-continents in the early Archean (>3 billion years ago) and present-day continents. The distribution and shapes of the early Archean proto-continents shown here are not real. The green color of the early Archean ocean indicates high Fe (II) contents in the seawater at that time. Fe (II) is an ion that makes a green solution.
+**Fig. 1**. Numbers of publications of 15 isotopes.
+
+![3stages]({{ site.url }}/images/research/ntsi/3stages.png)
+
+{:#caption}
+**Fig. 2**. Number of papers in the field of non-traditional stable isotopes by different countries. Switzerland dropped out of the top five, and the proportions of the United Kingdom, Germany, and France were basically stable. The share of the United States continues to decline, and China catches up from behind.
+
+![journals]({{ site.url }}/images/research/ntsi/journals.png)
+
+{:#caption}
+**Fig. 3**. The three journals that publish the most papers on non-traditional stable isotopes. Reflecting the academic community’s strong interest in the field of non-traditional stable isotopes
+
+![global]({{ site.url }}/images/research/ntsi/global.png)
+
+{:#caption}
+**Fig. 4**. The number of papers and co-occurrence density in different countries. The size of the circle represents the number of papers, and the thickness of the line represents the closeness of the relationship.
+
+![countries]({{ site.url }}/images/research/ntsi/countries.png)
+
+{:#caption}
+**Fig. 5**. Since the proportions of the United Kingdom, France, and Germany have remained basically unchanged in several stages, while the proportions of the United States and China have changed greatly, we compare them in groups. Also analyze the ratio of the number of NI papers to the total number of papers.
+
+![affiliations]({{ site.url }}/images/research/ntsi/affiliations.png)
+
+{:#caption}
+**Fig. 6**. The top ten international institutions and Chinese institutions with the highest number of papers also show the proportion of NI papers to all papers.

@@ -42,7 +42,7 @@ permalink: /research-blog/
 			<a href="{{ site.url }}/research-blog/2022/06/01/ntsi/">
 				<h5>The past and present of non-traditional stable isotopes: a bibliometric perspective</h5>
 			</a>
-			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea. When... <a href="{{ site.url }}/research-blog/2022/06/01/ntsi/">Read More</a></p>
+			<p>Since this century, the booming development of non-traditional stable isotopes has become one of the most striking advances in geochemistry... <a href="{{ site.url }}/research-blog/2022/06/01/ntsi/">Read More</a></p>
 		</div>
 	</div>
 
