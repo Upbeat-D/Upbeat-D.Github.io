@@ -7,6 +7,18 @@ categories: photography
 image: /images/photography/Wugong/Wugong-10.jpg
 ---
 
+I have always longed for mountains and wilderness, so I took the train to Changsha with an unseating ticket, where I would transfer to Pingxiang 15 hours later and start my first trek in my life. Along the way, people chatted, played cards, and quarreled. I didn't sleep well. But when I set foot on the land of Pingxiang, I saw the blue sky, green vegetation, and my lungs were filled with the fragrance of rice. My fatigue and exhaustion quickly dissipated.
+
+The trail up the mountain from Longfa Villa passes through dense forests. The clear water flows in the mountain stream, the bamboo forest at the foot of the mountain is covered with cicadas, the streamers used for guidance are waving while praying, and the supply station on the way is full of charm. The moment I walked out of the dense forest, I saw the setting sun giving the mountains a layer of warm color, and the meadows swaying with the evening breeze. There is only the sound of rustling grass and trees in my ears, which is the long-lost peace and calm. Find a piece of flat land, pitch a tent, cook a pot of instant noodles, and watch the starry sky. This is a procedure I have rehearsed in my mind several times, and we executed it one by one.
+
+No matter how tired you were the day before, no matter how bad your sleep was the night before, you will always look forward to the moment you open the tent the next morning. This is the charm of trek. I opened my outer tent, and the cool mountain breeze poured into my coat, waking me up instantly. The green grass all over the mountains and plains exuded its unique fragrance, the sea of orange-red clouds rolled in the distance, and the sun gradually rose. The sky is clear and the air is clear, the breeze is gentle and smooth.
+
+I packed up my things and continued to set off. The next section was the core landscape of Wugong Mountain - the alpine meadow. I was full of expectations. The trail passes through the beautiful and continuous Wugong Mountain. Occasionally, you can see strange rocks and vigorous larches, and unknown wild flowers are often dotted among them. Unlike the clear sky in the morning, the sky changed in the afternoon, which was good, so I could see Wugong Mountain with a different appearance. In Wugong Mountain, the other side of the mountain is still the top of the mountain. I kept walking, conquered mountains one after another, and passed groups of people. Along the way, talking and encouraging each other with people of different ages and backgrounds often made the journey less difficult. Finally, I reached the Golden Summit. After hiking for 26 kilometers, I took the ropeway down the mountain. The Buddhist temple at the foot of the mountain was simple and quiet, and I took a rest there.
+
+I thought I would burst out with strong emotions when I reached the top, but I didn’t. Three or four days later, when I sorted out the photos, the feelings I felt at that time had almost dissipated, but the extremely chaotic mood before the trip seemed to have a little more peace.
+
+The return trip also stopped in Changsha. I visited the International Financial Center in a dusty way, looked for rice noodles in the alleys, climbed Yuelu Mountain at night, drank with strangers at youth hostel, watched old people fishing on the banks of the Xiangjiang River, and rode an electric car to catch the high-speed train.
+
 <div class="img-parent">
     <img src="/images/photography/Wugong/Wugong-01.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
 </div>
