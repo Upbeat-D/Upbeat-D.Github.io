@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Research Blog
-description: Looking from space, one could be fascinated by our planet in many ways— its vast blue oceans, its complicated and continuously changing cloud patterns, and another feature that can be hardly missed—the green and brown landmasses that patch on the blue background—the continents.
 permalink: /research-blog/
-image: images/posts/early-archean-vs-present-continents.png
 ---
 
 <div class="page-content wc-container">
 	<h5>Heterogeneous mantle</h5>  
 	<hr>
-	<p id="DropCap">The mantle, Earth’s largest geochemical reservoir and primary source of volcanism, shows great heterogeneity on different magnitude and length scale. Current geochemical evidence indicates that the heterogeneity could be attributed to the recycling of crustal materials during the plate tectonic cycle. This unique mechanism set Earth apart from its close cousins in the solar system, by linking both the materials and energy of the interior and exterior of this planet. If the Earth did not have this unique dynamic, our planet would look drastically different today. The formation of the felsic continental crust, vital for habitability, might never have occurred. Instead, a mafic crust would dominate, potentially depleting the essential oxygen we rely on for life.</p>
-		</p>
+	<p id="DropCap">The mantle, Earth’s largest geochemical reservoir and primary source of volcanism, shows great heterogeneity on different magnitude and length scale. Current geochemical evidence indicates that the heterogeneity could be attributed to the recycling of crustal materials during the plate tectonic cycle. This unique mechanism set Earth apart from its close cousins in the solar system, by linking both the materials and energy of the interior and exterior of this planet. If the Earth did not have this unique dynamic, our planet would look drastically different today. The formation of the felsic continental crust, vital for habitability, might never have occurred. Instead, a mafic crust would dominate, potentially depleting the essential oxygen we rely on for life.
+	</p>
 	<p style="margin-bottom:48px">
 	What is the role of mantle in shaping our habitable planet? Precise and accurate knowledge of its composition and evolution may help to reconstruction of the evolution of our planet. Over the past two or three years, I have focused on understanding mantle heterogeneity and its formation and evolution through geochemistry and non-traditional stable isotopes. Simultaneously, I am deeply intrigued by exploring the mantle's impact on the evolution of Earth's crust, particularly its influence on the planet's habitability.
 	</p>
 	<hr style="margin-bottom:48px">
+
 
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/IMG00276-thumb.JPG" alt="nbta">
@@ -47,7 +46,7 @@ image: images/posts/early-archean-vs-present-continents.png
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/global.png" alt="comparison between the proto-continents in the early Archean and present-day continentss">
+		<img class="box-img" src="/images/ntsi/global.png" alt="comparison between the proto-continents in the early Archean and present-day continentss">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2017/03/26/when-did-earths-continental-crust-form/">
 				<h5>The past and present of non-traditional stable isotopes: a bibliometric perspective</h5>
