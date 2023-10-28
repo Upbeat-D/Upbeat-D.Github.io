@@ -3,7 +3,7 @@ layout: post
 title: Iron isotopes point to the lithology of the HIMU component
 date: 2023-08-12 07:00:00
 categories: research-blog
-image: images/research/himu/endmember.jpg
+image: images/research/himu/endmember.png
 ---
 
 {:#DropCap}
@@ -13,8 +13,7 @@ The famous HIMU (high μ = <sup>238</sup>U/<sup>204</sup>Pb) component in the ma
 The δ<sup>57</sup>Fe<sub>corr</sub> values of all OIBs from the type localities for the several mantle components obviously exhibit a negative correlation with radiogenic Nd and Hf isotopic compositions **(Fig. 1).** The combining of Fe stable isotopes and long-live radiogenic isotopes on OIBs offer new insights for the ancient crust-mantle process and related mantle dynamics: (1) the heterogeneity in radiogenic isotopic compositions of the mantle is closely linked to the lithological heterogeneity; (2) the variable Fe isotopic compositions of OIBs can reflect the different fates of recycled crustal materials in the mantle. Some recycled crustal materials have been directly incorporated into the mantle source of OIBs, while others have indirectly contributed to the generation of OIBs through processes like metasomatism.
 
 <div class="img-parent">
-<img src="/images/research/himu/endmember.jpg" alt="endmember OIBs" style="height:100%;width:100%;"/>
+<img src="/images/research/himu/endmember.png" alt="endmember OIBs" style="height:100%;width:100%;"/>
 </div>
-
 {:#caption}
 **Fig. 1**. δ<sup>57</sup>Fe<sub>corr</sub> versus (A) ε<sub>Nd</sub> and (B)ε<sub>Hf</sub> for Cook-Austral samples. Also shown are literature data for endmember OIBs from St. Helena, Louisville, Pitcairn and Samoa OIBs.

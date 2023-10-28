@@ -30,7 +30,7 @@ permalink: /research-blog/
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/research/himu/endmember.jpg" alt="HIMU">
+		<img class="box-img" src="/images/research/himu/endmember.png" alt="HIMU">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2023/08/12/himu/">
 				<h5>Iron isotopes point to the lithology of the HIMU component</h5>
