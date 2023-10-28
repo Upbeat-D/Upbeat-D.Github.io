@@ -7,22 +7,29 @@ categories: photography
 image: /images/photography/Beijing/Beijing-05.jpg
 ---
 
+When I was 18 years old, I came to the capital of my country for the first time. Compared with my hometown, this place is much more prosperous. I tirelessly visited many famous places with my camera, Tiananmen, the Forbidden City, Xiangshan Park... I love Beijing
+
 <div class="img-parent">
     <img src="/images/photography/Beijing/Beijing-01.jpg" alt="Beijing-01.jpg" style="height:100%;width:100%;"/>
 </div>
+White lotus flowers and green lotus leaves
 
 <div class="img-parent">
     <img src="/images/photography/Beijing/Beijing-02.jpg" alt="Beijing-02.jpg" style="height:100%;width:100%;"/>
 </div>
+Temple of Heaven
 
 <div class="img-parent">
     <img src="/images/photography/Beijing/Beijing-03.jpg" alt="Beijing-03.jpg" style="height:100%;width:100%;"/>
 </div>
+Since the Palace Museum was closed on the day we visited, we had to go to Xiangshan Park to overlook it. Unexpectedly, this place has become a popular spot for taking photos.
 
 <div class="img-parent">
     <img src="/images/photography/Beijing/Beijing-04.jpg" alt="Beijing-04.jpg" style="height:100%;width:100%;"/>
 </div>
+A corner of the Forbidden City. This perspective is very similar to the one from a costume TV series. I forgot if it was The Legend of Zhen Huan.
 
 <div class="img-parent">
     <img src="/images/photography/Beijing/Beijing-05.jpg" alt="Beijing-05.jpg" style="height:100%;width:100%;"/>
 </div>
+There are many people in front of Tiananmen Square.
