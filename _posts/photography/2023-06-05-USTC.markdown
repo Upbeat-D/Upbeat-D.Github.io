@@ -4,7 +4,7 @@ title: USTC, 2023
 description: Tibet
 date: 2023-06-05 07:00:00
 categories: photography
-image: /images/photography/USTC/USTC-03.jpg
+image: /images/photography/USTC/USTC-10.jpg
 
 ---
 
