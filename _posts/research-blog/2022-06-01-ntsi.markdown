@@ -22,7 +22,7 @@ This project was suggested by one of my advisors, Li-Hui Chen. We reconstruct th
 **Fig. 2**. Number of publications of non-traditional stable isotopes by different countries. Switzerland dropped out of the top five in later 2 stages, and the proportions of the United Kingdom, Germany, and France were basically stable. The share of the United States continues to decline, and China catches up from behind.
 
 <div class="img-parent">
-  <img src="{{ site.url }}/images/research/ntsi/journals.png" style="text-align:center; width:60%; height:60%;">
+  <img src="{{ site.url }}/images/research/ntsi/journals.png" style="text-align:center; width:40%; height:40%;">
 </div>
 {:#caption}
 **Fig. 3**. The three journals that publish the most publications on non-traditional stable isotopes. Reflecting the academic community’s strong interest in non-traditional stable isotopes.
@@ -40,4 +40,4 @@ This project was suggested by one of my advisors, Li-Hui Chen. We reconstruct th
 ![affiliations]({{ site.url }}/images/research/ntsi/affiliations.png)
 
 {:#caption}
-**Fig. 6**. The top ten international institutions and Chinese institutions with the highest number of publications, also show the proportion of NI publications to all publications.
+Fig. 6. The top ten international institutions and Chinese institutions with the highest number of publications, also show the proportion of NI publications to all publications.
