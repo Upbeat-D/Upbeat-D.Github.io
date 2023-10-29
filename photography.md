@@ -55,7 +55,7 @@ image: images/DaLi-11.jpg
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/Street Photography/SP-10.jpg" alt="">
+		<img class="box-img" src="/images/photography/Street Photography/SP-02.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2022/02/10/Street-photography/">
 				<h6>Street Photography, 2017-2022</h6>

@@ -13,7 +13,7 @@ permalink: /research-blog/
 	What is the role of mantle in shaping our habitable planet? Precise and accurate knowledge of its composition and evolution may help to reconstruction of the evolution of our planet. 
 	</p>
 	<p style="margin-bottom:48px">
-    Over the past two years, I have focused on understanding mantle heterogeneity and its formation and evolution through geochemistry and non-traditional stable isotopes. Simultaneously, I cultivated a fasination of exploring the mantle's impact on the evolution of Earth's crust, particularly its influence on the planet's habitability.
+    Over the past two years, I have focused on understanding mantle heterogeneity and its formation and evolution through geochemistry and non-traditional stable isotopes. Meanwhile, I cultivated a fasination of exploring the mantle's impact on the evolution of Earth's crust, particularly its influence on the planet's habitability.
 	</p>
 	<hr style="margin-bottom:48px">
 

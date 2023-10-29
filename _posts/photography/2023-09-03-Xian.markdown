@@ -7,6 +7,8 @@ categories: photography
 image: /images/photography/XiAn/XiAn-07.jpg
 ---
 
+Time is flying by and if the application goes well, I'll be leaving Xi'an next June. I've spent an unforgettable 7 years here. Many things have changed. I lost contact with many friends, but gradually I knew what I wanted to do in the future.
+
 <div class="img-parent">
 <img src="/images/photography/XiAn/XiAn-01.jpg" style="height:100%;width:100%;"/>
 </div>

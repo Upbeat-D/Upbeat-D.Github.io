@@ -5,13 +5,15 @@ description: Tibet
 date: 2023-06-05 07:00:00
 categories: photography
 image: /images/photography/USTC/USTC-03.jpg
+
 ---
 
-From April to June this year, I visited the University of Science and Technology of China. It is a completely different school from Northwest University.
+From April to June this year, I visited the University of Science and Technology of China. It has a strong science and engineering atmosphere, which is completely different from Northwest University. I often go to 1948 Cafe to drink iced Americano. The bitter taste can calm my mood. When I'm not in the lab, I hang out on campus or take their courses. Unfortunately, during these two months, I did not have the opportunity to visit other places in Hefei.
 
 <div class="img-parent">
 <img src="/images/photography/USTC/USTC-01.jpg" style="height:100%;width:100%;"/>
 </div>
+
 
 <div class="img-parent">
 <img src="/images/photography/USTC/USTC-02.jpg" style="height:60%;width:60%;"/>
