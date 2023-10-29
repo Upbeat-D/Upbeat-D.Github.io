@@ -28,7 +28,7 @@ image: images/DaLi-11.jpg
 		<img class="box-img" src="/images/photography/XiAn/XiAn-07.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2023/09/03/Xian/">
-				<h6>Xi'an, 2017--2023</h6>
+				<h6>A Xi'an collection</h6>
 			</a>
 			<p>Time is flying by and if the application goes well, I'll be leaving Xi'an next June. I've spent an unforgettable 7 years here, and this compilation is a collection of photos I took in Xi'an... <a href="{{ site.url }}/photography/2023/09/03/Xian/">Read More</a></p>
 		</div>

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: WuGong 
-description: WuGong 
+title: Hiking in the WuGong Mountain 
 date: 2023-08-18 07:00:00
 categories: photography
 image: /images/photography/Wugong/Wugong-10.jpg
