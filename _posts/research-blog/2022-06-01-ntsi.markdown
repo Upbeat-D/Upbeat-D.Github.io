@@ -40,4 +40,4 @@ This project was suggested by one of my advisors, Li-Hui Chen. We reconstruct th
 ![affiliations]({{ site.url }}/images/research/ntsi/affiliations.png)
 
 {:#caption}
-Fig. 6. The top ten international institutions and Chinese institutions with the highest number of publications, also show the proportion of NI publications to all publications.
+**Fig. 6.** The top ten international institutions and Chinese institutions with the highest number of publications, also show the proportion of NI publications to all publications.
