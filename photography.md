@@ -10,7 +10,7 @@ image: images/DaLi-11.jpg
 <img src="/images/fengmian.jpg" alt="WuGong Mountain, PingXiang, JiangXi"/>
 
 <div class="page-content wc-container">
-	<p>I take photography as a hobby and I like to use photos to record interesting moments in my life. Photography is also a way for me to express my ideas.</p>
+	<p>I have a deep love for both nature photography and street photography. Typically, I use photographs and words to capture and document meaningful moments in my life. Lately, I've developed a strong affection for trekking, and I aspire to explore diverse locations for both trekking and photography in the future.</p>
 	<hr style="margin-bottom:48px">
 
 
