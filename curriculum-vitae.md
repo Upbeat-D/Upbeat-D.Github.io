@@ -24,7 +24,7 @@ image: images/tang.jpg
 
 ###### <a name="publications-2020"></a>2023
 
-**Dai, C.-C.**, Xiao-Jun, W., Chen, L.-H., Hanyu, T., Zhang, X.-Y., Zeng, G., & Xie, L.-W. (202X). Iron isotopic compositions of HIMU ocean island basalts: implications for the mantle source lithology. *Submitted to Lithos.* 	
+**Dai, C.-C.**, Xiao-Jun, W., Chen, L.-H., Hanyu, T., Zhang, X.-Y., Zeng, G., & Xie, L.-W. (202X). Iron isotopic compositions of HIMU ocean island basalts: implications for the mantle source lithology.  *Peer review in process.* 	
 
 
 
