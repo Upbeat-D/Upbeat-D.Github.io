@@ -15,6 +15,16 @@ image: images/DaLi-11.jpg
 
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/wander/2.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2023/11/18/wander/">
+				<h6>A wander to Huaqing palace</h6>
+			</a>
+			<p>On this day, I was interviewed by Roberta. This was my first interview. In the afternoon, I went to Huaqing Palace to hang out... <a href="{{ site.url }}/photography/2023/11/18/wander/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/NWU/NWU-07.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2023/10/05/NWU/">
