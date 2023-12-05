@@ -50,7 +50,7 @@ image: images/DaLi-11.jpg
 			<a href="{{ site.url }}/photography/2023/08/18/Wugong-Mountain/">
 				<h6>Hiking in the WuGong Mountain</h6>
 			</a>
-			<p>This August, I hiked with Xin in Mt. Wugong, and then, I visi Changsha alone... <a href="{{ site.url }}/photography/2023/08/18/Wugong-Mountain/">Read More</a></p>
+			<p>This August, I hiked with Xin in Mt. Wugong, and then, I visit Changsha alone... <a href="{{ site.url }}/photography/2023/08/18/Wugong-Mountain/">Read More</a></p>
 		</div>
 	</div>
 	
