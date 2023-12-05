@@ -15,7 +15,7 @@ image: images/DaLi-11.jpg
 
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/wander/2.jpg" alt="">
+		<img class="box-img" src="/images/photography/wander/2.JPG" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2023/11/18/wander/">
 				<h6>A wander to Huaqing palace</h6>

@@ -8,41 +8,41 @@ image: /images/photography/wander/2.JPG
 ---
 
 <div class="img-parent">
-<img src="/images/photography/wander/1.jpg" style="height:100%;width:100%;"/>
+<img src="/images/photography/wander/1.JPG" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/wander/2.jpg" style="height:100%;width:100%;"/>
+<img src="/images/photography/wander/2.JPG" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/wander/3.jpg" style="height:100%;width:100%;"/>
+<img src="/images/photography/wander/3.JPG" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/wander/4.jpg" style="height:100%;width:100%;"/>
+<img src="/images/photography/wander/4.JPG" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/wander/5.jpg" style="height:100%;width:100%;"/>
+<img src="/images/photography/wander/5.JPG" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/wander/6.jpg" style="height:100%;width:100%;"/>
+<img src="/images/photography/wander/6.JPG" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/wander/7.jpg" style="height:100%;width:100%;"/>
+<img src="/images/photography/wander/7.JPG" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/wander/8.jpg" style="height:100%;width:100%;"/>
+<img src="/images/photography/wander/8.JPG" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/wander/9.jpg" style="height:100%;width:100%;"/>
+<img src="/images/photography/wander/9.JPG" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/wander/10.jpg" style="height:100%;width:100%;"/>
+<img src="/images/photography/wander/10.JPG" style="height:100%;width:100%;"/>
 </div>
