@@ -21,16 +21,6 @@ permalink: /research-blog/
 
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/research/hawaii/map.png" alt="hawaii">
-		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2023/10/02/hawaii/">
-				<h5>The missing heavy iron isotopes in Hawaii plume</h5>
-			</a>
-			<p>Hawaii is the most productive active mantle plume with long-been-controversial petrogenesis... <a href="{{ site.url }}/research-blog/2023/10/02/hawaii/">Read More</a></p>
-		</div>
-	</div>
-	
-	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/research/himu/endmember.png" alt="HIMU">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2023/08/12/himu/">
