@@ -15,6 +15,16 @@ image: images/DaLi-11.jpg
 
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/2024-6-15-CLL/CLL-4.JPG" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2024/6/15/Mount-Caolianling/">
+				<h6>Mount Caolianling</h6>
+			</a>
+			<p>This is my first time climbing a mountain with Roe... <a href="{{ site.url }}photography/2024/6/15/Mount-Caolianling/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/wander/2.JPG" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2023/11/18/wander/">
