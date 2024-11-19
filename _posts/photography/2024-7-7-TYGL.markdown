@@ -7,9 +7,7 @@ categories: photography
 image: /images/photography/2024-7-7-TYGL/TYGL-7.JPG
 ---
 
-以下是修改后的代码，地址已替换为新的路径，且数字从1到11：
 
-```html
 <div class="img-parent">
     <img src="/images/photography/2024-7-7-TYGL/TYGL-1.JPG" style="height:100%;width:100%;"/>
 </div>
@@ -43,4 +41,3 @@ image: /images/photography/2024-7-7-TYGL/TYGL-7.JPG
 <div class="img-parent">
     <img src="/images/photography/2024-7-7-TYGL/TYGL-11.JPG" style="height:100%;width:100%;"/>
 </div>
-```
