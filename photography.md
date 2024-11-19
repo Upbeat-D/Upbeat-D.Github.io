@@ -29,7 +29,7 @@ image: images/DaLi-11.jpg
     <img class="box-img" src="/images/photography/2024-8-19-ASNB/ASNB-1.JPG" alt="">
     <div class="box-text">
         <a href="{{ site.url }}/photography/2024/08/19/ASNB/">
-            <h6>Climing Mt. Aoshan</h6>
+            <h6>Climbing Mt. Aoshan</h6>
         </a>
         <p>
            The second highest peak in Shaanxi...

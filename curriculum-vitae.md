@@ -22,7 +22,7 @@ image: images/tang.jpg
 
 ---
 
-###### <a name="publications-2020"></a>2023
+###### <a name="publications-2024"></a>2024
 
 **Dai, C.-C.**, Wang, X.-J., Chen, L.-H., Hanyu, T., Zhang, X.-Y., Zeng, G., & Xie, L.-W. (2024). Iron isotopic compositions of HIMU Ocean island basalts: Implications for the mantle source lithology. Lithos, 107531.  <a class="paperdl" target="_blank" href="/publications/2024-Dai-Lithos.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
