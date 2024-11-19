@@ -15,14 +15,13 @@ image: images/DaLi-11.jpg
 <div class="page-content wc-container">
     <p>I have a deep love for both nature photography and street photography. Typically, I use photographs and words to capture and document meaningful moments in my life. Lately, I've developed a strong affection for trekking, and I aspire to explore diverse locations for both trekking and photography in the future.</p>
     <hr style="margin-bottom:48px">
-
 <div class="post-box" style="margin-bottom:48px">
         <img class="box-img" src="/images/photography/2024-10-14-DPL/DPL-8.JPG" alt="">
         <div class="box-text">
             <a href="{{ site.url }}/photography/2024/10/14/DPL/">
                 <h6>Climbing Mt. Dingpengliang</h6>
             </a>
-            <p>This mountain is one of the most intense routes in the Qinling Mountains and is famous for its stunning autumn scenery.... <a href="{{ site.url }}/photography/2024/10/14/DPL/">Read More</a></p>
+            <p>A mountain that is very suitable for viewing autumn scenery, with an altitude of 3,400 meters... <a href="{{ site.url }}/photography/2024/10/14/DPL/">Read More</a></p>
         </div>
 </div>
 
@@ -33,11 +32,12 @@ image: images/DaLi-11.jpg
             <h6>Climing Mt. Aoshan</h6>
         </a>
         <p>
-            Climb Aoshan Mountain, which is connected to Taibai Mountain to form the famous "Aotai Crossing", also known as the "Chinese Dragon's Backbone" by hikers. It is one of the hiking routes with the highest mortality rate in China....
+           The second highest peak in Shaanxi...
             <a href="{{ site.url }}/photography/2024/08/19/ASNB/">Read More</a>
         </p>
     </div>
 </div>
+
 
 
 <div class="post-box" style="margin-bottom:48px">
@@ -46,7 +46,7 @@ image: images/DaLi-11.jpg
             <a href="{{ site.url }}/photography/2024/07/25/LJL/">
                 <h6>Climbing Mt. Lujiaoliang</h6>
             </a>
-            <p>Climbing Lujiaoliang in Qinling Mountains at night, this mountain is known as one of the most beautiful secret places in Qinling Mountains. It is 28 kilometers round trip. It was quite exhausting, but it was totally worth it.... <a href="{{ site.url }}/photography/2024/07/25/LJL/">Read More</a></p>
+            <p>The most beautiful secret place in Qinling Mountains, shaped like deer antlers... <a href="{{ site.url }}/photography/2024/07/25/LJL/">Read More</a></p>
         </div>
 </div>
 
@@ -58,18 +58,21 @@ image: images/DaLi-11.jpg
         <a href="{{ site.url }}/photography/2024/07/07/TYGL/">
             <h6>Taiyang Road</h6>
         </a>
-        <p>Drive along the Taiyang Highway, which runs from north to south through the Qinling Mountains. Most of the road is built along Aoshan Mountain. It is very spectacular.... <a href="{{ site.url }}/photography/2024/07/07/TYGL/">Read More</a></p>
+        <p>One of the most beautiful mountain roads in Qinling Mountains... <a href="{{ site.url }}/photography/2024/07/07/TYGL/">Read More</a></p>
     </div>
 </div>
+
+
 <div class="post-box" style="margin-bottom:48px">
         <img class="box-img" src="/images/photography/2024-06-15-CLL/CLL-4.JPG" alt="">
         <div class="box-text">
             <a href="{{ site.url }}/photography/2024/06/15/CLL/">
                 <h6>Climbing Mt. Caolianling</h6>
             </a>
-            <p>This is my first time climbing a mountain with Roe... <a href="{{ site.url }}/photography/2024/06/15/CLL/">Read More</a></p>
+            <p>This is my first time climbing a mountain with Koala... <a href="{{ site.url }}/photography/2024/06/15/CLL/">Read More</a></p>
         </div>
 </div>
+
 
 <div class="post-box" style="margin-bottom:48px">
     <img class="box-img" src="/images/photography/wander/2.JPG" alt="">
