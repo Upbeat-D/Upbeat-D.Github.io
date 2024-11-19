@@ -1,0 +1,36 @@
+---
+layout: post
+title: Climbing Mt. Dingpengliang
+description: expeditions
+date: 2024-10-14
+categories: photography
+image: /images/photography/2024-10-14-DPL/DPL-6.JPG
+---
+
+<div class="img-parent">
+    <img src="/images/photography/2024-10-14-DPL/DPL-1.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-10-14-DPL/DPL-2.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-10-14-DPL/DPL-3.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-10-14-DPL/DPL-4.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-10-14-DPL/DPL-5.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-10-14-DPL/DPL-6.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-10-14-DPL/DPL-7.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-10-14-DPL/DPL-8.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-10-14-DPL/DPL-9.JPG" style="height:100%;width:100%;"/>
+</div>

@@ -1,0 +1,36 @@
+---
+layout: post
+title: Climing Mt. Aoshan
+description: expeditions
+date: 2024-8-19
+categories: photography
+image: /images/photography/2024-8-19-ASNB/ASNB-4.JPG
+---
+
+<div class="img-parent">
+    <img src="/images/photography/2024-8-19-ASNB/ASNB-1.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-8-19-ASNB/ASNB-2.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-8-19-ASNB/ASNB-3.JPG" style="height:80%;width:80%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-8-19-ASNB/ASNB-4.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-8-19-ASNB/ASNB-5.JPG" style="height:80%;width:80%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-8-19-ASNB/ASNB-6.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-8-19-ASNB/ASNB-7.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-8-19-ASNB/ASNB-8.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-8-19-ASNB/ASNB-9.JPG" style="height:100%;width:100%;"/>
+</div>

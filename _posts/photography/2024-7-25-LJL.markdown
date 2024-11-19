@@ -1,0 +1,36 @@
+---
+layout: post
+title: Climbing Mt. Lujiaoliang
+description: expeditions
+date: 2024-7-25
+categories: photography
+image: /images/photography/2024-7-25-LJL/LJL-4.JPG
+---
+
+<div class="img-parent">
+    <img src="/images/photography/2024-7-25-LJL/LJL-1.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-7-25-LJL/LJL-2.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-7-25-LJL/LJL-3.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-7-25-LJL/LJL-4.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-7-25-LJL/LJL-5.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-7-25-LJL/LJL-6.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-7-25-LJL/LJL-7.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-7-25-LJL/LJL-8.JPG" style="height:100%;width:100%;"/>
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-7-25-LJL/LJL-9.JPG" style="height:100%;width:100%;"/>
+</div>
