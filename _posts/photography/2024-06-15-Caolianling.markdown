@@ -20,7 +20,7 @@ image: /images/photography/2024-06-15-CLL/CLL-4.JPG
 </div>
 
 <div class="img-parent">
-<img src="images/photography/2024-06-15-CLL/CLL-4.JPG" style="height:100%;width:100%;"/>
+<img src="/images/photography/2024-06-15-CLL/CLL-4.JPG" style="height:100%;width:100%;"/>
 </div>
 
 <div class="img-parent">
