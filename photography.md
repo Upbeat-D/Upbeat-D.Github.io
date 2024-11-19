@@ -26,8 +26,8 @@ image: images/DaLi-11.jpg
         </div>
 </div>
 <div class="post-box" style="margin-bottom:48px; display: flex; align-items: center;">
-    <img class="box-img" src="/images/photography/2024-8-19-ASNB/ASNB-4.JPG" alt="" style="max-width: 50%; height: auto;">
-    <div class="box-text" style="margin-left: 16px;">
+    <img class="box-img" src="/images/photography/2024-8-19-ASNB/ASNB-4.JPG" alt="">
+    <div class="box-text">
         <a href="{{ site.url }}/photography/2024/08/19/ASNB/">
             <h6>Climing Mt. Aoshan</h6>
         </a>
@@ -36,7 +36,7 @@ image: images/DaLi-11.jpg
             <a href="{{ site.url }}/photography/2024/08/19/ASNB/">Read More</a>
         </p>
     </div>
-</div>
+</div>
 
 
 
