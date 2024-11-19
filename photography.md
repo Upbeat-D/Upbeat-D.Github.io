@@ -17,7 +17,7 @@ image: images/DaLi-11.jpg
     <hr style="margin-bottom:48px">
 
 <div class="post-box" style="margin-bottom:48px">
-        <img class="box-img" src="/images/photography/2024-10-14-DPL/DPL-6.JPG" alt="">
+        <img class="box-img" src="/images/photography/2024-10-14-DPL/DPL-8.JPG" alt="">
         <div class="box-text">
             <a href="{{ site.url }}/photography/2024/10/14/DPL/">
                 <h6>Climbing Mt. Dingpengliang</h6>
@@ -25,8 +25,9 @@ image: images/DaLi-11.jpg
             <p>This mountain is one of the most intense routes in the Qinling Mountains and is famous for its stunning autumn scenery.... <a href="{{ site.url }}/photography/2024/10/14/DPL/">Read More</a></p>
         </div>
 </div>
-<div class="post-box" style="margin-bottom:48px; display: flex; align-items: center;">
-    <img class="box-img" src="/images/photography/2024-8-19-ASNB/ASNB-4.JPG" alt="">
+
+<div class="post-box" style="margin-bottom:48px">
+    <img class="box-img" src="/images/photography/2024-8-19-ASNB/ASNB-1.JPG" alt="">
     <div class="box-text">
         <a href="{{ site.url }}/photography/2024/08/19/ASNB/">
             <h6>Climing Mt. Aoshan</h6>
@@ -36,8 +37,7 @@ image: images/DaLi-11.jpg
             <a href="{{ site.url }}/photography/2024/08/19/ASNB/">Read More</a>
         </p>
     </div>
-</div>
-
+</div>
 
 
 <div class="post-box" style="margin-bottom:48px">
