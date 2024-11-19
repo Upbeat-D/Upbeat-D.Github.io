@@ -25,21 +25,6 @@ image: images/DaLi-11.jpg
             <p>This mountain is one of the most intense routes in the Qinling Mountains and is famous for its stunning autumn scenery.... <a href="{{ site.url }}/photography/2024/10/14/DPL/">Read More</a></p>
         </div>
 </div>
-<div class="post-box" style="margin-bottom:48px; display: flex; align-items: center; justify-content: center; height: 300px;">
-    <img class="box-img" src="/images/photography/2024-8-19-ASNB/ASNB-4.JPG" alt="" style="max-width: 100%; max-height: 100%;">
-    <div class="box-text" style="margin-left: 16px;">
-        <a href="{{ site.url }}/photography/2024/08/19/ASNB/">
-            <h6>Climing Mt. Aoshan</h6>
-        </a>
-        <p>
-            Climb Aoshan Mountain, which is connected to Taibai Mountain to form the famous "Aotai Crossing", also known as the "Chinese Dragon's Backbone" by hikers. It is one of the hiking routes with the highest mortality rate in China....
-            <a href="{{ site.url }}/photography/2024/08/19/ASNB/">Read More</a>
-        </p>
-    </div>
-</div>
-
-
-
 <div class="post-box" style="margin-bottom:48px; display: flex; align-items: center;">
     <img class="box-img" src="/images/photography/2024-8-19-ASNB/ASNB-4.JPG" alt="" style="max-width: 50%; height: auto;">
     <div class="box-text" style="margin-left: 16px;">
@@ -53,6 +38,17 @@ image: images/DaLi-11.jpg
     </div>
 </div>
 
+
+
+<div class="post-box" style="margin-bottom:48px">
+        <img class="box-img" src="/images/photography/2024-7-25-LJL/LJL-4.JPG" alt="">
+        <div class="box-text">
+            <a href="{{ site.url }}/photography/2024/07/25/LJL/">
+                <h6>Climbing Mt. Lujiaoliang</h6>
+            </a>
+            <p>Climbing Lujiaoliang in Qinling Mountains at night, this mountain is known as one of the most beautiful secret places in Qinling Mountains. It is 28 kilometers round trip. It was quite exhausting, but it was totally worth it.... <a href="{{ site.url }}/photography/2024/07/25/LJL/">Read More</a></p>
+        </div>
+</div>
 
 
 
