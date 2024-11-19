@@ -10,7 +10,7 @@ image: images/DaLi-11.jpg
 
 <!-- panorama photos -->
 
-<img src="/images/photography/2024-8-19-ASNB/ASNB-4.JPG" alt="Mt.  Aoshan"/>
+<img src="/images/photography/2024-7-25-LJL/LJL-4.JPG" alt="Mt. Lujiaoliang"/>
 
 <div class="page-content wc-container">
     <p>I have a deep love for both nature photography and street photography. Typically, I use photographs and words to capture and document meaningful moments in my life. Lately, I've developed a strong affection for trekking, and I aspire to explore diverse locations for both trekking and photography in the future.</p>
