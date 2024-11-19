@@ -12,7 +12,7 @@ image: /images/photography/2024-06-15-CLL/CLL-4.JPG
 </div>
 
 <div class="img-parent">
-<img src="/images/photography/2024-06-15-CLL/CLL-2.JPG" style="height:80%;width:80%;"/>
+<img src="/images/photography/2024-06-15-CLL/CLL-2.JPG" style="height:70%;width:70%;"/>
 </div>
 
 <div class="img-parent">
