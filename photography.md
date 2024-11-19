@@ -26,13 +26,16 @@ image: images/DaLi-11.jpg
         </div>
 </div>
 
-<div class="post-box" style="margin-bottom:48px; position: relative;">
-    <img class="box-img" src="/images/photography/2024-8-19-ASNB/ASNB-4.JPG" alt="" style="display: block; margin: 0 auto;">
-    <div class="box-text">
+<div class="post-box" style="margin-bottom:48px; display: flex; align-items: center; justify-content: center; height: 300px;">
+    <img class="box-img" src="/images/photography/2024-8-19-ASNB/ASNB-4.JPG" alt="" style="max-width: 100%; max-height: 100%;">
+    <div class="box-text" style="margin-left: 16px;">
         <a href="{{ site.url }}/photography/2024/08/19/ASNB/">
-            <h6>Climbing Mt. Aoshan</h6>
+            <h6>Climing Mt. Aoshan</h6>
         </a>
-        <p>Climb Aoshan Mountain, which is connected to Taibai Mountain to form the famous "Aotai Crossing", also known as the "Chinese Dragon's Backbone" by hikers. It is one of the hiking routes with the highest mortality rate in China.... <a href="{{ site.url }}/photography/2024/08/19/ASNB/">Read More</a></p>
+        <p>
+            Climb Aoshan Mountain, which is connected to Taibai Mountain to form the famous "Aotai Crossing", also known as the "Chinese Dragon's Backbone" by hikers. It is one of the hiking routes with the highest mortality rate in China....
+            <a href="{{ site.url }}/photography/2024/08/19/ASNB/">Read More</a>
+        </p>
     </div>
 </div>
 
