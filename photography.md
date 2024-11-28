@@ -10,10 +10,10 @@ image: images/DaLi-11.jpg
 
 <!-- panorama photos -->
 
-<img src="/images/photography/2024-7-25-LJL/LJL-4.JPG" alt="Mt. Lujiaoliang"/>
+<img src="/images/photography/2024-11-25-DL/DL-1.JPG" alt="Mt. Lujiaoliang"/>
 
 <div class="page-content wc-container">
-    <p>I have a deep love for both nature photography and street photography. Typically, I use photographs and words to capture and document meaningful moments in my life. Lately, I've developed a strong affection for trekking, and I aspire to explore diverse locations for both trekking and photography in the future.</p>
+    <p>Through the artistry of the lens, I preserve each soul-stirring moment, allowing its emotion to resonate through imagery.</p>
     <hr style="margin-bottom:48px">
 
 <div class="post-box" style="margin-bottom:48px">
