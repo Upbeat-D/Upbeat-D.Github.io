@@ -13,7 +13,7 @@ image: images/DaLi-11.jpg
 <img src="/images/photography/2024-11-25-DL/DL-1.JPG" alt="Mt. Lujiaoliang"/>
 
 <div class="page-content wc-container">
-    <p>Through the artistry of the lens, I preserve each soul-stirring moment, allowing its emotion to resonate through imagery.</p>
+    <p>Through the power of the lens, I preserve each soul-stirring moment, allowing its emotion to resonate through imagery.</p>
     <hr style="margin-bottom:48px">
 
 <div class="post-box" style="margin-bottom:48px">
