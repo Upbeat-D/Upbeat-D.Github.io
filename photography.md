@@ -15,6 +15,17 @@ image: images/DaLi-11.jpg
 <div class="page-content wc-container">
     <p>I have a deep love for both nature photography and street photography. Typically, I use photographs and words to capture and document meaningful moments in my life. Lately, I've developed a strong affection for trekking, and I aspire to explore diverse locations for both trekking and photography in the future.</p>
     <hr style="margin-bottom:48px">
+
+<div class="post-box" style="margin-bottom:48px">
+        <img class="box-img" src="/images/photography/2024-11-25-DL/DL-1.JPG" alt="">
+        <div class="box-text">
+            <a href="{{ site.url }}/photography/2024/11/25/DL/">
+                <h6>Climbing Mt. Dongliang</h6>
+            </a>
+            <p>A mountain with stunning snow scenery... <a href="{{ site.url }}/photography/2024/11/25/DL/">Read More</a></p>
+        </div>
+</div>
+
 <div class="post-box" style="margin-bottom:48px">
         <img class="box-img" src="/images/photography/2024-10-14-DPL/DPL-8.JPG" alt="">
         <div class="box-text">
