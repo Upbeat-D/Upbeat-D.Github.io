@@ -2,7 +2,7 @@
 layout: post
 title: Climbing Mt. Lujiaoliang
 description: expeditions
-date: 2024-7-25
+date: 
 categories: photography
 image: /images/photography/2024-7-25-LJL/LJL-4.JPG
 ---
