@@ -2,7 +2,7 @@
 layout: post
 title: Climing Mt. Aoshan
 description: expeditions
-date: 
+date: 2024-8-19
 categories: photography
 image: /images/photography/2024-8-19-ASNB/ASNB-4.JPG
 ---

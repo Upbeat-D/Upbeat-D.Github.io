@@ -2,7 +2,7 @@
 layout: post
 title: Taiyang Road
 description: expeditions
-date: 
+date: 2024-7-7
 categories: photography
 image: /images/photography/2024-7-7-TYGL/TYGL-7.JPG
 ---

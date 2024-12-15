@@ -2,7 +2,7 @@
 layout: post
 title: Mt. Caolianling
 description: expeditions
-date: 
+date: 2024-06-15
 categories: photography
 image: /images/photography/2024-06-15-CLL/CLL-4.JPG
 ---
