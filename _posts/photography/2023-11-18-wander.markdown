@@ -2,7 +2,7 @@
 layout: post
 title: A wander to Huaqing palace
 description: expeditions
-date: 2023-11-18 07:00:00
+date: 2023-11-18
 categories: photography
 image: /images/photography/wander/2.JPG
 ---
