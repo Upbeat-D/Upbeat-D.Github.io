@@ -1,0 +1,59 @@
+---
+layout: post
+title: A NWU collection 
+description: expeditions
+date: 2023-10-05 07:00:00
+categories: photography
+image: /images/photography/NWU/NWU-07.jpg
+---
+
+As a senior master's student, I can feel that many aspects of me are gradually becoming different from the undergraduate student. I once naively thought, "I would remain resilient forever, that nothing could ever knock me down. But when I realized that "life is a slow process of enduring gradual blows and setbacks," and I was in that process, I got lost at some point. I try to learn from Ming, try to be positive and adventurous.
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-01.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-02.jpg" style="height:80%;width:80%;"/>
+</div>
+
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-03.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-04.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-05.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-06.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-07.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-08.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-09.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-10.jpg" style="height:80%;width:80%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-11.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+<img src="/images/photography/NWU/NWU-12.jpg" style="height:100%;width:100%;"/>
+</div>

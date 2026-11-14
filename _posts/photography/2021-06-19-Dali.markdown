@@ -1,0 +1,53 @@
+---
+layout: post
+title: Dali, 2021
+description: Dali
+date: 2021-06-19 07:00:00
+categories: photography
+image: /images/photography/Dali/Dali-10.jpg
+---
+
+I went to high school in Dali for three years. I have some friends there. Dali is not a popular tourist destination for me, but it is like a hometown. When I get too stressed out in the city, I always think of my leisurely time in Dali. This photo collection includes photos I took during my many visits to Dali.
+
+<div class="img-parent">
+    <img src="/images/photography/Dali/Dali-01.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Dali/Dali-02.jpg" style="height:100%;width:100%;"/>
+</div>
+At sunset, the mountains in the distance look like a traditional Chinese ink painting
+
+<div class="img-parent">
+    <img src="/images/photography/Dali/Dali-03.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Dali/Dali-04.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Dali/Dali-05.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Dali/Dali-07.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Dali/Dali-08.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Dali/Dali-09.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Dali/Dali-10.jpg" style="height:100%;width:100%;"/>
+</div>
+
+<div class="img-parent">
+    <img src="/images/photography/Dali/Dali-11.jpg"  style="height:100%;width:100%;"/>
+</div>
+
+

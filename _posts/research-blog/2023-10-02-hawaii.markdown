@@ -1,0 +1,23 @@
+---
+layout: post
+title: The missing heavy iron isotopes in Hawaii plume
+date: 2023-10-02 07:00:00
+categories: research-blog
+image: /images/research/hawaii/map.png
+---
+
+{:#DropCap}
+<!-- adding {:#DropCap} above will make first letter of first word CAPITAL and Large -->
+Hawaii is the most productive active mantle plume with long-been-controversial petrogenesis. It is generally accepted that an olivine-free source component (e.g., secondary pyroxenite or eclogite) contributes 40%–60% of the melts. However, Hawaiian shield tholeiites have MORB-like Fe isotopic compositions, which are significantly lighter than other pyroxenite- or eclogite-derived magmas and are inconsistent with from high-Fo olivine phenocrysts. The δ<sup>57</sup>Fe is lower than it should be with some of the <sup>57</sup>Fe being missing in the Hawaiian plume.
+
+ Recently, some studies have suggested that peridotite-derived melt first crystallized clinopyroxene and garnet at the base of the thick lithosphere (at depths of 100-110 km) beneath the Hawaiian Islands, followed by orthopyroxene assimilation and olivine crystallization in the lithospheric mantle. Although controversial, the fractional crystallization of garnet under high pressure can still explain the oxidation, iron depletion and heavy Fe isotopic composition of calc-alkaline magmas in regions of thick crust. At the same time, Fe isotopes are proving to be an effective tool for identifying the source lithology of oceanic basalts. 
+
+Given the ongoing controversy the origin of the Hawaiian shield tholeiites, we compiled previous data to quantitatively model Fe isotope fractionation during the unique deep magmatism of the Hawaiian shield tholeiites. This research seeks to explore the influence of high-pressure melt-rock reactions on the Fe isotopic composition and redox state of Hawaiian magma.
+
+<div class="img-parent">
+<img src="/images/research/hawaii/fe.png" alt="Fe isotopic compositions of OIBs" />
+</div>
+
+{:#caption}
+**Fig. 1**. Iron isotopic compositions of the global OIBs. The green and gray lines and area represent the range for primitive mantle (δ<sup>57</sup>Fe = 0.05 ± 0.01 ‰, 2SE; Sossi et al., 2016) and N-MORB (δ<sup>57</sup>Fe = 0.15 ± 0.05 ‰, 2SD; Gleeson et al., 2020; Teng et al., 2013), respectively.
+

@@ -1,0 +1,41 @@
+---
+layout: post
+title: Climbing Mt. Dongliang
+description: expeditions
+date: 2024-11-25
+categories: photography
+image: /images/photography/2024-11-25-DL/DL-1.JPG
+---
+
+<div class="img-parent">
+    <img src="/images/photography/2024-11-25-DL/DL-1.JPG" style="height:100%;width:100%;"/> 
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-11-25-DL/DL-2.JPG" style="height:100%;width:100%;"/> 
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-11-25-DL/DL-3.JPG" style="height:100%;width:100%;"/> 
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-11-25-DL/DL-4.JPG" style="height:100%;width:100%;"/> 
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-11-25-DL/DL-5.JPG" style="height:70%;width:70%;"/> 
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-11-25-DL/DL-6.JPG" style="height:100%;width:100%;"/> 
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-11-25-DL/DL-7.JPG" style="height:100%;width:100%;"/> 
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-11-25-DL/DL-8.JPG" style="height:100%;width:100%;"/> 
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-11-25-DL/DL-9.JPG" style="height:100%;width:100%;"/> 
+</div>
+<div class="img-parent">
+    <img src="/images/photography/2024-11-25-DL/DL-10.JPG" style="height:100%;width:100%;"/> 
+</div>
+
+
